@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Meet the STEM Scholars
-permalink: /about/
+permalink: /f/about/
 h1: Meet the STEM Scholars
 ---
 
 <section>
 <!--div class="sectionPicture"-->
-  <img class="sectionPicture" src="/assets/images/Engg5.jpg"> <!-- width=180px height=auto-->
+  <img class="sectionPicture" src="/assets/images/Rayna.jpg"> <!-- width=180px height=auto-->
 <!--/div-->
 <div class="sectionContent">
 
