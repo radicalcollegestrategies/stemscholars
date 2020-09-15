@@ -20,8 +20,10 @@ header {
 .navbar {
   border-top: solid 1px #275da1;
   border-bottom: solid 1px #275da1;
+  padding-top: 7px;
+  padding-bottom: 7px;
   text-align: center;
-  height: 90px;
+  height: 80px;
   width: auto;
   overflow: hidden;
   background-color: #0b325c;
@@ -31,7 +33,7 @@ div.gallery {
   margin: 5px;
   border: 1px solid #275da1;
   float: left;
-  height: 80px;
+  height: 70px;
 }
 
 div.gallery:hover {
