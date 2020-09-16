@@ -108,13 +108,13 @@ td {
   /* border-bottom: 1px solid #000; */
 }
 
-ul.none {
+ul.l1 {
   font-size: 18px;
   line-height: 2;
   list-style-type: none;
 }
 
-ul.circle {
+ul.l2 {
   font-weight: 100;
   font-size: 14px;
   font-style: italic;
@@ -122,29 +122,62 @@ ul.circle {
   list-style-type: none;
 }
 
-/********************** Sections ***************/
-section {
+ul.yes {
+  font-size: 16px;
+  line-height: 1.5;
+  list-style-type: none;
+  text-align:left;
+}
+
+ul.yes li:before { content:"\2713\0020"; } 
+
+/************************* Sections *******************/
+/********** Section for picture & description *********/
+sectionpd {
   padding: 20px 0 0;
   width: 1000px;
 }
 
-section:first-child {
-	border-top: 0;
-}
-
-section:last-child {
-	padding: 20px 0 10px;
-}
-
-.sectionPicture {
+.sectionpdPicture {
   float: left;
-  margin-top: 50px;
+  margin-top: 75px;
+  padding-left: 50px;
+  padding-right: 0px;
   width: 200px;
 }
 
-.sectionContent {
+.sectionpdContent {
   float: left;
   /* width: 100vw-200px; */
-  padding-left: 100px; 
-  min-height: 300px;
+  padding-left: 50px; 
+  min-height: 350px;
+}
+
+/* Clear floats after the section -- need to test TODO */
+sectionpd:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/*************** Section for half and half **************/
+
+section50 {
+  padding: 20px 0 0; /* top is 20, rest are 0 */
+  width: 1000px;
+  text-align:center;
+}
+
+.section50left {
+  float: left;
+  margin-top: 0px;
+  padding-right: 10px;
+  width: 450px;
+}
+
+.section50right {
+  float: left;
+  padding-left: 10px; 
+  padding-right: 20px;
+  min-height: 350px;
+  width: 450px;
 }
