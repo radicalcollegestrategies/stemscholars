@@ -6,7 +6,9 @@ layout: default
 title: STEM Scholars
 permalink: /
 h1: STEM Scholars
-h2: Demystifying STEM for K-12 students
+h2: Achieve excellence in any area of STEM
+#h2: Helping students of all skill levels excel in STEM
+#h2: Demystifying STEM for K-12 students
 ---
 <section50>
   <img class="section50left" style="padding-top: 10px;" src="/assets/images/STEM1.jpeg">
@@ -24,7 +26,7 @@ h2: Demystifying STEM for K-12 students
 
 <section50>
   <div class="section50left">
-    <h2>How will you shape the future with your STEM skills?</h2>
+    <h2>Why should everybody <br>learn STEM?</h2>
     <div style="text-align:center; font-style:italic;"> "75% of today's fastest growing careers require STEM skills."</div> 
 
     <div  style="text-align:center; font-style:italic; padding-top:20px">"We don't yet know what kind of jobs <br> will exist 10, 20, 30 years from now, <br> but with STEM, you're prepared for anything." </div>
