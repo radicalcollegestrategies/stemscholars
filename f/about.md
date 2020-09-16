@@ -6,7 +6,7 @@ h1: Meet the STEM Scholars
 ---
 
 <sectionpd>
-  <img class="sectionpdPicture" src="/assets/images/Rayna.jpg" style="width:200px">
+  <img class="sectionpdPicture" src="/assets/images/Rayna.jpg">
 <div class="sectionpdContent">
 
       <h2> Rayna Arora, President </h2>
