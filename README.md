@@ -1,7 +1,5 @@
-URL: https://stemscholars.github.io/
-
 # STEM Scholars
-Logan School Club
+URL: https://stemscholars.github.io/
 
 # Items
 Launch date: Sept 27
