@@ -7,9 +7,8 @@ Launch date: Sept 27
 * **Intro Video**
   * Motivation: "Define what STEM means for you". "Why do I do STEM" and "What will you learn from this"
   * "Why do I do STEM" -- What interests you to "stay engaged" ? What's your incentive ?
-  * **Need pics, biodata for Rayna, Rachel, Ms. Gina, Mr. Carrezzo**
-  * Need more names for club-members
-* **Ask people for content on: Arduino (Singhals)**
+  * **Need biodata for Rachel, Ms. Gina, Mr. Carrozza**
+* Arduino (Singhals)
 * **Check coding page. See if we can complete the elementary school part from: Logic page, Coding Tutorials (code.org), Coding competitions, Web page design, making apps**
 ## By Sept 27
 * Video Tutorial on Scratch / Blockly
