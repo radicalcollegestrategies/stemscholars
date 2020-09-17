@@ -57,7 +57,9 @@ h1: Meet the STEM Scholars
 <div class="sectionpdContent">
 
 <h2> STEM Scholar Team </h2>
-<ul class="l1"> Leo Cao, Navika Singhal, Annika Patanaik, Yvette Peng, <br> Rachel Fewx</ul>
+<ul class="l1"> Leo Cao, Navika Singhal, <br>
+Annika Patanaik, Ashley Ramirez, Prabhdeep Kaur, Rachel Fewx, <br>
+Riya Dhir, Ronit Dhir, Sheya Lorraine Fang, Yvette Peng</ul>
 
 <h2> Ms. Gina Pacaldo, Advisor </h2>
 <ul class="l1"> 

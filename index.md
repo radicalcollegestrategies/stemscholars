@@ -56,13 +56,11 @@ h2: Achieve excellence in any area of STEM
     <li>We'll help newbees get started in any STEM area,</li>
     <li>and experienced STEMmers figure out the next steps.</li>
     <li>Here you'll find high quality resources for: 
-    <ul class="l2" style="list-style-type: disc;">
+    <ul class="l1" style="list-style-type: disc;">
     <li>elementary, middle and high school students</li>
     <li>beginners, intermediates and experts in STEM</li>
     </ul></li>
     </ul>
-    <div style="text-align:center; font-style:italic; padding-top:5px">
-    Disclaimer: This is not an exhaustive list for everyone. <br> We list resources that may be enough for most students.</div>
 
   </div>
   <img class="section50right" src="/assets/images/VideoComingSoon.jpg">
