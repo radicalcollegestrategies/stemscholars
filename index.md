@@ -37,14 +37,36 @@ h2: Achieve excellence in any area of STEM
 </section50>
 
 <section50>
-  <img class="section50left" style="padding-top: 50px;" src="/assets/images/VideoComingSoon.jpg">
-  <!--div class="section50left" style="padding-top: 50px;">
+  <img class="section50left" style="padding-top: 10px;" src="/assets/images/Maze.jpg">
+  <div class="section50right">
+    <h2>I wanna do STEM but ...</h2> 
+    <ul class="l1" style="padding-left:40px"> 
+    <li>Where do I start?  .. or ..</li>
+    <li>How do I pick an activity? .. or ..</li>
+    <li>I did STEM before. What's the next step? .. or ..</li>
+    <li>I'm applying to colleges. What major do I pick?</li>
+    </ul>
+  </div>
+</section50>
+
+<section50>
+  <div class="section50left">
+    <h2>You're lucky you found us!</h2>   
+    <ul class="l1" style="padding-left:0px"> 
+    <li>We'll help newbees get started in any STEM area,</li>
+    <li>and experienced STEMmers figure out the next steps.</li>
+    <li>Here you'll find high quality resources for: 
+    <ul class="l2" style="list-style-type: disc;">
+    <li>elementary, middle and high school students</li>
+    <li>beginners, intermediates and experts in STEM</li>
+    </ul></li>
+    </ul>
+    <div style="text-align:center; font-style:italic; padding-top:5px">
+    Disclaimer: This is not an exhaustive list for everyone. <br> We list resources that may be enough for most students.</div>
+
+  </div>
+  <img class="section50right" src="/assets/images/VideoComingSoon.jpg">
+  <!--div class="section50right" style="padding-top: 50px;">
     <iframe src="https://www.youtube.com/embed/rmCfrV653Xo" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
   </div-->
-  <div class="section50right">
-    <h2>Our mission</h2>   
-    <ul> Many students don't look at STEM because they don't know where to start. Our mission is to change that. </ul>
-    <ul> This website should help you get started in any area of STEM, no matter what grade you're in. </ul>
-    <ul> Of course, there are many more resources available out there than what we can list on 1 website, so once you're an expert in some fields, feel free to google for resouces in your specific area. </ul>
-  </div>
 </section50>

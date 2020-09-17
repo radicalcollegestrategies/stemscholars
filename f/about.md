@@ -36,7 +36,7 @@ h1: Meet the STEM Scholars
 
 
 <sectionpd>
-    <img class="sectionpdPicture" src="/assets/images/Engg5.jpg">
+    <img class="sectionpdPicture" src="/assets/images/Rachel.jpg">
 <div class="sectionpdContent">
     <h2> Rachel Portales, Vice President </h2>
 
