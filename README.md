@@ -10,11 +10,10 @@ Launch date: Sept 27
   * "Why do I do STEM" -- What interests you to "stay engaged" ? What's your incentive ?
   * **Need biodata and pic from Ms. Gina**
 * Arduino (Singhals)
-* **Check coding page. See if we can complete the elementary school part from: Logic page, Coding Tutorials (code.org), Coding competitions, Web page design, making apps**
 ## By Sunday Sept 27
 * Video Tutorial for K-3:
   * Rayna: Script
-  * Material: Science(5 activities: Prabdeep), Tech(coding: Rachel), Engg(robotics: Rayna), Math(logic: Leo and Navika)
+  * Material: Science(5 activities: Prabhdeep), Tech(coding: Rachel), Engg(robotics: Rayna), Math(logic: Leo and Navika)
 * Robotics page filled
 ## By Wed Sept 30
 * Film the videos and release
@@ -26,13 +25,15 @@ Launch date: Sept 27
   * Maybe make 1 person in-charge of it ? Add pictures, creative stuff, memes.
   * Socio-economic -- persuade and demystify. Videos ? Outreach ?
 * Divide up the resources into "audience" of potential Students -- Beginning, Emerging and Taking Off!
+* Let's not forget about possibility of embedding a google form for whoever to enter their name - and email. Perhaps, can be optional to include school and grade.
 ## Page Ideas
 * Intro: Motivation. Later: Pics on margin for logic puzzles, robots, chess
 * Science: Science Fair (Arshia), Science Bowl (Yash)
-* Technology: Logic page, Coding Tutorials (code.org), Coding competitions, Web page design, making apps
+* Technology: Logic page, Coding Tutorials (code.org), Coding competitions, Web page design, making apps, animation
 * Engineering: 
   * Circuits, Arduino
   * Robotics : Competitions, Tutorials
+* Arts: Logan has a lot of ARTs - both visual and performing arts; including forensics!
 * Math: Logic page, Competitions, Other (Neil)
 * Logic: Sudoku, Chess
 * Major/Careers: How to pick
