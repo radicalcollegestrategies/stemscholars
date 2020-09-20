@@ -3,17 +3,21 @@ URL: https://stemscholars.github.io/
 
 # Items
 Launch date: Sept 27
-## By Sept 20
+## By Wed Sept 23
 * **Intro Video**
+  * Rayna: Script. Rayna and Rachel: Film
   * Motivation: "Define what STEM means for you". "Why do I do STEM" and "What will you learn from this"
   * "Why do I do STEM" -- What interests you to "stay engaged" ? What's your incentive ?
-  * **Need biodata for Rachel, Ms. Gina, Mr. Carrozza**
+  * **Need biodata and pic from Ms. Gina**
 * Arduino (Singhals)
 * **Check coding page. See if we can complete the elementary school part from: Logic page, Coding Tutorials (code.org), Coding competitions, Web page design, making apps**
-## By Sept 27
-* Video Tutorial on Scratch / Blockly
-* Robotics and Coding pages filled
-* **Ask people for content on: Science Fair (Arshia), Science Bowl (Yash)**
+## By Sunday Sept 27
+* Video Tutorial for K-3:
+  * Rayna: Script
+  * Material: Science(5 activities: Prabdeep), Tech(coding: Rachel), Engg(robotics: Rayna), Math(logic: Leo and Navika)
+* Robotics page filled
+## By Wed Sept 30
+* Film the videos and release
 ## Later
 * Other videos
   * What strategies work for you? What doesn't work? Talk about perseverance and sustained practice.
@@ -24,11 +28,11 @@ Launch date: Sept 27
 * Divide up the resources into "audience" of potential Students -- Beginning, Emerging and Taking Off!
 ## Page Ideas
 * Intro: Motivation. Later: Pics on margin for logic puzzles, robots, chess
-* Science: Science Fair, Science Bowl
+* Science: Science Fair (Arshia), Science Bowl (Yash)
 * Technology: Logic page, Coding Tutorials (code.org), Coding competitions, Web page design, making apps
 * Engineering: 
   * Circuits, Arduino
-  * Robotics : Competitions, Tutorials: FIRST at home curriculum: https://info.firstinspires.org/at-home-stem-curriculum-series 
+  * Robotics : Competitions, Tutorials
 * Math: Logic page, Competitions, Other (Neil)
 * Logic: Sudoku, Chess
 * Major/Careers: How to pick
