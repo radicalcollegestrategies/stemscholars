@@ -11,7 +11,7 @@ h2: Achieve excellence in any area of STEM
 #h2: Demystifying STEM for K-12 students
 ---
 <section50>
-  <img class="section50left" style="padding-top: 10px;" src="/assets/images/STEM1.jpeg">
+  <img class="section50left" style="padding-top: 10px;" src="/assets/images/STEM.jpeg">
   <div class="section50right">
     <h2>STEM education teaches...</h2> 
     <ul class="yes" style="padding-left:80px"> 
