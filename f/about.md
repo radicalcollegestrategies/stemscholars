@@ -15,8 +15,8 @@ h1: Meet the STEM Scholars
 <li> Experienced Programmer: 
   <ul class="l2">
   <li> USA Computing Olympiad Platinum Level: <br> Ranked in the top 300 high school programmers in the nation </li> 
-  </ul> </li>
   <li> Instructor for the MIT App Inventor class at AAUW's NHUSD STEM Discovery Day (2020) </li>
+  </ul> </li>
 <li> Experienced in Math Competitions:
   <ul class="l2"> 
   <li> AIME Qualifier 2020, AMC10, AMC8, MOEMS, MathCounts </li>
