@@ -21,7 +21,7 @@
 title: STEM Scholars
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:". Use keywords for Google search results
-  A step-by-step guide/roadmap for elementary, middle and high school students on
+  A step-by-step guide and roadmap for elementary, middle and high school students on
   which activities to pursue in all STEM realted fields, e.g., math, coding, robotics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://stemscholars.github.io" # the base hostname & protocol for your site, e.g. http://example.com
