@@ -11,7 +11,7 @@ h2: Achieve excellence in any area of STEM
 #h2: Demystifying STEM for K-12 students
 ---
 <section50>
-  <img class="section50left" style="padding-top: 10px;" src="/assets/images/STEM.jpeg">
+  <img class="section50left" style="padding-top: 10px;" src="/images/STEM.jpeg">
   <div class="section50right">
     <h2>STEM education teaches...</h2> 
     <ul class="yes" style="padding-left:80px"> 
@@ -37,7 +37,7 @@ h2: Achieve excellence in any area of STEM
 </section50>
 
 <section50>
-  <img class="section50left" style="padding-top: 10px;" src="/assets/images/Maze.jpg">
+  <img class="section50left" style="padding-top: 10px;" src="/images/Maze.jpg">
   <div class="section50right">
     <h2>I wanna do STEM but ...</h2> 
     <ul class="l1" style="padding-left:40px"> 
@@ -63,7 +63,7 @@ h2: Achieve excellence in any area of STEM
     </ul>
 
   </div>
-  <img class="section50right" src="/assets/images/VideoComingSoon.jpg">
+  <img class="section50right" src="/images/VideoComingSoon.jpg">
   <!--div class="section50right" style="padding-top: 50px;">
     <iframe src="https://www.youtube.com/embed/rmCfrV653Xo" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
   </div-->

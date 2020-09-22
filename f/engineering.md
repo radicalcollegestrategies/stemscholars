@@ -6,4 +6,4 @@ h1: Engineering
 h2: Robotics and Electronics
 ---
 
-<img src="/assets/images/ComingSoon.png">
+<img class="center" src="/images/ComingSoon.png" style="width:600px; padding-top:50px;">

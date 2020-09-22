@@ -6,7 +6,7 @@ h1: Meet the STEM Scholars
 ---
 
 <sectionpd>
-  <img class="sectionpdPicture" src="/assets/images/Rayna.jpg">
+  <img class="sectionpdPicture" src="/images/Rayna.jpg">
 <div class="sectionpdContent">
 
 <h2> Rayna Arora, President </h2>
@@ -37,7 +37,7 @@ h1: Meet the STEM Scholars
 
 
 <sectionpd>
-    <img class="sectionpdPicture" src="/assets/images/Rachel.jpg">
+    <img class="sectionpdPicture" src="/images/Rachel.jpg">
 <div class="sectionpdContent">
     <h2> Rachel Portales, Vice President </h2>
 
@@ -59,7 +59,7 @@ h1: Meet the STEM Scholars
 
 
 <sectionpd>
-    <img class="sectionpdPicture" src="/assets/images/STEMlogo.png">
+    <img class="sectionpdPicture" src="/images/STEMlogo.png">
 <div class="sectionpdContent">
 
 <h2> STEM Scholar Team </h2>
