@@ -29,19 +29,19 @@ header {
   display: block;  /* Displays it in it's own line */
 }
 
-div.gallery {
+.gallery {
   margin: 5px;
   border: 1px solid #275da1;
   float: left;
   height: 70px;
 }
 
-div.gallery:hover {
+.gallery:hover {
   transform: scale(1.4);
   border: 1px solid #777;
 }
 
-div.gallery img {
+.gallery img {
   height: 100%;
   width: auto;
 }
@@ -164,10 +164,10 @@ sectionpd:after {
   display: table;
   clear: both;
 }
-/*************** Section for half and half **************/
 
+/*************** Section for half and half **************/
 section50 {
-  padding: 20px 0 20px 0; /* top, right, bottom, left */
+  padding: 0px 0 0px 0; /* top, right, bottom, left */
   width: 1000px;
   margin: auto;    /* Centers the item in horizontal direction */
   display: block;  /* Displays it in it's own line */
@@ -197,3 +197,24 @@ section50:after {
   clear: both;
 }
 
+/********************** Photo list for different pages ***************/
+.navbar2 {
+  height: 300px;
+}
+
+.gallery2 {
+  margin: 25px;
+  border: 1px solid #275da1;
+  float: left;
+  height: 250px;
+}
+
+.gallery2:hover {
+  transform: scale(1.2);
+  border: 1px solid #777;
+}
+
+.gallery2 img {
+  height: 100%;
+  width: auto;
+}
