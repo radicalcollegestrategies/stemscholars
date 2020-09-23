@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Mathematics
-permalink: /f/mathematics/
-h1: Mathematics
-h2: Research and Competitions
+title: Technology
+permalink: /stem/technology/
+h1: Technology
+h2: Coding, App Design
 ---
 
 <img class="center" src="/images/ComingSoon.png" style="width:600px; padding-top:50px;">

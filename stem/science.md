@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Technology
-permalink: /f/technology/
-h1: Technology
-h2: Coding, App Design
+title: Science
+permalink: /stem/science/
+h1: Science
+h2: Physics, Chemistry and Biology
 ---
 
 <img class="center" src="/images/ComingSoon.png" style="width:600px; padding-top:50px;">

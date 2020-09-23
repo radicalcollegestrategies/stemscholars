@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Electronics
-permalink: /f/electronics/
+permalink: /engineering/electronics/
 h1: Electronics
 h2: Engineering
 ---

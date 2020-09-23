@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Careers in STEM
-permalink: /f/careers/
+permalink: /stem/careers/
 h1: Career in STEM
 h2: Pick a best-fit major based on your interests
 ---

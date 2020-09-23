@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Engineering
-permalink: /f/engineering/
+permalink: /stem/engineering/
 h1: Engineering
 h2: Robotics and Electronics
 ---
@@ -30,13 +30,13 @@ h2: Robotics and Electronics
   <div class="navbar2">
     <div class="center" style="width:900px">
       <div class="gallery2">
-          <a href="/f/electronics">
+          <a href="/engineering/electronics">
             <img src="/images/Electronics.jpg" alt="Electronics" width="350" height="250">
           </a>
       </div>
       
       <div class="gallery2">
-          <a href="/f/robotics">
+          <a href="/engineering/robotics">
             <img src="/images/RobotGeneric.jpg" alt="Science" width="350" height="250">
           </a>
       </div>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Meet the STEM Scholars
-permalink: /f/about/
+permalink: /stem/about/
 h1: Meet the STEM Scholars
 ---
 

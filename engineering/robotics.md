@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Get Started with Robotics
-permalink: /f/robotics/
+permalink: /engineering/robotics/
 h1: Get Started with Robotics
 h2: Engineering
 ---

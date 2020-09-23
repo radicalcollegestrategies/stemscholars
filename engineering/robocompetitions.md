@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Robotics Competitions
-permalink: /f/robotics_competitions/
+permalink: /engineering/robocompetitions/
 h1: Robotics Competitions
 h2: Engineering
 ---
