@@ -169,7 +169,7 @@ a.h2link{
   font-size:26px;
 }
 
-/* mouse over link 
+/* mouse over link */
 a.h2link:hover {
   background-color: #a6bbfa;
   color: rgb(65, 4, 7);
