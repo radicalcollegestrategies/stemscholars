@@ -46,6 +46,28 @@ header {
   width: auto;
 }
 
+/********************** Photo list for different pages ***************/
+.navbar2 {
+  height: 300px;
+}
+
+.gallery2 {
+  margin: 25px;
+  border: 1px solid #275da1;
+  float: left;
+  height: 250px;
+}
+
+.gallery2:hover {
+  transform: scale(1.2);
+  border: 1px solid #777;
+}
+
+.gallery2 img {
+  height: 100%;
+  width: auto;
+}
+
 /**************** Layout Styles *****************/
 h1, h2 {
   line-height: 1;
@@ -78,13 +100,6 @@ body {
   margin-top: 0;
 }
 
-a {
-  color: #2879d0;
-}
-a:hover {
-  color: #2268b2;
-}
-
 leftbar {
   list-style-type: none;
   margin: 0;
@@ -109,14 +124,15 @@ td {
   /* border-bottom: 1px solid #000; */
 }
 
-ul.l1 {
+/************************* Lists *******************/
+ul.aboutl1 {
   font-size: 18px;
   line-height: 2;
   list-style-type: none;
   text-align:left;
 }
 
-ul.l2 {
+ul.aboutl2 {
   font-weight: 100;
   font-size: 14px;
   font-style: italic;
@@ -133,6 +149,57 @@ ul.yes {
 }
 
 ul.yes li:before { content:"\2713\0020"; } 
+
+ul.disc {
+  font-size: 18px;
+  line-height: 2;
+  list-style-type: disc;
+  text-align:left;
+  padding-left:20px
+}
+
+/************************* Links *******************/
+a.link{
+  line-height: 1;
+  letter-spacing: 0;
+  font-family: 'Marko One';
+  font-weight: normal;
+  color: #0821af;
+  font-size:26px;
+}
+
+/*
+a.link:link {
+  color: rgb(4, 3, 58);
+}
+*/
+
+a.link:hover {
+  background-color: #a6bbfa;
+  color: rgb(65, 4, 7);
+}
+
+/* unvisited link 
+a:link {
+  color: red;
+  /* color: #0960be; */ 
+}
+
+/* visited link 
+a:visited {
+  color: green;
+}
+
+/* mouse over link 
+a:hover {
+  /* background-color: lightgreen; */
+  color: hotpink;
+}
+
+/* selected link 
+a:active {
+  color: yellow;
+}
 
 /************************* Sections *******************/
 /********** Section for picture & description *********/
@@ -197,24 +264,3 @@ section50:after {
   clear: both;
 }
 
-/********************** Photo list for different pages ***************/
-.navbar2 {
-  height: 300px;
-}
-
-.gallery2 {
-  margin: 25px;
-  border: 1px solid #275da1;
-  float: left;
-  height: 250px;
-}
-
-.gallery2:hover {
-  transform: scale(1.2);
-  border: 1px solid #777;
-}
-
-.gallery2 img {
-  height: 100%;
-  width: auto;
-}

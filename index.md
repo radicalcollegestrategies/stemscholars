@@ -40,7 +40,7 @@ h2: Achieve excellence in any area of STEM
   <img class="section50left" src="/images/Maze.jpg">
   <div class="section50right">
     <h2>I wanna do STEM but ...</h2> 
-    <ul class="l1" style="padding-left:40px"> 
+    <ul class="disc" style="padding-left:40px"> 
     <li>Where do I start?  .. or ..</li>
     <li>How do I pick an activity? .. or ..</li>
     <li>I did STEM before. What's the next step? .. or ..</li>
@@ -52,11 +52,11 @@ h2: Achieve excellence in any area of STEM
 <section50>
   <div class="section50left">
     <h2>You're lucky you found us!</h2>   
-    <ul class="l1" style="padding-left:0px"> 
+    <ul class="aboutl1" style="padding-left:0px"> 
     <li>We'll help newbees get started in any STEM area,</li>
     <li>and experienced STEMmers figure out the next steps.</li>
     <li>Here you'll find high quality resources for: 
-    <ul class="l1" style="list-style-type: disc;">
+    <ul class="disc">
     <li>elementary, middle and high school students</li>
     <li>beginners, intermediates and experts in STEM</li>
     </ul></li>
