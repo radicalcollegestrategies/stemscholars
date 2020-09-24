@@ -13,7 +13,7 @@ h2: Engineering
   <img class="section50left" style="padding-top: 10px;" src="/images/SnapCircuits.jpg">
 
   <div class="section50right">
-    <a class="link" href="https://www.amazon.com/Snap-Circuits-SC-300-Electronics-Exploration/dp/B0000683A4"> Snap Circuits </a>
+    <a class="h2link" href="https://www.amazon.com/Snap-Circuits-SC-300-Electronics-Exploration/dp/B0000683A4"> Snap Circuits </a>
 
   </div>
 

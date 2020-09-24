@@ -159,7 +159,8 @@ ul.disc {
 }
 
 /************************* Links *******************/
-a.link{
+/* unvisited link */
+a.h2link{
   line-height: 1;
   letter-spacing: 0;
   font-family: 'Marko One';
@@ -168,36 +169,19 @@ a.link{
   font-size:26px;
 }
 
-/*
-a.link:link {
-  color: rgb(4, 3, 58);
-}
-*/
-
-a.link:hover {
+/* mouse over link 
+a.h2link:hover {
   background-color: #a6bbfa;
   color: rgb(65, 4, 7);
 }
 
-/* unvisited link 
-a:link {
-  color: red;
-  /* color: #0960be; */ 
-}
-
 /* visited link 
-a:visited {
+a.h2link:visited {
   color: green;
 }
 
-/* mouse over link 
-a:hover {
-  /* background-color: lightgreen; */
-  color: hotpink;
-}
-
 /* selected link 
-a:active {
+a.h2link:active {
   color: yellow;
 }
 
