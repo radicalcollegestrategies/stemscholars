@@ -69,12 +69,13 @@ header {
 }
 
 /**************** Layout Styles *****************/
-h1, h2 {
+h1, h2, h3 {
   line-height: 1;
   letter-spacing: 0;
   font-family: 'Marko One';
   font-weight: normal;
   color: #0960be;
+  text-align: center;
 }
 
 h1 {
@@ -83,6 +84,10 @@ h1 {
 
 h2 {
   font-size:26px;
+}
+
+h3 {
+  font-size:18px;
 }
 
 body {
@@ -95,6 +100,10 @@ body {
    background-color: #c9d5f8;
    margin: auto;
  }
+
+div {
+  text-align: left;
+}
 
  p {
   margin-top: 0;
@@ -141,14 +150,20 @@ ul.aboutl2 {
   text-align:left;
 }
 
-ul.yes {
+ul.yes, ul.no {
   font-size: 16px;
   line-height: 1.5;
   list-style-type: none;
   text-align:left;
+  padding-left:20px
 }
 
-ul.yes li:before { content:"\2713\0020"; } 
+ul.yes li:before { content:"\2713\0020"; color:green} 
+ul.no li:before { content:"\2717\0020"; color:rgb(129, 3, 3)} 
+ul.yes ul li:before {content: none}
+ul.yes ul.aboutl2 {list-style-type: circle}
+ul.no ul li:before {content: none}
+ul.no ul.aboutl2 {list-style-type: circle}
 
 ul.disc {
   font-size: 18px;
@@ -167,10 +182,28 @@ a.h2link{
   font-weight: normal;
   color: #0821af;
   font-size:26px;
+  text-align: center;
 }
 
 /* mouse over link */
 a.h2link:hover {
+  background-color: #a6bbfa;
+  color: rgb(65, 4, 7);
+}
+
+/* unvisited link */
+a.h3link{
+  line-height: 2.7;
+  letter-spacing: 0;
+  font-family: 'Marko One';
+  font-weight: normal;
+  color: #0821af;
+  font-size:18px;
+  text-align: center;
+}
+
+/* mouse over link */
+a.h3link:hover {
   background-color: #a6bbfa;
   color: rgb(65, 4, 7);
 }

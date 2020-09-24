@@ -25,10 +25,23 @@ h2: Robotics and Electronics
 </section50>
 
 <section50>
-  <h2>Engineering related activities in school</h2>
+  <h2>Hone your Engineering Skills</h2>
+
+<div> <b>Preschoolers and elementary schoolers:</b> There are many great building toys you can explore to develop spatial thinking and engineering skills. These toys are fun and educational at the same time. </div>
+<div> Girls, these toys are not just for boys. Please give them a shot, and you may be pleasantly surprised!</div>
+<br>
+
+<div> <b>Elementary, Middle and high schoolers: </b> Discover the world of Electronics and Robotics below</div>
+<br>
 
   <div class="navbar2">
-    <div class="center" style="width:900px">
+    <div class="center" style="width:1200px">
+      <div class="gallery2">
+          <a href="https://childhood101.com/building-constructing-toy-sets-for-kids/"  target="_blank">
+            <img src="/images/engg/BuildToys.jpg" alt="Building Toys" width="350" height="250">
+          </a>
+      </div>
+      
       <div class="gallery2">
           <a href="/engineering/electronics">
             <img src="/images/engg/Electronics.jpg" alt="Electronics" width="350" height="250">
