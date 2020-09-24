@@ -31,13 +31,13 @@ h2: Robotics and Electronics
     <div class="center" style="width:900px">
       <div class="gallery2">
           <a href="/engineering/electronics">
-            <img src="/images/Electronics.jpg" alt="Electronics" width="350" height="250">
+            <img src="/images/engg/Electronics.jpg" alt="Electronics" width="350" height="250">
           </a>
       </div>
       
       <div class="gallery2">
           <a href="/engineering/robotics">
-            <img src="/images/RobotGeneric.jpg" alt="Science" width="350" height="250">
+            <img src="/images/engg/RobotGeneric.jpg" alt="Science" width="350" height="250">
           </a>
       </div>
     </div>

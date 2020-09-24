@@ -5,7 +5,7 @@ header {
   /* padding-bottom: 30px; */
   height: 120px;
   text-align: center;
-  background: #2e7bcf url(/images/bg_header.jpg) 0 0 repeat-x;
+  background: #2e7bcf url(/images/stem/bg_header.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
 
@@ -105,7 +105,7 @@ leftbar {
   margin: 0;
   padding: 0;
   width: 242px;
-  background: #2e7bcf url(/images/bg_header.jpg) 0 0 repeat;
+  background: #2e7bcf url(/images/stem/bg_header.jpg) 0 0 repeat;
   opacity: 0.5;
   position: fixed;
   height: 100%;
