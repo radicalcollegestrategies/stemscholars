@@ -37,7 +37,7 @@ h2: Achieve excellence in any area of STEM
 </section50>
 
 <section50>
-  <img class="section50left" src="/images/stem/Maze.jfif">
+  <img class="section50left" src="/images/stem/Maze.jpg">
   <div class="section50right">
     <h2>I wanna do STEM but ...</h2> 
     <ul class="disc" style="padding-left:40px"> 

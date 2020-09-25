@@ -152,7 +152,7 @@ ul.aboutl2 {
 
 ul.yes, ul.no {
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.7;
   list-style-type: none;
   text-align:left;
   padding-left:20px
@@ -252,7 +252,15 @@ sectionpd:after {
 /*************** Section for half and half **************/
 section50 {
   padding: 0px 0 0px 0; /* top, right, bottom, left */
+  margin: auto;    /* Centers the item in horizontal direction */
+  display: block;  /* Displays it in it's own line */
   width: 1000px;
+  text-align:center;
+  min-height: 320px;
+}
+
+section50short {
+  padding: 0px 0 0px 0; /* top, right, bottom, left */
   margin: auto;    /* Centers the item in horizontal direction */
   display: block;  /* Displays it in it's own line */
   width: 1000px;
@@ -270,7 +278,6 @@ section50 {
   float: left;
   padding-left: 10px; 
   padding-right: 20px;
-  min-height: 350px;
   width: 450px;
 }
 
@@ -281,3 +288,21 @@ section50:after {
   clear: both;
 }
 
+.tabactive, .tabinactive {
+  float: left;
+  width: 490px;
+  height: 50px;
+  border: 2px solid #0b325c;
+  border-radius: 25px;
+  padding: 0 0 20px 0; /* top, right, bottom, left */
+  margin: 0px;  
+}
+
+.tabactive{
+  background-color: #91abf8;
+  /* border-bottom: none; */
+}
+
+.tabinactive {
+  /* border-top: none; */
+}
