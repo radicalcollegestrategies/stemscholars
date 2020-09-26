@@ -108,6 +108,7 @@ h2: Engineering
     <li><a href="https://smile.amazon.com/Wonder-Workshop-Dash-Activated-Programming/dp/B00SKURVKY">$150 for Dash</a>, 
     <a href="https://smile.amazon.com/Wonder-Workshop-QU01-13-Cue-Robot/dp/B078XXPDVV/">$200 for Cue</a></li>
     <li>Can program it on Chromebook or iPad</li>
+    <li>Wonder League Robotics Competition is online and free!</li>
   </ul>
   </li>
   <li> Easy to understand: No expertise or coach required
@@ -116,7 +117,6 @@ h2: Engineering
     <li>Follow the <a href="https://www.makewonder.com/classroom/curriculum-2/">curriculum</a> aligned with code.org levels</li>
   </ul>
   </li>
-  <li> Participate in Wonder League Competition online</li>
   </ul>
   <ul class="no"> Cons:
   <li>Robot is pre-built, so you can't alter it's shape. 

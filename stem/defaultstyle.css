@@ -173,6 +173,22 @@ ul.disc {
   padding-left:20px
 }
 
+ul.compl1 {
+  font-size: 18px;
+  line-height: 1.5;
+  list-style-type: none;
+  text-align:left;
+  padding-left:0px
+}
+
+ul.compl2 {
+  font-size: 18px;
+  line-height: 1.5;
+  list-style-type: disc;
+  text-align:left;
+  padding-left:20px
+}
+
 /************************* Links *******************/
 /* unvisited link */
 a.h2link{
@@ -180,15 +196,8 @@ a.h2link{
   letter-spacing: 0;
   font-family: 'Marko One';
   font-weight: normal;
-  color: #0821af;
   font-size:26px;
   text-align: center;
-}
-
-/* mouse over link */
-a.h2link:hover {
-  background-color: #a6bbfa;
-  color: rgb(65, 4, 7);
 }
 
 /* unvisited link */
@@ -197,27 +206,22 @@ a.h3link{
   letter-spacing: 0;
   font-family: 'Marko One';
   font-weight: normal;
-  color: #0821af;
   font-size:18px;
   text-align: center;
 }
 
-/* mouse over link */
-a.h3link:hover {
+a {
+  color: #0821af;
+}
+a:hover {
   background-color: #a6bbfa;
   color: rgb(65, 4, 7);
 }
 
-/* visited link 
-a.h2link:visited {
-  color: green;
+a:visited {
+  color: #0821af;
+  /* color: rgb(65, 4, 7); */
 }
-
-/* selected link 
-a.h2link:active {
-  color: yellow;
-}
-
 /************************* Sections *******************/
 /********** Section for picture & description *********/
 sectionpd {
@@ -293,16 +297,11 @@ section50:after {
   width: 490px;
   height: 50px;
   border: 2px solid #0b325c;
-  border-radius: 25px;
+  border-radius: 25px; /* top left, top right, bottom right, bottom left */
   padding: 0 0 20px 0; /* top, right, bottom, left */
   margin: 0px;  
 }
 
 .tabactive{
-  background-color: #91abf8;
-  /* border-bottom: none; */
-}
-
-.tabinactive {
-  /* border-top: none; */
+  background-color: #a6baf8;
 }
