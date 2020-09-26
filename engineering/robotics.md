@@ -102,12 +102,13 @@ h2: Engineering
   <li> Ages: 6+ : Yes, a 1st grader can use the dash robot!</li>
   <li> Affordable Choices:
   <ul class="aboutl2">
-    <li><a style="color: rgb(129, 3, 3);">FREE!</a> 
-    <a href="https://www.makewonder.com/dashs-neighborhood/">Dash’s neighborhood</a>: 
-    All online, no robot to buy</li>
-    <li><a href="https://smile.amazon.com/Wonder-Workshop-Dash-Activated-Programming/dp/B00SKURVKY">$150 for Dash</a>, 
-    <a href="https://smile.amazon.com/Wonder-Workshop-QU01-13-Cue-Robot/dp/B078XXPDVV/">$200 for Cue</a></li>
-    <li>Can program it on Chromebook or iPad</li>
+    <li>
+      <a href="https://smile.amazon.com/Wonder-Workshop-Dash-Activated-Programming/dp/B00SKURVKY">$150 for Dash</a>, or 
+      <a href="https://smile.amazon.com/Wonder-Workshop-QU01-13-Cue-Robot/dp/B078XXPDVV/">$200 for Cue</a>, or <br>
+      Online <a href="https://www.makewonder.com/dashs-neighborhood/">Dash’s neighborhood</a> 
+     with no robot to buy <br>
+    </li>
+    <li>Can program it on Chromebook or Tablet</li>
     <li>Wonder League Robotics Competition is online and free!</li>
   </ul>
   </li>
