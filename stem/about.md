@@ -64,6 +64,8 @@ h1: Meet the STEM Scholars
 
 <h2> STEM Scholar Team </h2>
 
+<div style="text-align:center"><b>Club Advisor:</b> Mr. Alex Carrozza, James Logan High School </div>
+<br>
 <div class="row">
   <div>Leo Cao</div>
   <div>Navika Singhal</div>
@@ -80,7 +82,7 @@ h1: Meet the STEM Scholars
   <div>Sheya Lorraine Fangonilo</div>
   <div>Yvette Peng</div>
 </div>
-<div style="text-align:center"><b>Club Advisor:</b> Mr. Alex Carrozza, James Logan High School </div>
+
 
 </div>
 </sectionpd>
