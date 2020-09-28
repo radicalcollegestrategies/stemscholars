@@ -63,24 +63,51 @@ h1: Meet the STEM Scholars
 <div class="sectionpdContent">
 
 <h2> STEM Scholar Team </h2>
-<ul class="aboutl1"> Leo Cao, Navika Singhal, <br>
-Annika Patanaik, Ashley Ramirez, Prabhdeep Kaur, Rachel Fewx, <br>
-Riya Dhir, Ronit Dhir, Sheya Lorraine Fang, Yvette Peng</ul>
+
+<div class="row">
+  <div>Leo Cao</div>
+  <div>Navika Singhal</div>
+  <div>Prabhdeep Kaur</div>
+  <div>Annika Patanaik</div>
+  <div>Ashley Ramirez</div>
+  <div>Brooke Heider</div>
+  <div>Hannah Del Barrio</div>
+  <div>Jenelle Angela Bobadilla</div>
+  <div>Kalil Gutierrez Banda</div>
+  <div>Melanie Martinez</div>
+  <div>Riya Dhir</div>
+  <div>Ronit Dhir</div>
+  <div>Sheya Lorraine Fangonilo</div>
+  <div>Yvette Peng</div>
+</div>
+<div style="text-align:center"><b>Club Advisor:</b> Mr. Alex Carrozza, James Logan High School </div>
+
+</div>
+</sectionpd>
+
+<sectionpd>
+    <img class="sectionpdPicture" src="/images/stem/Gina.jpg">
+<div class="sectionpdContent">
 
 <h2> Ms. Gina Pacaldo, Advisor </h2>
 <ul class="aboutl1"> 
-<li> Outreach Facilitator:
-  <ul class="aboutl2"> 
-  <li> Union City Family Center  </li>
-  <li> New Haven Unified School District </li>
-</ul> </li> </ul>
-
-<h2> Mr. Alex Carrozza, Advisor </h2>
-<ul class="aboutl1"> 
-<li> Computer Science Teacher: 
+<li> Union City Family Center's District Wide Outreach Facilitator for: 
   <ul class="aboutl2">
-  <li> James Logan High School </li>
-</ul> </li> </ul>
+  <li>Communication, Creative Solutions, </li>
+  <li>Honoring Principles of Equity,  Diversity and Inclusion, Intergenerational  Multi-Ethnic Knowledge. </li>
+</ul> </li>
+<li> Coach for Emanuele Elementary Robotics FLL Team (2012-2019) </li>
+<li> Facilitator of STEAM workshops for elementary school students </li>
+<li> Areas of interest include STEAM and Beyond!
+  <ul class="aboutl2"> 
+  <li> S = Science, Spirit, Silence,  Solidarity and Strength </li>
+  <li> T = Technology, Time, Transitions and Tests </li>
+  <li> E = Economics, Employment, Energy, Engineering, Environment, Equity and Exercise </li>
+  <li> A = Arts, Attention, Attitude and Access </li>
+  <li> M = Mathematics, Migration, Motivation, Muscles, Music, and Making with Hands and Heart </li>
+</ul> </li> 
+</ul>
+
 
 </div>
 </sectionpd>
