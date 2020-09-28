@@ -14,6 +14,7 @@ header {
   margin-bottom: 20px;
   color: rgb(256, 256, 256);
   font-family: 'Fondamento';
+  white-space: nowrap;
 }
 
 /********************** Photo list for navigation bar ***************/
