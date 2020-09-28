@@ -7,7 +7,7 @@ h2: Engineering
 ---
 <section50short style="height: 75px; padding-bottom:10px">
   <div class="tabinactive">
-    <h2><a class="h2link" href="/engineering/robotics">Robotics</a></h2>
+    <h2><a href="/engineering/robotics">Robotics</a></h2>
   </div>
   <div class="tabactive">
     <h2>Robotics Competitions</h2>
@@ -38,7 +38,7 @@ There are a wide variety of robotics competitions out there. We’ve compiled th
 
 {% for comp in site.robocomp %}  
 <section50> 
-  <h2> <a class="h2link" href=" {{ comp.toplink }} ">{{ comp.heading }} </a> </h2>
+  <h2> <a href=" {{ comp.toplink }} ">{{ comp.heading }} </a> </h2>
 
   <!-- Use capture to prevent outputting i -->
   {% capture _%}{% increment i %}{% endcapture %}

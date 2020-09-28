@@ -11,7 +11,7 @@ h2: Engineering
     <h2>Robotics</h2>
   </div>
   <div class="tabinactive">
-    <h2><a class="h2link" href="/engineering/robocompetitions">Robotics Competitions</a></h2>
+    <h2><a href="/engineering/robocompetitions">Robotics Competitions</a></h2>
   </div>
 </section50short>
 
@@ -95,7 +95,7 @@ h2: Engineering
 <br>
 
   <div class="section50left">
-  <h2> <a class="h2link" href="https://www.makewonder.com/">Dash / Cue </a> </h2>
+  <h2> <a href="https://www.makewonder.com/">Dash / Cue </a> </h2>
   <h3>Quick start and affordable</h3>
   <img style="width: 450px" src="/images/engg/DashCue.jpg" >
   <ul class="yes"> Pros:
@@ -131,7 +131,7 @@ h2: Engineering
   </div>
 
   <div class="section50right">
-  <h2> <a class="h2link" href="http://education.lego.com/">Lego Mindstorm EV3</a> </h2>
+  <h2> <a href="http://education.lego.com/">Lego Mindstorm EV3</a> </h2>
   <h3>Multipurpose and versatile</h3>
   <img style="width: 450px" src="/images/engg/EV3.jpg" >
   <ul class="yes"> Pros:

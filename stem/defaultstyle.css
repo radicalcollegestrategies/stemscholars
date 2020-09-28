@@ -36,15 +36,43 @@ header {
   height: 70px;
 }
 
-.gallery:hover {
-  transform: scale(1.4);
-  border: 1px solid #777;
-}
+.gallery:hover {transform: scale(1.4);}
 
 .gallery img {
   height: 100%;
   width: auto;
 }
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #dbe2f8; /* #f1f1f1 */;
+  margin-top: 7px;
+  font-size:12px;
+  min-width: 140px;
+  border-radius: 5px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  padding-left: 5px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown.gallery:hover .dropdown-content {
+  display: block;
+  transform: scale(1.4);
+}
+
+/*********************** Dropdown for navigation bar ****************/
+
 
 /********************** Photo list for different pages ***************/
 .navbar2 {
@@ -190,26 +218,6 @@ ul.compl2 {
 }
 
 /************************* Links *******************/
-/* unvisited link */
-a.h2link{
-  line-height: 1;
-  letter-spacing: 0;
-  font-family: 'Marko One';
-  font-weight: normal;
-  font-size:26px;
-  text-align: center;
-}
-
-/* unvisited link */
-a.h3link{
-  line-height: 2.7;
-  letter-spacing: 0;
-  font-family: 'Marko One';
-  font-weight: normal;
-  font-size:18px;
-  text-align: center;
-}
-
 a {
   color: #0821af;
 }
@@ -222,6 +230,7 @@ a:visited {
   color: #0821af;
   /* color: rgb(65, 4, 7); */
 }
+
 /************************* Sections *******************/
 /********** Section for picture & description *********/
 sectionpd {
