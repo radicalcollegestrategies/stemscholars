@@ -96,7 +96,7 @@ h1: Meet the STEM Scholars
 <li> Union City Family Center's District Wide Outreach Facilitator for: 
   <ul class="aboutl2">
   <li>Communication, Creative Solutions, </li>
-  <li>Honoring Principles of Equity,  Diversity and Inclusion, Intergenerational  Multi-Ethnic Knowledge. </li>
+  <li>Honoring Principles of Equity,  Diversity, Inclusion, Intergenerational  Multi-Ethnic Knowledge </li>
 </ul> </li>
 <li> Coach for Emanuele Elementary Robotics FLL Team (2012-2019) </li>
 <li> Facilitator of STEAM workshops for elementary school students </li>
