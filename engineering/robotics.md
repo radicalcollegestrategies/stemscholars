@@ -48,10 +48,9 @@ h2: Engineering
 <section50>
 <h2>Who should do Robotics?</h2>
 
-
   <div class="section50left">
-<br>
-<i>Everyone</i> should try robotics and see if they like it. <br> 
+  <br>
+  <i>Everyone</i> should try robotics and see if they like it. <br> 
 
   <ul class="no"> Robotics is...
   <li>not just for nerds </li>
