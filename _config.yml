@@ -39,3 +39,4 @@ plugins:
 collections:
   robocomp:
   logic:
+  block:

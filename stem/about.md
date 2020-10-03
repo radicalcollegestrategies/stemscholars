@@ -59,7 +59,7 @@ h1: Meet the STEM Scholars
 
 
 <sectionpd>
-    <img class="sectionpdPicture" src="/images/stem/STEMlogo.png">
+    <img class="sectionpdPicture" src="/images/stem/STEMlogo.png" alt="Our LOGO here">
 <div class="sectionpdContent">
 
 <h2> STEM Scholar Team </h2>

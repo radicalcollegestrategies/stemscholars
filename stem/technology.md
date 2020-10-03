@@ -66,7 +66,7 @@ h2: Coding, App Design
 <section50short>
 
 <h2>Elementary School</h2>
-<p> The first step towards coding is to build your logical thinking skills. We have put together a list of fun logic puzzles and games which we hope you'll enjoy. Elementary school is also a great time to learn a block-based or visual programming language like Google's Blockly or MIT's Scratch. We recommend Blockly because it is used by a variety of coding platforms like code.org, MIT App Inventor and popular robots like Dash.
+<p> The first step towards coding is to build your logical thinking skills. We have put together a list of fun logic puzzles and games which we hope you'll enjoy. Elementary school is also a great time to learn a block-based or visual programming language like Google's Blockly or MIT's Scratch.
 </p>
 
   <div class="navbar2">
@@ -79,8 +79,8 @@ h2: Coding, App Design
       </div>
       
       <div class="gallery2">
-          <a href="/technology/blockly">
-            <img src="/images/tech/Blockly.jpg" alt="Blockly" width="350" height="250">
+          <a href="/technology/blockprogram">
+            <img src="/images/tech/BlockProgram.jpg" alt="Block Programming" width="350" height="250">
           </a>
       </div>
     </div>
