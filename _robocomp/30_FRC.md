@@ -11,4 +11,4 @@ video: https://www.youtube.com/embed/i9SpCmWz2OY
 
 <li>May need to form teams with members outside your school, maybe even ~10 miles away. </li>
 
-<li>Girls in the SF bay area - consider joining <a href="https://www.facebook.com/spacecookies1868/">Space Cookies</a>, an all-girls team sponsored by NASA.</li>
+<li>Girls in the SF bay area - consider joining <a href="https://www.facebook.com/spacecookies1868/" target="_blank">Space Cookies</a>, an all-girls team sponsored by NASA.</li>

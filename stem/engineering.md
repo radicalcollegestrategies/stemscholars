@@ -12,7 +12,7 @@ h2: Robotics and Electronics
   </div>
 
   <div class="section50right">
-    <h2><a href="https://blog.prepscholar.com/different-types-of-engineering"> Major branches of engineering </a></h2>
+    <h2><a href="https://blog.prepscholar.com/different-types-of-engineering" target="_blank"> Major branches of engineering </a></h2>
     <ul class="yes" style="padding-left:40px; font-size: 18px;"> 
     <li>Chemical - invent cool new materials</li>
     <li>Civil - design buildings and bridges</li>

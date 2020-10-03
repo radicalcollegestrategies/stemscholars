@@ -67,21 +67,21 @@ h2: Engineering
     Many high paying jobs <i>in all sectors</i> involve robotics:
     <ul class="disc" style="font-size: 16px;"> 
     <li>Self driving cars are robots! </li>
-    <li>Soon your <a href="https://www.youtube.com/watch?v=MR9PoBAssw0">amazon delivery will be done by drones</a> </li>
-    <li>Doctors use nano-robots to <a href="https://www.youtube.com/watch?v=1QwyMWM0Jjg">diagnose and treat cancer</a>, and also to perform surgeries </li>
+    <li>Soon your <a href="https://www.youtube.com/watch?v=MR9PoBAssw0" target="_blank">amazon delivery will be done by drones</a> </li>
+    <li>Doctors use nano-robots to <a href="https://www.youtube.com/watch?v=1QwyMWM0Jjg" target="_blank">diagnose and treat cancer</a>, and also to perform surgeries </li>
     <li>Drones fight fires and perform air strikes, saving human lives</li>
     </ul>
   </div>
 </section50>
 
 <section50>
-<h2>Which robot should I buy?</h2>
+<h2><a id="WhichRobot">Which robot should I buy?</a></h2>
 <div> Well, that depends on a variety of factors, like your budget, or do you have a coach available to guide you, or whether you want a multi-purpose robot that you can shape to your wishes. We recommend the following robots: </div>
 <br>
 
 <section50>
   <div class="section50left">
-  <h2> <a href="https://www.makewonder.com/">Dash / Cue</a></h2>
+  <h2> <a href="https://www.makewonder.com/" target="_blank">Dash / Cue</a></h2>
   <h3>Quick start and affordable</h3>
     <iframe src="https://www.youtube.com/embed/LA9py48X6_o" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
   <ul class="yes"> Pros:
@@ -89,9 +89,9 @@ h2: Engineering
   <li> Affordable Choices:
   <ul class="aboutl2">
     <li>
-      <a href="https://smile.amazon.com/Wonder-Workshop-Dash-Activated-Programming/dp/B00SKURVKY">$150 for Dash</a>, or 
-      <a href="https://smile.amazon.com/Wonder-Workshop-QU01-13-Cue-Robot/dp/B078XXPDVV/">$200 for Cue</a>, or <br>
-      Online <a href="https://www.makewonder.com/dashs-neighborhood/">Dash’s neighborhood</a> 
+      <a href="https://wwww.amazon.com/Wonder-Workshop-Dash-Activated-Programming/dp/B00SKURVKY" target="_blank">$150 for Dash</a>, or 
+      <a href="https://www.amazon.com/Wonder-Workshop-QU01-13-Cue-Robot/dp/B078XXPDVV/" target="_blank">$200 for Cue</a>, or <br>
+      Online <a href="https://www.makewonder.com/dashs-neighborhood/" target="_blank">Dash’s neighborhood</a> 
      with no robot to buy <br>
     </li>
     <li>Can program it on Chromebook or Tablet</li>
@@ -101,7 +101,7 @@ h2: Engineering
   <li> Easy to understand: No expertise or coach required
   <ul class="aboutl2">
     <li>Use out of the box: No assembly required</li>
-    <li>Follow the <a href="https://www.makewonder.com/classroom/curriculum-2/">curriculum</a> aligned with code.org levels</li>
+    <li>Follow the <a href="https://www.makewonder.com/classroom/curriculum-2/" target="_blank">curriculum</a> aligned with code.org levels</li>
   </ul>
   </li>
   </ul>
@@ -117,23 +117,23 @@ h2: Engineering
   </div>
 
   <div class="section50right">
-  <h2> <a href="http://education.lego.com/">Lego Mindstorm EV3</a> </h2>
+  <h2> <a href="http://education.lego.com/" target="_blank">Lego Mindstorm EV3</a> </h2>
   <h3>Multipurpose and versatile</h3>
     <iframe src="https://www.youtube.com/embed/8H6ldqkI3uM?start=25" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
   <ul class="yes"> Pros:
   <li> Universally accepted as the market leader </li>
   <li> Versatile
   <ul class="aboutl2">
-    <li>Use your imagination to build <a href="https://robots.ieee.org/robots/legoev3/">any shape</a> with legos. <br>Sky is the limit!</li>
+    <li>Use your imagination to build <a href="https://robots.ieee.org/robots/legoev3/" target="_blank">any shape</a> with legos. <br>Sky is the limit!</li>
     <li>Most robotics competitions use this robot</li>
   </ul>
   </li>
-  <li> Follow <a href="https://info.firstinspires.org/at-home-stem-curriculum-series">FIRST at home curriculum</a> to learn</li>
+  <li> Follow <a href="https://info.firstinspires.org/at-home-stem-curriculum-series" target="_blank">FIRST at home curriculum</a> to learn</li>
   <li> Ages: 9+ : 4th graders can use this</li>
   </ul>
   <ul class="no"> Cons:
-  <li>Cost: <a href="https://education.lego.com/en-us/products/lego-mindstorms-education-ev3-homeschool-combo-pack/5003480">$420 for core set</a>, 
-  <a href="https://education.lego.com/en-us/products/lego-mindstorms-education-ev3-homeschool-combo-pack/5003480">$560 for a “usable” set</a>
+  <li>Cost: <a href="https://education.lego.com/en-us/products/lego-mindstorms-education-ev3-homeschool-combo-pack/5003480" target="_blank">$420 for core set</a>, 
+  <a href="https://education.lego.com/en-us/products/lego-mindstorms-education-ev3-homeschool-combo-pack/5003480" target="_blank">$560 for a “usable” set</a>
   </li>
   <li>Needs the technical expertise of a coach</li>
     <ul class="aboutl2"> 

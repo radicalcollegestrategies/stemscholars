@@ -14,4 +14,4 @@ description: Break the code!
 <li>Goal: Guess the code without running out of turns</li>
 <li>Once you guess the code, you get feedback about the correct colors / positions</li>
 <li>Keep guessing, keeping previous feedback in mind</li>
-<li>Available as a <a href="https://www.amazon.com/Pressman-3024-Mastermind-in-Tin/dp/0681520531/">Board Game</a> too</li>
+<li>Available as a <a href="https://www.amazon.com/Pressman-3024-Mastermind-in-Tin/dp/0681520531/" target="_blank">Board Game</a> too</li>

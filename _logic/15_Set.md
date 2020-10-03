@@ -20,4 +20,4 @@ description: The link above provides a new SET puzzle everyday
 <li>Goal: Find all six sets of three cards each hidden in the twelve cards of the game
     <ul class="italicl2"><li>Remember, you can use each card more than once!</li></ul>
 </li>
-<li>Available as a <a href="https://smile.amazon.com/SET-Family-Game-Visual-Perception/dp/B00000IV34/">Board Game</a> too</li>
+<li>Available as a <a href="https://www.amazon.com/SET-Family-Game-Visual-Perception/dp/B00000IV34/" target="_blank">Board Game</a> too</li>

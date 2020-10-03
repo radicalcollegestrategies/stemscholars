@@ -15,7 +15,7 @@ description: A logic game available in different difficulty levels
 
 <li>Goal: Fill in the whole grid while following the above rules</li>
 
-<li>Younger kids can try <a href="https://smile.amazon.com/First-Sudoku-Dover-Childrens-Activity/dp/0486450740/">books with smaller grids</a></li>
+<li>Younger kids can try <a href="https://www.amazon.com/First-Sudoku-Dover-Childrens-Activity/dp/0486450740/" target="_blank">books with smaller grids</a></li>
 
-<li>Another popular Japanese puzzle is <a href="https://smile.amazon.com/Will-Shortz-Presents-KenKen-Easiest/dp/0312547390/">KenKen</a></li>
+<li>Another popular Japanese puzzle is <a href="https://www.amazon.com/Will-Shortz-Presents-KenKen-Easiest/dp/0312547390/" target="_blank">KenKen</a></li>
 

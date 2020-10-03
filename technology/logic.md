@@ -21,14 +21,14 @@ Logic is the bridge between Math and Programming. Logic puzzles and games teach 
  </li>
 </ul>
 <h2>Great Logic Puzzles and Games</h2>
-<p> Mazes and Jigsaws are great puzzles to start in pre-school. Below are a few good ones to tickle your minds for ages 6-99. Many puzzles here point to a website where you can play the puzzle, but you can easily substitute that with another website, or an app or a puzzle book! Use whatever medium works for you. </p>
+<p> <a href="https://www.amazon.com/s?k=maze+books+for+kids&ref=nb_sb_noss_2" target="_blank">Mazes</a> and <a href="https://www.amazon.com/s?k=jigsaw+puzzles&ref=nb_sb_noss_2" target="_blank">Jigsaws</a> are great puzzles to start in pre-school. Some popular puzzles designed for school-aged kids and adults are listed below. Many puzzles here point to a website where you can play the puzzle, but you can easily substitute that with another website, or an app or a puzzle book! Use whatever medium works for you. </p>
 </div>
 <br>
 </section50short>
 
 {% for comp in site.logic %}  
 <section50> 
-  <h2> <a href=" {{ comp.toplink }} ">{{ comp.heading }} </a> </h2>
+  <h2> <a href=" {{ comp.toplink }} " target="_blank">{{ comp.heading }} </a> </h2>
 
   <!-- Use capture to prevent outputting i -->
   {% capture _%}{% increment i %}{% endcapture %}
@@ -46,8 +46,8 @@ Logic is the bridge between Math and Programming. Logic puzzles and games teach 
 
     {% if comp.piccreator %}
       <div class="license">(
-        <a href="{{ comp.piclink }}">Image</a>
-        <a href="{{ comp.piclicense }}">licensed</a> from {{ comp.piccreator }}
+        <a href="{{ comp.piclink }}" target="_blank">Image</a>
+        <a href="{{ comp.piclicense }} target="_blank"">licensed</a> from {{ comp.piccreator }}
         )</div>
     {% endif %}
 
@@ -92,8 +92,8 @@ Logic is the bridge between Math and Programming. Logic puzzles and games teach 
 
     {% if comp.piccreator %}
       <div class="license">(
-        <a href="{{ comp.piclink }}">Image</a>
-        <a href="{{ comp.piclicense }}">licensed</a> from {{ comp.piccreator }}
+        <a href="{{ comp.piclink }} target="_blank"">Image</a>
+        <a href="{{ comp.piclicense }} target="_blank"">licensed</a> from {{ comp.piccreator }}
         )</div>
     {% endif %}
 

@@ -16,17 +16,20 @@ are both great block-based programming languages to learn coding. Both provide v
 <p>Blockly is used by a variety of coding platforms like code.org, MIT App Inventor and popular robots like Dash. <br> It allows you to create computer games and apps. </p> </div>
 
 <div class="section50right">
-<h3><a href="https://scratch.mit.edu/">Scratch</a></h3>
+<h3><a href="https://scratch.mit.edu/" target="_blank">Scratch</a></h3>
 <p><b>Grades:</b> 3 and up</p>
-<p>MIT's Scratch is a popular language for beginners. All you have to do is make an account <a href="https://scratch.mit.edu/">here</a>, and you can create games, animations, and interactive stories.</p>
+<p>MIT's Scratch is a popular language for beginners. All you have to do is make an account <a href="https://scratch.mit.edu/" target="_blank">here</a>, and you can create games, animations, and interactive stories.</p>
 </div>
 </section50> 
 
+<section50short>
 <div>We recommend Blockly because of it's wider usage. Once you’re comfortable with Blockly or Scratch, check out our other pages to learn Python, C++, and HTML, which allow you to create programs that can do even cooler things!</div>
+</section50short>
+<br>
 
 {% for comp in site.block %}  
 <section50> 
-  <h2> <a href=" {{ comp.toplink }} ">{{ comp.heading }} </a> </h2>
+  <h2> <a href=" {{ comp.toplink }} " target="_blank">{{ comp.heading }} </a> </h2>
 
   <!-- Use capture to prevent outputting i -->
   {% capture _%}{% increment i %}{% endcapture %}

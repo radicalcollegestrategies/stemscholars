@@ -13,13 +13,13 @@ h2: Engineering
   <div class="section50left">
   <img src="/images/engg/SnapCircuits.jpg">
     <div class="license">(
-      <a href="https://www.flickr.com/photos/adafruit/6976696355">Image</a>
-      <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">licensed</a> from flickr
+      <a href="https://www.flickr.com/photos/adafruit/6976696355" target="_blank">Image</a>
+      <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">licensed</a> from flickr
     )</div>
   </div>
 
   <div class="section50right">
-    <h2><a href="https://www.amazon.com/Snap-Circuits-SC-300-Electronics-Exploration/dp/B0000683A4">Snap Circuits</a></h2>
+    <h2><a href="https://www.amazon.com/Snap-Circuits-SC-300-Electronics-Exploration/dp/B0000683A4" target="_blank">Snap Circuits</a></h2>
 <ul class="aboutl1">
   <li>Grades: 2+</li>
   <li>Why we love it: 

@@ -20,5 +20,5 @@ description: A logic puzzle available in different difficulty levels
 <li> Once you have eliminated the other options in a specific row/column in a box, double click the correct option to place a checkmark </li>
 <li> Continue this until you fill out the entire grid </li>
 
-<li><a href="https://logic.puzzlebaron.com/how-to-solve-a-logic-puzzle.php">Click here for more detailed instructions</a></li>
-<li>Available as Einstein's Puzzle on <a href="https://apps.apple.com/us/app/einsteins-riddle-logic-puzzle/id950326185">iOS</a> / <a href = "https://play.google.com/store/apps/details?id=com.rottzgames.logic&hl=en_US">Android</a> 
+<li><a href="https://logic.puzzlebaron.com/how-to-solve-a-logic-puzzle.php" target="_blank">Click here for more detailed instructions</a></li>
+<li>Available as Einstein's Puzzle on <a href="https://apps.apple.com/us/app/einsteins-riddle-logic-puzzle/id950326185" target="_blank">iOS</a> / <a href="https://play.google.com/store/apps/details?id=com.rottzgames.logic&hl=en_US" target="_blank">Android</a> 

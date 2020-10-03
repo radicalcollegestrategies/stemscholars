@@ -40,8 +40,8 @@ h2: Achieve excellence in any area of STEM
   <div class="section50left">
   <img style="width:300px" src="/images/stem/Maze.png">
   <div class="license">
-   <a href="https://www.wannapik.com/vectors/5479">Image</a>
-      <a href="https://creativecommons.org/licenses/by/3.0/">licensed</a> from Wannapik Studio
+   <a href="https://www.wannapik.com/vectors/5479" target="_blank">Image</a>
+      <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">licensed</a> from Wannapik Studio
   </div>
   </div>
   <div class="section50right">

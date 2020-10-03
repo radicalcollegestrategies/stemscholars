@@ -45,7 +45,7 @@ You don’t have to shoot to win 1st place. Just enjoy the experience. </p>
 
 {% for comp in site.robocomp %}  
 <section50> 
-  <h2> <a href=" {{ comp.toplink }} ">{{ comp.heading }} </a> </h2>
+  <h2> <a href=" {{ comp.toplink }} " target="_blank">{{ comp.heading }} </a> </h2>
 
   <!-- Use capture to prevent outputting i -->
   {% capture _%}{% increment i %}{% endcapture %}
