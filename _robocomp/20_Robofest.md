@@ -3,8 +3,7 @@ heading: Robofest
 toplink: https://www.robofest.net/
 grades: 5-8 or 9-12
 teamsize: 1-5
-video: https://www.youtube.com/watch?v=4kTAYWXWJd4
-pic: /images/engg/Robofest.jpg
+video: https://www.youtube.com/embed/4kTAYWXWJd4
 ---
 <li>Any robotics kit - EV3 or another(1 time cost)</li>
 

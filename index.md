@@ -37,7 +37,13 @@ h2: Achieve excellence in any area of STEM
 </section50>
 
 <section50>
-  <img class="section50left" src="/images/stem/Maze.jpg">
+  <div class="section50left">
+  <img style="width:300px" src="/images/stem/Maze.png">
+  <div class="license">
+   <a href="https://www.wannapik.com/vectors/5479">Image</a>
+      <a href="https://creativecommons.org/licenses/by/3.0/">licensed</a> from Wannapik Studio
+  </div>
+  </div>
   <div class="section50right">
     <h2>I wanna do STEM but ...</h2> 
     <ul class="disc" style="padding-left:40px"> 

@@ -1,10 +1,13 @@
 ---
 heading: Logic Grids
 toplink: https://www.ahapuzzles.com/logic/logic-puzzles/
-ages: 8+
+ages: 11 to adult
 num: 1
 pic: /images/tech/LogicGrid.png
-piccaption: An Example Puzzle
+piclink: https://commons.wikimedia.org/wiki/File:Logic_grid.png
+piccreator: Wikimedia Commons
+piclicense: https://creativecommons.org/licenses/by-sa/3.0/
+piccaption: Example Logic Grid
 description: A logic puzzle available in different difficulty levels
 ---
 
@@ -18,3 +21,4 @@ description: A logic puzzle available in different difficulty levels
 <li> Continue this until you fill out the entire grid </li>
 
 <li><a href="https://logic.puzzlebaron.com/how-to-solve-a-logic-puzzle.php">Click here for more detailed instructions</a></li>
+<li>Available as Einstein's Puzzle on <a href="https://apps.apple.com/us/app/einsteins-riddle-logic-puzzle/id950326185">iOS</a> / <a href = "https://play.google.com/store/apps/details?id=com.rottzgames.logic&hl=en_US">Android</a> 

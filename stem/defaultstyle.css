@@ -97,6 +97,27 @@ header {
   width: auto;
 }
 
+.navbar3 {
+  height: 300px;
+}
+
+.gallery3 {
+  margin: 10px;
+  border: 1px solid #275da1;
+  float: left;
+  height: 200px;
+}
+
+.gallery3:hover {
+  transform: scale(1.2);
+  border: 1px solid #777;
+}
+
+.gallery3 img {
+  height: 100%;
+  width: auto;
+}
+
 /**************** Layout Styles *****************/
 h1, h2, h3 {
   line-height: 1;
@@ -134,9 +155,21 @@ div {
   text-align: left;
 }
 
- p {
+p {
   margin-top: 0;
   text-align: left;
+}
+
+img {
+  margin: auto;    /* Centers the item in horizontal direction */
+  display: block;  /* Displays it in it's own line */
+  width: 450px;
+}
+
+.license {
+  font-size: 10px;
+  text-align: center;
+  margin: auto;
 }
 
 leftbar {

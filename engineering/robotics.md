@@ -22,26 +22,12 @@ h2: Engineering
 </section50short>
 
 <section50>
-<h3>Popular robots for students</h3>
-  <div class="section50left">
-    <iframe src="https://www.youtube.com/embed/LA9py48X6_o" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
-    <h3>Dash by Wonder Workshop</h3>
-  </div>
-  <div class="section50right">
-    <iframe src="https://www.youtube.com/embed/8H6ldqkI3uM?start=25" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
-    <h3>LEGO Mindstorm EV3</h3>
-  </div>
-</section50>
-
-<section50>
-<h3>Popular robots in our lives</h3>
+<h2>Robots in our lives</h2>
   <div class="section50left">
     <iframe src="https://www.youtube.com/embed/TUx-ljgB-5Q" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
-    <h3>Robots running Amazon warehouses</h3>
   </div>
   <div class="section50right">
     <iframe src="https://www.youtube.com/embed/6_TpuJ3bnL8" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
-    <h3>10 robots that make your life easier</h3>
   </div>
 </section50>
 
@@ -93,10 +79,11 @@ h2: Engineering
 <div> Well, that depends on a variety of factors, like your budget, or do you have a coach available to guide you, or whether you want a multi-purpose robot that you can shape to your wishes. We recommend the following robots: </div>
 <br>
 
+<section50>
   <div class="section50left">
-  <h2> <a href="https://www.makewonder.com/">Dash / Cue </a> </h2>
+  <h2> <a href="https://www.makewonder.com/">Dash / Cue</a></h2>
   <h3>Quick start and affordable</h3>
-  <img style="width: 450px" src="/images/engg/DashCue.jpg" >
+    <iframe src="https://www.youtube.com/embed/LA9py48X6_o" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
   <ul class="yes"> Pros:
   <li> Ages: 6+ : Yes, a 1st grader can use the dash robot!</li>
   <li> Affordable Choices:
@@ -132,12 +119,12 @@ h2: Engineering
   <div class="section50right">
   <h2> <a href="http://education.lego.com/">Lego Mindstorm EV3</a> </h2>
   <h3>Multipurpose and versatile</h3>
-  <img style="width: 450px" src="/images/engg/EV3.jpg" >
+    <iframe src="https://www.youtube.com/embed/8H6ldqkI3uM?start=25" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
   <ul class="yes"> Pros:
   <li> Universally accepted as the market leader </li>
   <li> Versatile
   <ul class="aboutl2">
-    <li>Use your imagination to build any shape with legos. <br>Sky is the limit!</li>
+    <li>Use your imagination to build <a href="https://robots.ieee.org/robots/legoev3/">any shape</a> with legos. <br>Sky is the limit!</li>
     <li>Most robotics competitions use this robot</li>
   </ul>
   </li>
@@ -158,10 +145,9 @@ h2: Engineering
   </div>
 </section50>
 
-<section50>
+<section50short>
 <h2>Hmmm, do I really need to participate in a Robotics competition?</h2>
-<div> There are several robotics competitions for all age levels. Why should you participate in them? Robotics competitions give you a goal to work towards while learning robotics. Without a competition, you will buy a robot, and maybe play with it for a few days or weeks, and then it becomes another “toy” lying around the house. A competition, on the other hand, gives you a framework that defines what size team to collect, what kind of robot to build, what missions to program the robot for, and what timeframe to shoot for. It makes robotics a lot more fun! You don’t have to shoot to win 1st place. Just enjoy the experience.
-<br> <br>
-Learn more about them on our <a href="https://docs.google.com/document/d/1M1eE4aGP2bj6ewfKVlvDDFaQA3Oo8mWgoPYq8cynXlg/edit">Robotics Competitions</a> page.
+<div style="width:800px; padding-left:100px"> We highly recommend it!  Robotics competitions give you a goal to work towards while learning robotics. Learn more on our <a href="/engineering/robocompetitions">Robotics Competitions</a> page.
  </div>
-</section50>
+</section50short>
+<br>

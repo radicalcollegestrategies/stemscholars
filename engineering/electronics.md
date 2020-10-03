@@ -10,7 +10,13 @@ h2: Engineering
 </section50short>
 
 <section50>
-  <img class="section50left" src="/images/engg/SnapCircuits.jpg">
+  <div class="section50left">
+  <img src="/images/engg/SnapCircuits.jpg">
+    <div class="license">(
+      <a href="https://www.flickr.com/photos/adafruit/6976696355">Image</a>
+      <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">licensed</a> from flickr
+    )</div>
+  </div>
 
   <div class="section50right">
     <h2><a href="https://www.amazon.com/Snap-Circuits-SC-300-Electronics-Exploration/dp/B0000683A4">Snap Circuits</a></h2>

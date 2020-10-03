@@ -16,12 +16,12 @@ Logic is the bridge between Math and Programming. Logic puzzles and games teach 
  <li> Critical Thinking, Problem Solving and Reasoning. 
  <ul class="aboutl2"><li>All these are the same ingredients that you need to learn coding / programming! </li></ul>
  </li>
- <li>And did we mention that these puzzles can provide you with hours of fun?
+ <li>These puzzles provide you with hours of fun!
  <ul class="aboutl2"><li>If you enjoy math, you will surely enjoy solving Logic Puzzles and playing Logic Games.</li></ul>
  </li>
 </ul>
 <h2>Great Logic Puzzles and Games</h2>
-<p> Mazes and Jigsaws are great puzzles to start in pre-school. Below are a few good ones to tickle your mind as you grow. Many puzzles here point to a website where you can play the puzzle, but you can easily substitute that with another website, or an app or a puzzle book! Use whatever medium works for you. </p>
+<p> Mazes and Jigsaws are great puzzles to start in pre-school. Below are a few good ones to tickle your minds for ages 6-99. Many puzzles here point to a website where you can play the puzzle, but you can easily substitute that with another website, or an app or a puzzle book! Use whatever medium works for you. </p>
 </div>
 <br>
 </section50short>
@@ -38,7 +38,19 @@ Logic is the bridge between Math and Programming. Logic puzzles and games teach 
   {% if mod == 0 %}
 
     <div class="section50left">
-    <img class="center" width=450 src="{{ comp.pic }}">
+    {% if comp.picsmall %}
+      <img style="width:350px" src="{{ comp.pic }}">
+    {% else %}
+      <img src="{{ comp.pic }}">
+    {% endif %}
+
+    {% if comp.piccreator %}
+      <div class="license">(
+        <a href="{{ comp.piclink }}">Image</a>
+        <a href="{{ comp.piclicense }}">licensed</a> from {{ comp.piccreator }}
+        )</div>
+    {% endif %}
+
     <h3> {{ comp.piccaption }} </h3>
     </div>
 
@@ -71,7 +83,20 @@ Logic is the bridge between Math and Programming. Logic puzzles and games teach 
     </div>
  
     <div class="section50right">
-    <img class="center" width=450 src="{{ comp.pic }}">
+
+    {% if comp.picsmall %}
+      <img style="width:350px" src="{{ comp.pic }}">
+    {% else %}
+      <img src="{{ comp.pic }}">
+    {% endif %}
+
+    {% if comp.piccreator %}
+      <div class="license">(
+        <a href="{{ comp.piclink }}">Image</a>
+        <a href="{{ comp.piclicense }}">licensed</a> from {{ comp.piccreator }}
+        )</div>
+    {% endif %}
+
     <h3> {{ comp.piccaption }} </h3>
     </div>
 

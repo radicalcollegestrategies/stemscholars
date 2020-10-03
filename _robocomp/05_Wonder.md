@@ -3,8 +3,7 @@ heading: Wonder League Robotics Competition
 toplink: https://www.makewonder.com/classroom/robotics-competition/
 grades: K-2    or    3-5    or    6-8
 teamsize: 1-5
-video: https://www.youtube.com/watch?v=I3bmF0iWOuk
-pic: /images/engg/Wonder.jpg
+video: https://www.youtube.com/embed/gs8CX1RAn2E
 ---
 
 <li> <a href="https://smile.amazon.com/Wonder-Workshop-Dash-Activated-Programming/dp/B00SKURVKY/">Dash Robot</a> ($150, 1 time cost) for Grades K-5</li>

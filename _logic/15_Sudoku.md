@@ -1,11 +1,12 @@
 ---
 heading: Sudoku - The most popular Japanese puzzle!
 toplink: https://sudoku.game/
-ages: 8+
+ages: 8 to adult
 num: 1
 pic: /images/tech/Sudoku.png
-piccaption: Example of solved puzzle
-description: A logic game available in different difficulty levels.
+picsmall: 1
+piccaption: Example of a solved Sodoku
+description: A logic game available in different difficulty levels
 ---
 
 <li>A 9 by 9 grid separated into 3 by 3 boxes</li>

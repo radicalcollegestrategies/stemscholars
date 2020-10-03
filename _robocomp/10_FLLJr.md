@@ -2,9 +2,8 @@
 heading: FIRST Lego League Explore (formerly, FLL Jr)
 toplink: https://www.firstinspires.org/robotics/fll
 grades: 2-4
-team_size: 2-5
-video: https://www.youtube.com/watch?v=l0plmuDR8gw
-pic: /images/engg/FLLJr.jpg
+teamsize: 2-5
+video: https://www.youtube.com/embed/aBry39zciQk
 ---
 
 <li> <a href="https://education.lego.com/en-us/products/wedo-2-0-core-add-on-homeschool-bundle-by-lego-education/5005840">Lego WeDo Robot 2.0</a> ($220-320, 1 time cost)</li>

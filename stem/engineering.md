@@ -27,8 +27,8 @@ h2: Robotics and Electronics
 <section50>
   <h2>Hone your Engineering Skills</h2>
 
-<div> <b>Preschoolers and elementary schoolers:</b> There are many great building toys you can explore to develop spatial thinking and engineering skills. These toys are fun and educational at the same time. </div>
-<div> Girls, these toys are not just for boys. Please give them a shot, and you may be pleasantly surprised!</div>
+<div> <b>Preschoolers and elementary schoolers:</b> There are many great building sets you can explore to develop spatial thinking and engineering skills. They are fun and educational at the same time. </div>
+<div> Girls, building sets are not just for boys. Please give them a shot, and you may be pleasantly surprised!</div>
 <br>
 
 <div> <b>Elementary, Middle and high schoolers: </b> Discover the world of Electronics and Robotics below</div>
@@ -36,21 +36,21 @@ h2: Robotics and Electronics
 
   <div class="navbar2">
     <div class="center" style="width:1200px">
-      <div class="gallery2">
+      <div class="gallery3">
           <a href="https://childhood101.com/building-constructing-toy-sets-for-kids/"  target="_blank">
-            <img src="/images/engg/BuildToys.jpg" alt="Building Toys" width="350" height="250">
+            <img src="/images/engg/BuildSets.jpg" alt="Building Sets">
           </a>
       </div>
       
-      <div class="gallery2">
+      <div class="gallery3">
           <a href="/engineering/electronics">
-            <img src="/images/engg/Electronics.jpg" alt="Electronics" width="350" height="250">
+            <img src="/images/engg/Electronics.jpg" alt="Electronics">
           </a>
       </div>
       
-      <div class="gallery2">
+      <div class="gallery3">
           <a href="/engineering/robotics">
-            <img src="/images/engg/RobotGeneric.jpg" alt="Science" width="350" height="250">
+            <img src="/images/engg/Robotics.jpg" alt="Robotics">
           </a>
       </div>
     </div>
