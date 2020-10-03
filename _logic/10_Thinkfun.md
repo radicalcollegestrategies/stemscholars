@@ -9,6 +9,6 @@ description: ThinkFun brand has many interesting games.
 ---
 <li>Deck of challenge cards of varying difficulty</li>
 <li>Pick a card and arrange the board accordingly</li>
-
-<li>Follow the rules and work towards the game's goal</li>
+<li>Follow the rules and work towards the goal</li>
+<li>Each game comes in a travel-friendly pouch</li>
 <li>The games teach various science, logic and spatial concepts in a fun way</li>
