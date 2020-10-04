@@ -10,6 +10,6 @@ description: This free site makes it simple to create apps. <br> You create apps
 <li>Download the <a href="https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3" target="_blank">MIT AI2 Companion</a> app on your android device, </li>
 <ul class="aboutl2">
 <li><b>Note:</b> App Inventor Companion for iOS is in beta testing</li> </ul>
-<li>Follow <a href="https://www.youtube.com/watch?v=WKM8QCuxmQY&list=PLesEVWa4GzgGDQEayLCsXFqnCkcE76FUJ&index=1" target="_blank">our YouTube playlist</a> for detailed tutorials</li>
+<li>Follow <a href="https://www.youtube.com/playlist?list=PLofyzpXDbv8BnmiHSEhfEC8--R53yywAp" target="_blank">our YouTube playlist</a> for detailed tutorials</li>
 <li>You can also use <a href="https://appinventor.mit.edu/explore/ai2/tutorials" target="_blank">App Inventor's tutorials</a>
 
