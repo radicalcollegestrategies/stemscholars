@@ -19,22 +19,15 @@ URL: https://stemscholars.github.io/
 * Divide up the resources into "audience" of potential Students -- Beginning, Emerging and Taking Off!
 * Maybe check the video model at: https://www.nextvista.org/
 * Public Domain Images are at: https://github.com/stemscholars/stemscholars.github.io/blob/master/stem/publicimages.md
-* Add a google form for whoever to enter their name - and email. Perhaps, can be optional to include school and grade.
 ## Page Ideas
 * Science: 
   * Science Fair (Arshia): https://acsef.zfairs.com/?f=25e2f89f-2696-4168-9805-abbfe4675d33 
   * Science Bowl (Yash)
-* Technology: Logic page, Coding Tutorials (code.org), Coding competitions, Web page design, making apps, animation
-* Engineering: 
-  * Circuits, Arduino
-  * Robotics : Competitions, Tutorials
+* Technology: Coding Tutorials (python++), Coding competitions, Web page design, making apps, animation
+* Engineering: Done except Arduino, Raspberry Pi
 * Arts: Logan has a lot of ARTs - both visual and performing arts; including forensics!
 * Math: Logic page, Competitions, Other (Neil), Intro to finance: 
   * Money Smart curriculum for kids: https://www.fdic.gov/consumers/consumer/moneysmart/young.html
   * bayfi2020@gmail.com https://bayfi2020.wixsite.com/home (10 weeks, 6-9 grades)
-* Logic: Sudoku, Chess
 * Major/Careers: How to pick
-* About
-
-
-
+* About: Add a google form for whoever to enter their name, email, school and grade.
