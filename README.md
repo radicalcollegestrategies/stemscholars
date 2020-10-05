@@ -17,6 +17,8 @@ URL: https://stemscholars.github.io/
   * Maybe make 1 person in-charge of it ? Add pictures, creative stuff, memes.
   * Socio-economic -- persuade and demystify. Videos ? Outreach ?
 * Divide up the resources into "audience" of potential Students -- Beginning, Emerging and Taking Off!
+* Maybe check the video model at: https://www.nextvista.org/
+* Public Domain Images are at: https://github.com/stemscholars/stemscholars.github.io/blob/master/stem/publicimages.md
 * Add a google form for whoever to enter their name - and email. Perhaps, can be optional to include school and grade.
 ## Page Ideas
 * Science: 
@@ -34,5 +36,5 @@ URL: https://stemscholars.github.io/
 * Major/Careers: How to pick
 * About
 
-Maybe check the video model at: https://www.nextvista.org/
+
 
