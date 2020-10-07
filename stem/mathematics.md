@@ -10,13 +10,13 @@ h2: Research and Competitions
     <h2>Mathematics</h2>
   </div>
   <div class="tabinactive">
-    <h2><a href="/mathematics/competitions">Math Competitions</a></h2>
+    <h2><a href="/mathematics/mathcompetitions">Math Competitions</a></h2>
   </div>
 </section50short>
 
 <section50short>
 <h2>Explore Math in Elementary School</h2>
-<p>If you love Math, then we recommend going deeper with <a href="/mathematics/competitions/">Math Competitions</a> or Research, and exploring related areas like <a href="/stem/technology/">Logic and Programming</a>.</p>
+<p>If you love Math, then we recommend going deeper with <a href="/mathematics/mathcompetitions/">Math Competitions</a> or Research, and exploring related areas like <a href="/stem/technology/">Logic and Programming</a>.</p>
 
 </section50short>
 
