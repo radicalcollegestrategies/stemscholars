@@ -259,6 +259,14 @@ ul.italicl2 {
   text-align:left;
 }
 
+ul.disk16l1 {
+  font-size: 16px;
+  line-height: 1.5;
+  list-style-type: disc;
+  text-align:left;
+  padding-left:0px
+}
+
 /************************* Links *******************/
 a {
   color: #0821af;

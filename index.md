@@ -74,3 +74,22 @@ h2: Achieve excellence in any area of STEM
     <iframe src="https://www.youtube.com/embed/rmCfrV653Xo" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
   </div-->
 </section50>
+
+<div class="license">
+    Images in Navbar
+    <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank"> licensed</a>/adapted from 
+    <a href="https://thenounproject.com" target="_blank">The Noun Project</a>:
+    (<a href="https://thenounproject.com/search/?q=home&i=2522597" target="_blank">image</a> 
+     by <a href="https://thenounproject.com/taqiyyahmubassyaroh/" target="_blank">Taqiyyah</a>,
+    <a href="https://thenounproject.com/search/?q=tech&i=1620592" target="_blank">image</a>
+     by <a href="https://thenounproject.com/yurr/collection/water-authority/" target="_blank">Yurr</a>,
+    <a href="https://thenounproject.com/search/?q=gear&i=1030299" target="_blank">image</a>
+    by <a href="https://thenounproject.com/pedrosantospt3/" target="_blank">Pedro Santos</a>,
+    <a href="https://thenounproject.com/search/?q=pie+chart&i=2784961" target="_blank">image</a>
+    by <a href="https://thenounproject.com/sriulan711/" target="_blank">Sriulan</a>,
+    <a href="https://thenounproject.com/search/?q=graph&i=2713703" target="_blank">image</a>
+    by <a href="https://thenounproject.com/sholawatnariyah12/" target="_blank">Sholawat Nariyah</a>,
+    <a href="https://thenounproject.com/term/career-advancement/1267925/" target="_blank">image</a>
+     by <a href="https://thenounproject.com/iconika/" target="_blank">Iconika</a>  
+    )  <br> <br>
+  </div>
