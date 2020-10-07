@@ -26,6 +26,7 @@ You don’t have to shoot to win 1st place. Just enjoy the experience. </p>
  </div>
 </section50>
 <br>
+
 <section50>
 <h2>Robotics Competition Format</h2>
 

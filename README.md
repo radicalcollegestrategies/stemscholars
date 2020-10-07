@@ -25,6 +25,7 @@ URL: https://stemscholars.github.io/
   * Science Bowl (Yash)
 * Technology: Coding Tutorials (python++), Coding competitions, Web page design, making apps, animation
 * Engineering: Done except Arduino, Raspberry Pi
+  * https://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/ 
 * Arts: Logan has a lot of ARTs - both visual and performing arts; including forensics!
 * Math: Logic page, Competitions, Other (Neil), Intro to finance: 
   * Money Smart curriculum for kids: https://www.fdic.gov/consumers/consumer/moneysmart/young.html
