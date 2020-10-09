@@ -8,7 +8,7 @@ video: https://www.youtube.com/embed/_AqD6t1Cx_w
 
 <li> <a href="https://education.lego.com/en-us/products/lego-mindstorms-education-ev3-homeschool-combo-pack/5003480" target="_blank">LEGO EV3 robotics kit</a> ($420-$600, 1 time cost)</li>
 
-<li>FLL Table - look on craigslist or <a href="https://www.firstinspires.org/sites/default/files/uploads/resource_library/fll/table-build.pdf" target="_blank">build your own</a> (0-$100)</li>
+<li>FLL Table - look on craigslist or <a href="https://www.firstinspires.org/sites/default/files/uploads/resource_library/fll/table-build.pdf" target="_blank">download instructions to build your own</a> (0-$100)</li>
 
 <li> Registration and Event participation ($425) </li>
 

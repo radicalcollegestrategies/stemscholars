@@ -19,15 +19,18 @@ URL: https://stemscholars.github.io/
 * Divide up the resources into "audience" of potential Students -- Beginning, Emerging and Taking Off!
 * Maybe check the video model at: https://www.nextvista.org/
 * Public Domain Images are at: https://github.com/stemscholars/stemscholars.github.io/blob/master/stem/publicimages.md
-## Page Ideas
+## Remaining items
 * Science: 
   * Science Fair (Arshia): https://acsef.zfairs.com/?f=25e2f89f-2696-4168-9805-abbfe4675d33 
   * Science Bowl (Yash)
-* Technology: Coding Tutorials (python++), Coding competitions, Web page design, making apps, animation
-* Engineering: Done except Arduino, Raspberry Pi
-  * https://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/ 
+* Technology: 
+  * Coding Tutorials (python++). Anish/Melanie: -repl.it is a free code editor for those that cannot download visual studio code or brackets. Codecademy.com
+  * Coding competitions, Web page design, making apps, animation
+* Engineering: Remaining items:
+  * Arduino, Raspberry Pi: https://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/ 
+  * Flowchart for Robotics page: https://stemscholars.github.io/engineering/robocompetitions/ 
 * Arts: Logan has a lot of ARTs - both visual and performing arts; including forensics!
-* Math: Logic page, Competitions, Other (Neil), Intro to finance: 
+* Math: Competitions, Other (Neil), Intro to finance: 
   * Money Smart curriculum for kids: https://www.fdic.gov/consumers/consumer/moneysmart/young.html
   * bayfi2020@gmail.com https://bayfi2020.wixsite.com/home (10 weeks, 6-9 grades)
 * Major/Careers: How to pick

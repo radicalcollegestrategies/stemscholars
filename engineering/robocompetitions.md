@@ -22,7 +22,7 @@ h2: Engineering
 <p>There are several robotics competitions for all age levels. These competitions give you a goal to work towards while learning robotics. </p>
 <p>Without a competition, you will buy a robot, and maybe play with it for a few days or weeks, and then it becomes another “toy” lying around the house.</p> 
 <p>A competition, on the other hand, gives you a framework that defines what size team to collect, what kind of robot to build, what missions to program, and what timeframe to shoot for. It makes robotics a lot more fun!
-You don’t have to shoot to win 1st place. Just enjoy the experience. </p>
+Don't worry about winning - just enjoy the experience. </p>
  </div>
 </section50>
 <br>
@@ -33,14 +33,17 @@ You don’t have to shoot to win 1st place. Just enjoy the experience. </p>
 <div class="section50left">
 <p>For any robotics competition, you will need a team. You can form a robotics team with your friends, or join a team and make new friends. What can be more fun than spending hours with them every week doing robotics together? </p>
 
-<p>In the months prior to the competition date, teams build a robot and some attachments, then use the accompanying software to program it to complete a series of missions. During the competition, every team runs their robot, and the team with most points from the missions wins. </p>
+<p>In the months prior to the competition date, teams build a robot and some attachments, then use the accompanying software to program it to complete a series of missions. An attachment is like an arm to push any levers or hold any parts to be dropped off or picked up during the challenge. </p>
+<p>During the competition, every team runs their robot, and the team with most points from the missions wins. </p>
 
-<p>There are a wide variety of robotics competitions out there. We’ve compiled the most fun and prestigious ones below. </p>
 </div>
 
 <img class="section50right" src="/images/engg/EmanueleTeam.jpg">
 
 </section50>
+<section50short>
+<p>There are a wide variety of robotics competitions out there. We’ve compiled the most fun and prestigious ones below. </p>
+</section50short>
 
 <br>
 
@@ -123,7 +126,7 @@ You don’t have to shoot to win 1st place. Just enjoy the experience. </p>
 <p> If your team is willing to commit to FLL being their only extracurricular activity during August-November (and beyond, if you qualify for the next level), which means spending 10-15 hrs on it per week, then go for it! If you want enjoy robotics with lesser commitment, say about 5 hrs/week, then stick with Robofest, where you can decide how many challenges to participate in, depending on your interest level and other activities.</p>
 
 <h3>High School</h3>
-<p>The recommendation for high school is similar to middle school. All the FIRST competitions like FTC and FRC are intense and require a lot of time commitment. For example, during the build season for FRC, you may be working on your robot for about 15-20 hours a week during a 2-3 month period. Another issue is that there are very few FTC and FRC teams out there, so you may have to look for a team outside your school, sometimes even ~10 miles away! </p>
+<p>The recommendation for high school is similar to middle school. All the FIRST competitions like FTC and FRC are intense and require a lot of time commitment. For example, during the build season for FRC, you may be working on your robot for about 15-20 hours a week during a 2-3 month period. Another issue is that there are very few FTC and FRC teams out there, so you may have to look for a team outside your school and your immediate community. </p>
 <p>If you are able to find a team, and are willing to commit to FTC or FRC being their only extracurricular activity during their season, then go for it! If you want enjoy robotics with lesser commitment, say about 10 hrs/week, then stick with Robofest, where you can decide how many challenges to participate in, depending on your interest level and other activities.</p>
 <br>
 </section50short>

@@ -2,7 +2,7 @@
 heading: FIRST Robotics Challenge (FRC)
 toplink: https://www.firstinspires.org/robotics/frc
 grades: 9-12
-teamsize: 10 to maybe 100
+teamsize: 10 or more
 video: https://www.youtube.com/embed/i9SpCmWz2OY
 ---
 <li>Team Cost: About $8,000</li>
