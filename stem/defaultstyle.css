@@ -52,7 +52,8 @@ header {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #dbe2f8; /* #f1f1f1 */;
+  /* background-color: #dbe2f8; */
+  background-color: #eff3fd;
   font-size:16px;
   min-width: 180px;
   border-radius: 5px;
@@ -145,7 +146,8 @@ body {
    font-family: 'ABeeZee';
    /* color: rgb(71, 33, 241); */
    color: rgb(0, 0, 0);
-   background-color: #c9d5f8;
+   /* background-color: #c9d5f8; */
+   background-color: #eff3fd;
    margin: auto;
  }
 

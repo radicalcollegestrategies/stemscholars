@@ -6,24 +6,22 @@ h1: Block Programming
 h2: Technology
 ---
 <section50> 
-<h2>Coding for Beginners</h2>
+<h1>Coding for Beginners</h1>
 <p> Google's Blockly and MIT's Scratch
 are both great block-based programming languages to learn coding. Both provide visual interlocking blocks to represent code concepts like variables, logical expressions, loops, and more.</p>
 
 <div class="section50left">
-<h3>Blockly</h3>
-<p><b>Grades:</b> Kindergarten and up</p>
+<h2>Blockly</h2>
 <p>Blockly is used by a variety of coding platforms like code.org, MIT App Inventor and popular robots like Dash. <br> It allows you to create computer games and apps. </p> </div>
 
 <div class="section50right">
-<h3><a href="https://scratch.mit.edu/" target="_blank">Scratch</a></h3>
-<p><b>Grades:</b> 3 and up</p>
+<h2><a href="https://scratch.mit.edu/" target="_blank">Scratch</a></h2>
 <p>MIT's Scratch is a popular language for beginners. All you have to do is make an account <a href="https://scratch.mit.edu/" target="_blank">here</a>, and you can create games, animations, and interactive stories.</p>
 </div>
 </section50> 
 
 <section50short>
-<div>We recommend Blockly because of it's wider usage. Once you’re comfortable with Blockly or Scratch, check out our other pages to learn Python, C++, and HTML, which allow you to create programs that can do even cooler things!</div>
+<div>We recommend Blockly because of it's wider usage. Once you’re comfortable with Blockly or Scratch, check out our other pages to learn Python, Java, C++, and HTML, which allow you to create programs that can do even cooler things!</div>
 </section50short>
 <br>
 

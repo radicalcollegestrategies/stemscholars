@@ -11,7 +11,7 @@ h1: Meet the STEM Scholars
 
 <h2> Rayna Arora, President </h2>
 <ul class="aboutl1"> 
-<li> Junior at James Logan High School </li>
+<li> James Logan High School, Class of 2022 </li>
 <li> Experienced Programmer: 
   <ul class="aboutl2">
   <li> USA Computing Olympiad Platinum Level: <br> Ranked in the top 300 high school programmers in the nation </li> 
@@ -42,7 +42,7 @@ h1: Meet the STEM Scholars
     <h2> Rachel Portales, Vice President </h2>
 
 <ul class="aboutl1"> 
-<li> Sophomore at James Logan High School </li>
+<li> James Logan High School, Class of 2023 </li>
 <li> Experienced in Robotics:
   <ul class="aboutl2"> 
   <li> Assistant Coach for Emanuele Elementary Robotics FLL Team (2019) </li>
@@ -96,7 +96,7 @@ h1: Meet the STEM Scholars
 <li> Union City Family Center's District Wide Outreach Facilitator for: 
   <ul class="aboutl2">
   <li>Communication, Creative Solutions, </li>
-  <li>Honoring Principles of Equity,  Diversity, Inclusion, Intergenerational  Multi-Ethnic Knowledge </li>
+  <li>Honoring Principles of Equity,  Diversity, Inclusion, and Intergenerational  Multi-Ethnic Knowledge </li>
 </ul> </li>
 <li> Coach for Emanuele Elementary Robotics FLL Team (2012-2019) </li>
 <li> Facilitator of STEAM workshops for elementary school students </li>

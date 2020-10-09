@@ -15,7 +15,7 @@ description: A logic puzzle available in different difficulty levels
 
 <li>The grid shows items in each category</li>
 <li>Each options in a category can be used only once</li>
-<li>Goal: Figure out which option each item matches to using just the clues given and logic</li>
+<li>Goal: Figure out which option each item matches to using the given clues</li>
 <li> Read clues and eliminate boxes by clicking them</li>
 <li> Once you have eliminated the other options in a specific row/column in a box, double click the correct option to place a checkmark </li>
 <li> Continue this until you fill out the entire grid </li>

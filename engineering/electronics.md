@@ -5,10 +5,6 @@ permalink: /engineering/electronics/
 h1: Electronics
 h2: Engineering
 ---
-<section50short>
-  <h1>Elementary School</h1>
-</section50short>
-
 <section50>
   <div class="section50left">
   <img src="/images/engg/SnapCircuits.jpg">
@@ -36,7 +32,7 @@ h2: Engineering
 <br>
 <section50>
   <div class="section50left">
-    <h2>Arduino</h2>
+    <h2>Arduino and Raspberry Pi</h2>
   </div>
   <img class="section50right" src="/images/ComingSoon.png">
 

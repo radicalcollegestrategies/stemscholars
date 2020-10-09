@@ -11,7 +11,7 @@ description: A logic game available in different difficulty levels
 
 <li>A 9 by 9 grid separated into 3 by 3 boxes</li>
 
-<li>Each row, column and box must contain each number 1-9 exactly once</li>
+<li>Each row, column, and box must contain each number 1-9 exactly once</li>
 
 <li>Goal: Fill in the whole grid while following the above rules</li>
 

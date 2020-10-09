@@ -13,12 +13,13 @@ h2: Robotics and Electronics
 
   <div class="section50right">
     <h2><a href="https://blog.prepscholar.com/different-types-of-engineering" target="_blank"> Major branches of engineering </a></h2>
-    <ul class="yes" style="padding-left:40px; font-size: 18px;"> 
-    <li>Chemical - invent cool new materials</li>
-    <li>Civil - design buildings and bridges</li>
-    <li>Electrical - design electronics</li>
-    <li>Industrial - optimize production</li>
-    <li>Mechanical - Aerospace, Robotics</li>
+    <p style="padding-left:10px">The link above describes many engineering branches in detail. Some popular ones are mentioned below:</p>
+    <ul class="yes"> 
+    <li><a href="https://www.bls.gov/ooh/architecture-and-engineering/chemical-engineers.htm" target="_blank">Chemical</a> - invent cool new materials</li>
+    <li><a href="https://www.bls.gov/ooh/architecture-and-engineering/civil-engineers.htm" target="_blank">Civil</a> - design buildings and bridges</li>
+    <li><a href="https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm" target="_blank">Electrical</a> - design electronics</li>
+    <li><a href="https://www.bls.gov/ooh/architecture-and-engineering/industrial-engineers.htm" target="_blank">Industrial</a> - optimize production</li>
+    <li><a href="https://www.bls.gov/ooh/architecture-and-engineering/mechanical-engineers.htm" target="_blank">Mechanical</a> - Aerospace, Robotics</li>
     </ul>
   </div>
 

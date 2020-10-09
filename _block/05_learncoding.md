@@ -9,4 +9,4 @@ description: This free site teaches you coding using Blockly. You’ll get to ma
 <li>Scroll down until you see courses A-F</li>
 <li>Click on the course with your grade level on it</li>
 <li>If it's too easy/hard, pick a different course</li>
-<li>If you own a <a href="/engineering/robotics#WhichRobot">Dash Robot</a>, learn coding with their <a href="https://www.makewonder.com/apps/" target="_blank">free apps</a>
+<li>If you own a <a href="/engineering/robotics#WhichRobot">Dash Robot</a>, learn coding with their <a href="https://www.makewonder.com/apps/" target="_blank">free apps</a></li>

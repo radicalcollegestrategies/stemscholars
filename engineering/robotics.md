@@ -23,6 +23,7 @@ h2: Engineering
 
 <section50>
 <h2>Robots in our lives</h2>
+<p>The videos below show how robots impact our daily lives. Self-driving cars, Roomba are popular robots we use every-day.</p>
   <div class="section50left">
     <iframe src="https://www.youtube.com/embed/TUx-ljgB-5Q" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
   </div>

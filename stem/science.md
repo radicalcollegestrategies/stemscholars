@@ -8,7 +8,7 @@ h2: Physics, Chemistry and Biology
 
 <section50short> 
 <h2>Explore Science in Elementary School</h2>
-<p>Several book sets and video series cover a variety of fascinating topics in Science. We recommend that you read and watch these with your child and discuss them afterwards.</p>
+<p>Several book sets and video series cover a variety of fascinating topics in Science. We recommend that the child and their parent read and watch these together and discuss them afterwards.</p>
 </section50short>
 
 {% for comp in site.elemsci %}  
@@ -60,6 +60,7 @@ h2: Physics, Chemistry and Biology
 <br>
 {% endfor %}
 
+<section50short>
 <h2>Science in Middle and High School</h2>
 <img class="center" src="/images/ComingSoon.png" style="width:600px; padding-bottom:50px;">
 </section50short>
