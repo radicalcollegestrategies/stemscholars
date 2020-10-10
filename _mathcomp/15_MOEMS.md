@@ -11,7 +11,7 @@ prep: https://www.amazon.com/Math-Olympiad-Contest-Problems-REVISED/dp/B00XHGQKX
 
 <li> Buy Vol 2 & 3 (not Vol 1) of MOEMS prep books 'coz they separate the problems into Div E & M</li>
 
-<li>MOEMs is flexible about proctor / location. If your school doesn't offer MOEMs:
+<li><a id="moems">MOEMs is flexible about proctor / location. If your school doesn't offer MOEMs:</a>
 <ul class="italicl2" style="padding-left:12px"> 
 <li>Ask your teacher if you can put their name on the form. All they have to do is receive a packet on your behalf.</li>
 <li>In the form, put the teacher's name as PICO, but the parent's email address</li>

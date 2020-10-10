@@ -115,7 +115,7 @@ h2: Competitions
 <h3>Upper Elementary School: Grades 4-6</h3>
 <p>The idea of Math Competitions in Elementary School is to develop a love and habit for the deep thinking that goes into Math competitions. The goal is not to go win an international prize! Also little kids can only understand short timeframes, so it'as hard for them to practice for a competition that's 4 months away! For this reason, we recommend competitions that hold multiple contests in a year. This keep the kids engaged in the competition and keeps their motivation level high.</p>
 
-<p><b>Deciding question:</b> Does your school offer MOEMS? (<u>or</u>) Can you persuade a school teacher to be the official PICO for MOEMS?</p>
+<p><b>Deciding question:</b> Does your school offer MOEMS? (<u>or</u>) Can you <a href="#moems">persuade a school teacher to be the official PICO</a> for MOEMS?</p>
 
 <div class="section50left"> 
 <h4>Yes!</h4>
