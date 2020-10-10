@@ -60,7 +60,7 @@ h2: Competitions
 </section50short>
 
 {% for comp in site.mathcomp %}  
-<section50short> 
+<section50 style="min-height: 150px;"> 
   <h2> <a href=" {{ comp.toplink }} " target="_blank">{{ comp.heading }} </a> </h2>
 
   <div class="section50left">
@@ -83,17 +83,56 @@ h2: Competitions
     </ul>
   </div>
 
-</section50short>
+</section50>
 <br><br>
 {% endfor %}
 
 <section50short>
 <h2>More competitions for Middle and High Schools</h2>
-<img class="center" src="/images/ComingSoon.png" style="width:600px; padding-bottom:50px;">
+<img class="center" src="/images/ComingSoon.png" style="width:400px; padding-bottom:50px;">
 </section50short>
 
-<section50>
+<section50 style="min-height: 200px;">
   <h2>Our Recommendations</h2>
-  <img class="center" src="/images/ComingSoon.png" style="width:600px; padding-top:50px;">
+
+  <div class="section50left">
+  <img style="width:200px" src="/images/stem/Maze.png">
+  <div class="license">
+   <a href="https://www.wannapik.com/vectors/5479" target="_blank">Image</a>
+      <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">licensed</a> from Wannapik Studio
+  </div>
+  </div>
+  <div class="section50right">
+    <ul class="disc" style="padding-left:40px"> 
+    <li>Are you lost in a maze of choices?</li>
+    <li>No worries! We'll help you navigate</li>
+    <li>Try the recommendations below to decide which competitions are right for <i>you</i></li>
+    </ul>
+  </div>
+</section50>
+
+<section50> 
+<h3>Upper Elementary School: Grades 4-6</h3>
+<p>The idea of Math Competitions in Elementary School is to develop a love and habit for the deep thinking that goes into Math competitions. The goal is not to go win an international prize! Also little kids can only understand short timeframes, so it'as hard for them to practice for a competition that's 4 months away! For this reason, we recommend competitions that hold multiple contests in a year. This keep the kids engaged in the competition and keeps their motivation level high.</p>
+
+<p><b>Deciding question:</b> Does your school offer MOEMS? (<u>or</u>) Can you persuade a school teacher to be the official PICO for MOEMS?</p>
+
+<div class="section50left"> 
+<h4>Yes!</h4>
+<p><b>Participate in MOEMS.</b> It is a prestigious competition, and is fun and challenging at the same time.</p>
+<p>Optional: In addition to MOEMS, you can consider participate in Math Kangaroo, which has a single contest. The "syllabus" is the same, and it's a prestigious international competition.</p>
+</div>
+
+<div class="section50right"> 
+<h4>No, I'm on my own</h4>
+<p><b>Participate in CML</b> as a "Home School". It is a good alternative to MOEMS.</p>
+<p>Optional: In addition to CML, you can consider participating in Math Kangaroo, which has a single contest. It is a prestigious international competition, and is slightly more challenging than CML, so may need extra preparation.</p>
+</div>
+
+</section50>
+
+<section50>
+<h3>Recommendations for for Middle and High Schools</h3>
+  <img class="center" src="/images/ComingSoon.png" style="width:400px; padding-top:50px;">
 
 </section50>

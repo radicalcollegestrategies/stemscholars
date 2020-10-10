@@ -96,11 +96,11 @@ Don't worry about winning - just enjoy the experience. </p>
 <br>
 {% endfor %}
 
-<section50>
+<section50 style="min-height: 200px;">
   <h2>Our Recommendations</h2>
 
   <div class="section50left">
-  <img style="width:300px" src="/images/stem/Maze.png">
+  <img style="width:200px" src="/images/stem/Maze.png">
   <div class="license">
    <a href="https://www.wannapik.com/vectors/5479" target="_blank">Image</a>
       <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">licensed</a> from Wannapik Studio
@@ -108,7 +108,7 @@ Don't worry about winning - just enjoy the experience. </p>
   </div>
   <div class="section50right">
     <ul class="disc" style="padding-left:40px"> 
-    <li>Lost in a maze of choices?</li>
+    <li>Are you lost in a maze of choices?</li>
     <li>No worries! We'll help you navigate</li>
     <li>Try the recommendations below to decide which competitions are right for <i>you</i></li>
     </ul>
@@ -116,17 +116,59 @@ Don't worry about winning - just enjoy the experience. </p>
 </section50>
 
 <section50short> 
-<h3>Elementary School</h3>
-<p>For elementary school students, we recommend the <b>Dash</b> robot by Wonder Workshop. You can get started with it very quickly, with no prior technical expertise. And remember to get together a team of your friends because it’s a lot more fun that way! </p>
+<h3>Step 1: Elementary School</h3>
+<p><b><a href="https://wwww.amazon.com/Wonder-Workshop-Dash-Activated-Programming/dp/B00SKURVKY" target="_blank">Buy Dash Robot:</a></b> For elementary school students, we recommend the Dash robot by Wonder Workshop. You can get started with it very quickly, with no prior technical expertise. And remember to get together a team of your friends to participate in the <a href="https://www.makewonder.com/classroom/robotics-competition/" target="_blank">Wonder League Robotics Competition</a> because it’s a lot more fun that way! </p>
 
-<h3>Middle School</h3>
-<p> Once you outgrow the Dash robot, you have a choice to make. If you have a parent or another mentor who is an expert in tech <i>and</i> can spend about 3 hrs every week coaching your team, then go ahead and buy the Lego EV3 robot. If you have no mentors to guide you, then get the Wonder Workshop Cue Robot to continue your robotics journey. </p>
+<h3>Step 2: Around Grades 4-6</h3>
+<p> Once you outgrow the Dash robot, or if you skipped it altogether, you have a choice to make. </p>
+<p><b>Deciding question:</b> Do you have a parent or another mentor who is an expert in tech <i>and</i> can spend at least 3 hrs every week for several months coaching your team? </p>
 
-<p>If you buy the EV3 robot, then you need to decide which competition to prepare for. Robofest is purely a robotics competition with easy setup where you can participate in one or more challenges. FLL is an intense competition with a lot of missions, along with a science project on the side. So the time commitment is equivalent to that of a competitive soccer team. It’s also a lot of fun because the mat is very colorful and the LEGO missions are kinda … cute. </p>
-<p> If your team is willing to commit to FLL being their only extracurricular activity during August-November (and beyond, if you qualify for the next level), which means spending 10-15 hrs on it per week, then go for it! If you want enjoy robotics with lesser commitment, say about 5 hrs/week, then stick with Robofest, where you can decide how many challenges to participate in, depending on your interest level and other activities.</p>
+<div class="section50left"> 
+<h4>I have a mentor</h4>
+<p> Buy the <a href="https://education.lego.com/en-us/products/lego-mindstorms-education-ev3-homeschool-combo-pack/5003480" target="_blank">Lego EV3 robot</a> and move onto Step 3</p>
+</div>
 
+<div class="section50right"> 
+<h4> I do not have a mentor </h4>
+<p> Continue your robotics journey with <a href="https://www.amazon.com/Wonder-Workshop-QU01-13-Cue-Robot/dp/B078XXPDVV/" target="_blank">Cue Robot</a>, and participate in the <a href="https://www.makewonder.com/classroom/robotics-competition/" target="_blank">Wonder League Robotics Competition</a> </p>
+</div>
+</section50short> 
+
+<section50 style="padding-top:125px"> 
+<h3>Step 3: You are in grades 4-8 with the Lego EV3 robot</h3>
+<p>First collect a team of your friends who will participate in a robotics competition with you. Now you need to decide which competition to prepare for. </p>
+<p><b>Deciding question:</b> How many hours a week are you and your team willing to commit to robotics?</p>
+
+<div class="section50left"> 
+<h4> 10 or more hours/week </h4>
+<p> <b>Do FLL:</b> FLL is an intense competition with a lot of missions, along with a science project on the side. So the time commitment is equivalent to that of a competitive soccer team. It’s also a lot of fun because the mat is very colorful and the LEGO missions are kinda … cute.</p>
+<p>Your team should be willing to commit to FLL being their only (or main) extracurricular activity during August-November (and beyond, if you qualify for the next level). </p>
+</div>
+
+<div class="section50right"> 
+<h4> About 3-8 hours/week </h4>
+<p> <b>Do robofest:</b> Robofest is purely a robotics competition with easy setup where you can participate in one or more challenges.</p>
+<p>You can decide how many challenges to participate in, depending on your interest level and other activities.</p>
+</div>
+</section50>
+<br>
+
+<section50short>
 <h3>High School</h3>
-<p>The recommendation for high school is similar to middle school. All the FIRST competitions like FTC and FRC are intense and require a lot of time commitment. For example, during the build season for FRC, you may be working on your robot for about 15-20 hours a week during a 2-3 month period. Another issue is that there are very few FTC and FRC teams out there, so you may have to look for a team outside your school and your immediate community. </p>
-<p>If you are able to find a team, and are willing to commit to FTC or FRC being their only extracurricular activity during their season, then go for it! If you want enjoy robotics with lesser commitment, say about 10 hrs/week, then stick with Robofest, where you can decide how many challenges to participate in, depending on your interest level and other activities.</p>
+<p>All the FIRST competitions like FTC and FRC are intense and require a lot of time commitment. For example, during the build season for FRC, you may be working on your robot for about 15-20 hours a week during a 2-3 month period. Another issue is that there are very few FTC and FRC teams out there, so you may have to look for a team outside your school and your immediate community. </p>
+<p><b>Deciding questions:</b></p>
+<ul class="disc16l1">
+<li>Are you willing to commit to FTC or FRC as your only extracurricular activity during their season, spending about 15-20 hrs/week?</li>
+<li>Are you able to find an FTC or FRC team to join?</li>
+</ul>
+
+<div class="section50left"> 
+<h4> Yes to both </h4>
+<p><b>Definitely go for FTC or FRC:</b> These are intense but very rewarding experiences. You will thoroughly enjoy them, learn a lot along the way and make lasting friendships.</p>
+</div>
+<div class="section50right"> 
+<h4>Ummm... not sure</h4>
+<p><b>Do Robofest:</b> Robofest will let you enjoy robotics with lesser commitment, say about 5-15 hrs/week. You can decide how many challenges to participate in, depending on your interest level and other activities.</p>
+</div>
 <br>
 </section50short>

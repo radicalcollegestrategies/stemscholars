@@ -139,6 +139,15 @@ h3 {
   font-size:18px;
 }
 
+h4 {
+  line-height: 1;
+  letter-spacing: 0;
+  font-size:16px;
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+}
+
 body {
    font-size: 16px;
    font-weight: normal;
@@ -261,12 +270,12 @@ ul.italicl2 {
   text-align:left;
 }
 
-ul.disk16l1 {
+ul.disc16l1 {
   font-size: 16px;
   line-height: 1.5;
   list-style-type: disc;
   text-align:left;
-  padding-left:0px
+  padding-left:12px
 }
 
 /************************* Links *******************/
@@ -337,14 +346,14 @@ section50short {
   float: left;
   margin-top: 0px;
   padding-right: 10px;
-  width: 450px;
+  width: 470px;
 }
 
 .section50right {
   float: left;
   padding-left: 10px; 
   padding-right: 20px;
-  width: 450px;
+  width: 470px;
 }
 
 /* Clear floats after the section -- need to test TODO */
