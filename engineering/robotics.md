@@ -97,7 +97,7 @@ h2: Engineering
 </section50>
 
 <section50>
-<h2><a id="WhichRobot">Which robot should I buy?</a></h2>
+<h2 id="WhichRobot">Which robot should I buy?</h2>
 <div> Well, that depends on a variety of factors, like your budget, or do you have a coach available to guide you, or whether you want a multi-purpose robot that you can shape to your wishes. We recommend the following robots: </div>
 <br>
 

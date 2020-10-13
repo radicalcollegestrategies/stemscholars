@@ -109,7 +109,7 @@ h2: Research and Competitions
 
 <section50>
 <h2>Accelerating in school curriculum</h2>
-<p>If you are fantastic at Math, you can accelerate through the Math Curriculum to cover: </p>
+<p>If you are fantastic at math, you can accelerate through the Math Curriculum to cover: </p>
     <ul class="disc16l1" style="padding-left:40px"> 
     <li>Middle School: Algebra, Geometry and maybe Algebra-2</li>
     <li>High School: Pre-Calculus, AP Calculus BC, AP Statistics, and even Multivariable Calculus or Linear Algebra (if your school offers them)</li>

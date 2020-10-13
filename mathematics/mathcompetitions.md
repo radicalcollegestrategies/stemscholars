@@ -17,7 +17,10 @@ h2: Competitions
 
 <section50> 
 <h2>Why should you participate in Math Competitions?</h2>
-<img class="section50left" style="width:350px" src="/images/math/OurMathTeam.jpg">
+<div class="section50left" style="text-align:center">
+<img  style="width:350px" src="/images/math/OurMathTeam.jpg">
+<b>IVCMS team at MathCounts at UC Berkeley, 2016</b>
+</div>
 
 <div class="section50right">
   <ul class="yes">
@@ -70,12 +73,12 @@ h2: Competitions
 <br><br>
 {% endfor %}
 
-<!--section50short>
+<section50short>
 <h2>More competitions for Middle and High Schools</h2>
 <img class="center" src="/images/ComingSoon.png" style="width:400px; padding-bottom:50px;">
 </section50short>
 
-<section50 style="min-height: 200px;">
+<!--section50 style="min-height: 200px;">
   <h2>Our Recommendations</h2>
 
   <div class="section50left">
