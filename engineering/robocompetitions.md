@@ -96,7 +96,7 @@ Don't worry about winning - just enjoy the experience. </p>
 <br>
 {% endfor %}
 
-<section50 style="min-height: 200px;">
+<!--section50 style="min-height: 200px;">
   <h2>Our Recommendations</h2>
 
   <div class="section50left">
@@ -113,9 +113,12 @@ Don't worry about winning - just enjoy the experience. </p>
     <li>Try the recommendations below to decide which competitions are right for <i>you</i></li>
     </ul>
   </div>
-</section50>
+</section50-->
 
 <section50short> 
+<div class="tabcenter">
+<h2>Our Recommendations</h2>
+</div>
 <h3>Step 1: Elementary School</h3>
 <p><b><a href="https://wwww.amazon.com/Wonder-Workshop-Dash-Activated-Programming/dp/B00SKURVKY" target="_blank">Buy Dash Robot:</a></b> For elementary school students, we recommend the Dash robot by Wonder Workshop. You can get started with it very quickly, with no prior technical expertise. And remember to get together a team of your friends to participate in the <a href="https://www.makewonder.com/classroom/robotics-competition/" target="_blank">Wonder League Robotics Competition</a> because it’s a lot more fun that way! </p>
 
@@ -141,13 +144,13 @@ Don't worry about winning - just enjoy the experience. </p>
 
 <div class="section50left"> 
 <h4> 10 or more hours/week </h4>
-<p> <b>Do FLL:</b> FLL is an intense competition with a lot of missions, along with a science project on the side. So the time commitment is equivalent to that of a competitive soccer team. It’s also a lot of fun because the mat is very colorful and the LEGO missions are kinda … cute.</p>
+<p> <b><a href="https://www.firstinspires.org/robotics/fll" target="_blank">Do FLL:</a></b> FLL is an intense competition with a lot of missions, along with a science project on the side. So the time commitment is equivalent to that of a competitive soccer team. It’s also a lot of fun because the mat is very colorful and the LEGO missions are kinda … cute.</p>
 <p>Your team should be willing to commit to FLL being their only (or main) extracurricular activity during August-November (and beyond, if you qualify for the next level). </p>
 </div>
 
 <div class="section50right"> 
 <h4> About 3-8 hours/week </h4>
-<p> <b>Do robofest:</b> Robofest is purely a robotics competition with easy setup where you can participate in one or more challenges.</p>
+<p> <b><a href="https://www.robofest.net/" target="_blank">Do robofest:</a></b> Robofest is purely a robotics competition with easy setup where you can participate in one or more challenges.</p>
 <p>You can decide how many challenges to participate in, depending on your interest level and other activities.</p>
 </div>
 </section50>
@@ -164,11 +167,11 @@ Don't worry about winning - just enjoy the experience. </p>
 
 <div class="section50left"> 
 <h4> Yes to both </h4>
-<p><b>Definitely go for FTC or FRC:</b> These are intense but very rewarding experiences. You will thoroughly enjoy them, learn a lot along the way and make lasting friendships.</p>
+<p><b>Definitely go for <a href="https://www.firstinspires.org/robotics/ftc" target="_blank">FTC</a> or <a href="https://www.firstinspires.org/robotics/frc" target="_blank">FRC:</a></b> These are intense but very rewarding experiences. You will thoroughly enjoy them, learn a lot along the way and make lasting friendships.</p>
 </div>
 <div class="section50right"> 
 <h4>Ummm... not sure</h4>
-<p><b>Do Robofest:</b> Robofest will let you enjoy robotics with lesser commitment, say about 5-15 hrs/week. You can decide how many challenges to participate in, depending on your interest level and other activities.</p>
+<p><b><a href="https://www.robofest.net/" target="_blank">Do Robofest:</a></b> Robofest will let you enjoy robotics with lesser commitment, say about 5-15 hrs/week. You can decide how many challenges to participate in, depending on your interest level and other activities.</p>
 </div>
 <br>
 </section50short>

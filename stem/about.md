@@ -6,13 +6,13 @@ h1: Meet the STEM Scholars
 ---
 
 <sectionpd>
-  <div class="sectionpdPicture">
-    <h3>Our Logo here</h3>
-  </div>
+  <img class="sectionpdPicture" src="/images/stem/STEMlogo.png" alt="Our LOGO here">
 
 <div class="sectionpdContent">
 <h2> Our mission </h2>
-<p>The STEM Scholars team consists of high school students who are passionate about Science, Technology, Engineering and Mathematics. We believe that everyone should try these areas at a young age to discover which of these areas they are passionate about and perhaps want to pursue as a career. The area of STEM is vast, with a variety of things you can explore outside of school as extracurriculars. Our goal with this website is to help cut through the numerous options and present to you just a handful of high quality resources to focus on. We hope that you explore these resources and discover <i>your</i> passion! </p>
+<p>The STEM Scholars team consists of high school students who are passionate about Science, Technology, Engineering and Mathematics. We believe that everyone should explore these fields at a young age to discover their passions and open up possibilities to a potential career. STEM contains a variety of things you can explore outside of school as extracurriculars. </p>
+
+<p>This website's goal is to help you cut through the numerous options and present a handful of high quality resources to focus on. We hope you have fun exploring our website!</p>
 
 </div>
 </sectionpd>
@@ -69,47 +69,6 @@ h1: Meet the STEM Scholars
 </div>
 </sectionpd>
 
-
-<sectionpd>
-    <img class="sectionpdPicture" src="/images/stem/STEMlogo.png" alt="Our LOGO here">
-<div class="sectionpdContent">
-
-<h2> STEM Scholar Team </h2>
-
-<div style="text-align:center"><b>Club Advisor:</b> Mr. Alex Carrozza, James Logan High School </div>
-<h3 style="text-align:center">From James Logan High School:</h3>
-<div class="row3">
-  <div>Leo Cao</div>
-  <div>Navika Singhal</div>
-  <div>Prabhdeep Kaur</div>
-  <div>Anisha Pallikonda</div>
-  <div>Annika Patanaik</div>
-  <div>Ashley Ramirez</div>
-  <div>Brooke Heider</div>
-  <div>Hannah Del Barrio</div>
-  <div>Jenelle Angela Bobadilla</div>
-  <div>Jasleen Lasher</div>
-  <div>Kalil Gutierrez Banda</div>
-  <div>Melanie Martinez</div>
-  <div>Riya Dhir</div>
-  <div>Ronit Dhir</div>
-  <div>Sanaa Stanezai</div>
-  <div>Sheya Lorraine Fangonilo</div>
-  <div>Sukhman Kaur</div>
-  <div>Yvette Peng</div>
-</div>
-<h3 style="text-align:center">Other Contributers:</h3>
-<div class="row2">
-  <div>Amanda Zhang, Space Cookies</div>
-  <div>Ananya Balaji, Space Cookies</div>
-  <div>Kanika Thakur, Space Cookies</div>
-  <div>Neil Makur, Fremont Christian School</div>
-</div>
-
-
-</div>
-</sectionpd>
-
 <sectionpd>
     <img class="sectionpdPicture" src="/images/stem/Gina.jpg">
 <div class="sectionpdContent">
@@ -135,4 +94,42 @@ h1: Meet the STEM Scholars
 
 
 </div>
+</sectionpd>
+
+<sectionpd>
+    <!--img class="sectionpdPicture" src="/images/stem/STEMlogo.png" alt="Our LOGO here"-->
+<!--div class="sectionpdContent"-->
+
+<h2> STEM Scholar Team </h2>
+
+<div style="text-align:center"><b>Club Advisor:</b> Mr. Alex Carrozza, James Logan High School </div>
+<h3 style="text-align:center">From James Logan High School:</h3>
+<div class="row4">
+  <div>Leo Cao</div>
+  <div>Navika Singhal</div>
+  <div>Prabhdeep Kaur</div>
+  <div>Anisha Pallikonda</div>
+  <div>Annika Patanaik</div>
+  <div>Ashley Ramirez</div>
+  <div>Brooke Heider</div>
+  <div>Hannah Del Barrio</div>
+  <div>Jenelle Angela Bobadilla</div>
+  <div>Jasleen Lasher</div>
+  <div>Kalil Gutierrez Banda</div>
+  <div>Melanie Martinez</div>
+  <div>Riya Dhir</div>
+  <div>Ronit Dhir</div>
+  <div>Sanaa Stanezai</div>
+  <div>Sheya Lorraine Fangonilo</div>
+  <div>Sukhman Kaur</div>
+  <div>Yvette Peng</div>
+</div>
+<h3 style="text-align:center">Other Contributers:</h3>
+<div class="row2">
+  <div style="width:500px">Space Cookies: Ananya Balaji, Amanda Zhang, Kanika Thakur</div>
+  <div style="width:300px">Fremont Christian School: Neil Makur</div>
+</div>
+
+
+<!--/div-->
 </sectionpd>

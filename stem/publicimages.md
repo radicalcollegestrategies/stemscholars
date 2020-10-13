@@ -14,3 +14,5 @@
 https://pixabay.com/service/license/ -- free for commercial and noncommercial use, Attribution is not required. 
 * Logic Puzzles https://pxhere.com/en/photo/1444651 Public Domain
 * Block Programming https://commons.wikimedia.org/wiki/File:Fibonacci_number_in_Blocky.png https://creativecommons.org/publicdomain/zero/1.0/deed.en Public Domain
+* Rubix https://pixabay.com/illustrations/rubiks-cube-cube-rubik-puzzle-toy-2583645/ "No attribution required"
+* Logic https://www.needpix.com/photo/download/299549/head-brain-man-face-human-forehead-headache-epilepsy-gear Public Domain

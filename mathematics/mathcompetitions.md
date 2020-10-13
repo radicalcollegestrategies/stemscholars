@@ -6,19 +6,18 @@ h1: Mathematics
 h2: Competitions
 ---
 
-<section50short style="height: 75px; padding-bottom:10px">
-  <div class="tabactive">
+<!--section50short style="height: 75px; padding-bottom:10px">
+  <div class="tabinactive">
     <h2><a href="/stem/mathematics">Mathematics</a></h2>
   </div>
-  <div class="tabinactive">
+  <div class="tabactive">
     <h2>Math Competitions</h2>
   </div>
-</section50short>
+</section50short-->
 
 <section50> 
 <h2>Why should you participate in Math Competitions?</h2>
-<!--img class="section50left" src="/images/engg/EmanueleRobot.jpg"-->
-<div class="section50left"><br><br><br><h3>TODO: Add Pic</h3></div>
+<img class="section50left" style="width:350px" src="/images/math/OurMathTeam.jpg">
 
 <div class="section50right">
   <ul class="yes">
@@ -40,23 +39,7 @@ h2: Competitions
     <li>Some competitions allow private institutions to register a team, e.g, HMMT. If your school doesn't have a Math Team, you can join a <a href="https://mathcircles.org/find-a-math-circle/" target="_blank">local Math Circle</a> or a private Math institute, and participate in a team through them.</li>
   </ul>
 </div>
-</section50short>
-
-<section50short> 
-<h2>Preparing for the competitions</h2>
-<div style="text-align:left">
-<p>If you just show up for any Math Competition without much preparation, quite likely you won't perform well. It takes months of preparation to do well in elementary school competitions, and sometimes years of preparation to do well in middle and high school competition. The secret to success is to make this a designated extra-curricular activity where you dedicate some time every week to prepare. If it's hard to motivate yourself to study, form a study-group of like-minded friends and meet regularly.
-</p>
-<p>More tips:</p>
-  <ul class="disc16l1">
-    <li>Several competitions in the same age group will typically have similar syllabus. The textbooks we mention for each competition will typically prepare you for many competitions simultaneously.</li>
-    <li>Try to find a local middle school student to coach an elementary school team, and a local high school student to coach a middle school team. This is a win-win because the coach develops leadership skills and/or earns volunteer hours while the students benefit from the coach's expertise. Ask neighbors or try nextdoor.com for finding interested coaches.</li>
-    <li>High school students can self-prepare using the material listed. If you are serious about the competitions, then it may be a good idea to join a <a href="https://mathcircles.org/find-a-math-circle/" target="_blank">local Math Circle</a> or a private Math institute. This will put you in touch with like-minded people, boost up your motivation level, and you will be able to register for team-competitions through the institute. Specifically, <a href="https://artofproblemsolving.com/" target="_blank">Art of Problem Solving</a> has several classes for all levels of Math Competitions.</li>
-    <li> There are YouTube channels targetting various competitions. This may work well for you especially if you don't have a coach.</li>
-    <li>In the weeks leading up to the competition, do several practice problems/exams for that specific competition.</li>
-  </ul>
 <p>There are a wide variety of Math competitions out there. We’ve compiled the most fun and prestigious ones below. </p>
-</div>
 </section50short>
 
 {% for comp in site.mathcomp %}  
@@ -87,7 +70,7 @@ h2: Competitions
 <br><br>
 {% endfor %}
 
-<section50short>
+<!--section50short>
 <h2>More competitions for Middle and High Schools</h2>
 <img class="center" src="/images/ComingSoon.png" style="width:400px; padding-bottom:50px;">
 </section50short>
@@ -109,9 +92,28 @@ h2: Competitions
     <li>Try the recommendations below to decide which competitions are right for <i>you</i></li>
     </ul>
   </div>
-</section50>
+</section50-->
 
 <section50> 
+<div class="tabcenter">
+  <h2>Our Recommendations</h2>
+</div>
+<section50short> 
+<h3>Preparing for the competitions</h3>
+<div style="text-align:left">
+<p>If you just show up for any Math Competition without much preparation, quite likely you won't perform well. It takes months of preparation to do well in elementary school competitions, and sometimes years of preparation to do well in middle and high school competition. The secret to success is to make this a designated extra-curricular activity where you dedicate some time every week to prepare. If it's hard to motivate yourself to study, form a study-group of like-minded friends and meet regularly.
+</p>
+<p>More tips:</p>
+  <ul class="disc16l1">
+    <li>Several competitions in the same age group will typically have similar syllabus. The textbooks we mention for each competition will typically prepare you for many competitions simultaneously.</li>
+    <li>Try to find a local middle school student to coach an elementary school team, and a local high school student to coach a middle school team. This is a win-win because the coach develops leadership skills and/or earns volunteer hours while the students benefit from the coach's expertise. Ask neighbors or try nextdoor.com for finding interested coaches.</li>
+    <li>High school students can self-prepare using the material listed. If you are serious about the competitions, then it may be a good idea to join a <a href="https://mathcircles.org/find-a-math-circle/" target="_blank">local Math Circle</a> or a private Math institute. This will put you in touch with like-minded people, boost up your motivation level, and you will be able to register for team-competitions through the institute. Specifically, <a href="https://artofproblemsolving.com/" target="_blank">Art of Problem Solving</a> has several classes for all levels of Math Competitions.</li>
+    <li> There are YouTube channels targetting various competitions. This may work well for you especially if you don't have a coach.</li>
+    <li>In the weeks leading up to the competition, do several practice problems/exams for that specific competition.</li>
+  </ul>
+</div>
+</section50short>
+
 <h3>Upper Elementary School: Grades 4-6</h3>
 <p>The idea of Math Competitions in Elementary School is to develop a love and habit for the deep thinking that goes into Math competitions. The goal is not to go win an international prize! Also little kids can only understand short timeframes, so it'as hard for them to practice for a competition that's 4 months away! For this reason, we recommend competitions that hold multiple contests in a year. This keep the kids engaged in the competition and keeps their motivation level high.</p>
 

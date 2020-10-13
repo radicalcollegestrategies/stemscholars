@@ -29,6 +29,7 @@ URL: https://stemscholars.github.io/
 * Engineering: Remaining items:
   * Arduino, Raspberry Pi: https://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/ 
   * Flowchart for Robotics page: https://stemscholars.github.io/engineering/robocompetitions/ 
+  * FLL details
 * Arts: Logan has a lot of ARTs - both visual and performing arts; including forensics!
 * Math: Competitions, Other (Neil), Intro to finance: 
   * Money Smart curriculum for kids: https://www.fdic.gov/consumers/consumer/moneysmart/young.html

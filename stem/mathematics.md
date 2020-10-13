@@ -5,40 +5,109 @@ permalink: /stem/mathematics/
 h1: Mathematics
 h2: Research and Competitions
 ---
-<section50short style="height: 75px; padding-bottom:10px">
+<!--section50short style="height: 75px; padding-bottom:10px">
   <div class="tabactive">
     <h2>Mathematics</h2>
   </div>
   <div class="tabinactive">
     <h2><a href="/mathematics/mathcompetitions">Math Competitions</a></h2>
   </div>
-</section50short>
+</section50short-->
 
 <section50>
 <h2>Math Beyond School : Problem Solving</h2>
 
-  <img class="section50left" src="/images/ComingSoon.png">
+  <img class="section50left" style="width:350px" src="/images/math/Rubix.png">
   <div class="section50right">
 
-    <p>If you love Math in school, and are reasonably good at it, then go deeper to hone your Problem Solving, Logical Reasoning and Critical Thinking skills. <i>Do not</i> waste your time doing busy work like pages and pages of long division! Do just enough practice problems in you school math to make sure you don't make silly mistakes, and spend the rest of you time solving more fun and engaging problems! </p>
+    <p>If you love Math in school, and are reasonably good at it, then go deeper to hone your Problem Solving, Logical Reasoning and Critical Thinking skills. <i>Do not</i> waste your time doing busy work like pages and pages of long division! Do just enough practice problems in school math to make sure you don't make silly mistakes, and spend the rest of your time solving more fun and engaging problems! </p>
 
-    <p>Problem Solving involves understanding the problem, and then finding a strategy to solve it. When you grow up, you may not use a lot of the actual math you learn in school in your daily lives or your career. However, the problem solving skills that you build while doing hard math problems will help you excel in many different fields. </p>
+    <p>Problem Solving involves understanding the problem and finding a strategy to solve it. When you grow up, you may not use a lot of the actual math you learn in school in your daily lives or your career. However, the problem solving skills that you build while doing hard math problems will help you excel in many different fields.</p>
 
   </div>
 </section50>
+<section50short>
+<p style="text-align:center">Build your problem solving skills in a variety of ways listed below.</p>
+</section50short>
 
-<section50>
-Build your problem solving skills in a variety of ways:
-1. Math Tricks
-2. <a href="/mathematics/mathcompetitions/">Math Competitions</a>
-3. <a href="/stem/technology/">Logic and Programming</a>.
+{% for comp in site.math %}  
+<section50> 
+  <h2>{{ comp.heading }}</h2>
+
+  <!-- Use capture to prevent outputting i -->
+  {% capture _%}{% increment i %}{% endcapture %}
+  {% assign mod = i | modulo:2 %}
+
+  <!-- For even loop runs, put pic to left. Switch for odd -->
+  {% if mod == 0 %}
+
+    <div class="section50left">
+    {% if comp.picsmall %}
+      <img style="width:350px" src="{{ comp.pic }}">
+    {% else %}
+      <img src="{{ comp.pic }}">
+    {% endif %}
+
+    {% if comp.piccreator %}
+      <div class="license">(
+        <a href="{{ comp.piclink }}" target="_blank">Image</a>
+        <a href="{{ comp.piclicense }}" target="_blank">licensed</a> from {{ comp.piccreator }}
+        )</div>
+    {% endif %}
+
+    <h3> {{ comp.piccaption }} </h3>
+    </div>
+
+    <div class="section50right">
+    <ul class="compl1">
+    <li> {{ comp.description }} </li>
+    <li><b>Grades:</b> {{ comp.grades }} </li>
+
+    <br>
+    <li>Resources:
+    <ul class="compl2">
+      {{ comp.content }} 
+    </ul> </li> </ul>
+    </div>
+
+  {% else %}
+
+    <div class="section50left">
+    <ul class="compl1">
+    <li> {{ comp.description }} </li>
+    <li><b>Grades:</b> {{ comp.grades }} </li>
+    
+    <br>
+    <li>Resources:
+    <ul class="compl2">
+      {{ comp.content }} 
+    </ul> </li> </ul>
+    </div>
+ 
+    <div class="section50right">
+
+    {% if comp.picsmall %}
+      <img style="width:350px" src="{{ comp.pic }}">
+    {% else %}
+      <img src="{{ comp.pic }}">
+    {% endif %}
+
+    {% if comp.piccreator %}
+      <div class="license">(
+        <a href="{{ comp.piclink }} target="_blank"">Image</a>
+        <a href="{{ comp.piclicense }}" target="_blank">licensed</a> from {{ comp.piccreator }}
+        )</div>
+    {% endif %}
+
+    <h3> {{ comp.piccaption }} </h3>
+    </div>
+
+  {% endif %}
 
 </section50>
+<br>
+{% endfor %}
 
-<section50short>
-<h2>Math in Middle and High School</h2>
-<img class="center" src="/images/ComingSoon.png" style="width:600px; padding-bottom:50px;">
-</section50short>
 
 <!--section50>
 <h2>Exploring Math Beyond School</h2>
