@@ -27,9 +27,10 @@ h2: Achieve excellence in any area of STEM
 <section50>
   <div class="section50left">
     <h2>Why should everybody <br>learn STEM?</h2>
-    <div style="text-align:center; font-style:italic;"> "75% of today's fastest growing careers require STEM skills."</div> 
+    <p style="text-align:center;">This fantastic video explains why &rarr;</p>
+    <p style="text-align:center; font-style:italic;"> "75% of today's fastest growing careers require STEM skills."</p> 
 
-    <div  style="text-align:center; font-style:italic; padding-top:20px">"We don't yet know what kind of jobs <br> will exist 10, 20, 30 years from now, <br> but with STEM, you're prepared for anything." </div>
+    <p style="text-align:center; font-style:italic;">"We don't yet know what kind of jobs <br> will exist 10, 20, 30 years from now, <br> but with STEM, you're prepared for anything." </p>
   </div>
   <div class="section50right">
     <iframe src="https://www.youtube.com/embed/fH5iLx_jCUk" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
@@ -47,9 +48,9 @@ h2: Achieve excellence in any area of STEM
   <div class="section50right">
     <h2>I wanna do STEM but ...</h2> 
     <ul class="disc" style="padding-left:40px"> 
-    <li>Where do I start?  .. or ..</li>
-    <li>How do I pick an activity? .. or ..</li>
-    <li>I did STEM before. What's the next step? .. or ..</li>
+    <li>Where do I start?</li>
+    <li>How do I pick an activity?</li>
+    <li>I did STEM before. What's the next step?</li>
     <li>I'm applying to colleges. What major do I pick?</li>
     </ul>
   </div>

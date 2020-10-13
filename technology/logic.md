@@ -8,8 +8,7 @@ h2: Technology / Mathematics
 
 <section50short> 
 <h2>Why Logic Puzzles and Games?</h2>
-<div>
-Logic is the bridge between Math and Programming. Logic puzzles and games teach you to:
+<p>Logic is the bridge between Math and Programming. Logic puzzles and games teach you to:</p>
 <ul class="yes">
  <li>Think step-by-step to arrive at your solution</li>  
  <li>Work forward from the starting point and backwards from the end point to find the right path to reach the solution.</li>
@@ -20,11 +19,24 @@ Logic is the bridge between Math and Programming. Logic puzzles and games teach 
  <ul class="aboutl2"><li>If you enjoy math, you will surely enjoy solving Logic Puzzles and playing Logic Games.</li></ul>
  </li>
 </ul>
-<h2>Great Logic Puzzles and Games</h2>
-<p> <a href="https://www.amazon.com/s?k=maze+books+for+kids&ref=nb_sb_noss_2" target="_blank">Mazes</a> and <a href="https://www.amazon.com/s?k=jigsaw+puzzles&ref=nb_sb_noss_2" target="_blank">Jigsaws</a> are great puzzles to start in pre-school. Some popular puzzles designed for school-aged kids and adults are listed below. Many puzzles here point to a website where you can play the puzzle, but you can easily substitute that with another website, or an app or a puzzle book! Use whatever works for you. </p>
-</div>
-<br>
 </section50short>
+
+<sectionpd>
+<h2>Great Logic Puzzles and Games</h2>
+
+<div class="sectionpdContent" style="min-height: 250px;">
+
+<p>Fun puzzles and games exist for kids of all ages!</p>
+<ul class="disc16l1"> 
+ <li>Preschoolers and above: Do lots of <a href="https://www.amazon.com/s?k=maze+books+for+kids&ref=nb_sb_noss_2" target="_blank">Mazes</a> and <a href="https://www.amazon.com/s?k=jigsaw+puzzles&ref=nb_sb_noss_2" target="_blank">Jigsaws</a>!</li>
+ <li>Grades 1-3: We highly recommend the book "<a href="https://www.amazon.com/gp/product/1601441495/" target="_blank">Building Thinking Skills</a>"</li>
+ <li>School-aged kids and adults: Some popular puzzles are listed below. </li>
+ </ul>
+<p>Many puzzles here point to a website where you can play the puzzle, but you <br>can easily substitute that with another website, or an app or a puzzle book! <br> Use whatever works for you. </p>
+
+</div>
+  <img class="sectionpdPicture" style="margin-top: 0px;" src="/images/tech/Thinking.png">
+</sectionpd>
 
 {% for comp in site.logic %}  
 <section50> 
@@ -47,7 +59,7 @@ Logic is the bridge between Math and Programming. Logic puzzles and games teach 
     {% if comp.piccreator %}
       <div class="license">(
         <a href="{{ comp.piclink }}" target="_blank">Image</a>
-        <a href="{{ comp.piclicense }} target="_blank"">licensed</a> from {{ comp.piccreator }}
+        <a href="{{ comp.piclicense }}" target="_blank">licensed</a> from {{ comp.piccreator }}
         )</div>
     {% endif %}
 
@@ -93,7 +105,7 @@ Logic is the bridge between Math and Programming. Logic puzzles and games teach 
     {% if comp.piccreator %}
       <div class="license">(
         <a href="{{ comp.piclink }} target="_blank"">Image</a>
-        <a href="{{ comp.piclicense }} target="_blank"">licensed</a> from {{ comp.piccreator }}
+        <a href="{{ comp.piclicense }}" target="_blank">licensed</a> from {{ comp.piccreator }}
         )</div>
     {% endif %}
 

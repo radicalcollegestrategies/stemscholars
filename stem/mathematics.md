@@ -14,11 +14,26 @@ h2: Research and Competitions
   </div>
 </section50short>
 
-<section50short>
-<h2>Explore Math in Elementary School</h2>
-<p>If you love Math, then we recommend going deeper with <a href="/mathematics/mathcompetitions/">Math Competitions</a> or Research, and exploring related areas like <a href="/stem/technology/">Logic and Programming</a>.</p>
+<section50>
+<h2>Math Beyond School : Problem Solving</h2>
 
-</section50short>
+  <img class="section50left" src="/images/ComingSoon.png">
+  <div class="section50right">
+
+    <p>If you love Math in school, and are reasonably good at it, then go deeper to hone your Problem Solving, Logical Reasoning and Critical Thinking skills. <i>Do not</i> waste your time doing busy work like pages and pages of long division! Do just enough practice problems in you school math to make sure you don't make silly mistakes, and spend the rest of you time solving more fun and engaging problems! </p>
+
+    <p>Problem Solving involves understanding the problem, and then finding a strategy to solve it. When you grow up, you may not use a lot of the actual math you learn in school in your daily lives or your career. However, the problem solving skills that you build while doing hard math problems will help you excel in many different fields. </p>
+
+  </div>
+</section50>
+
+<section50>
+Build your problem solving skills in a variety of ways:
+1. Math Tricks
+2. <a href="/mathematics/mathcompetitions/">Math Competitions</a>
+3. <a href="/stem/technology/">Logic and Programming</a>.
+
+</section50>
 
 <section50short>
 <h2>Math in Middle and High School</h2>
@@ -28,12 +43,12 @@ h2: Research and Competitions
 <!--section50>
 <h2>Exploring Math Beyond School</h2>
 <p>Math is already covered well in school, and if you have the interest, you can accelerate through the Math Curriculum to cover: </p>
-    <ul class="disk16l1" style="padding-left:40px"> 
+    <ul class="disc16l1" style="padding-left:40px"> 
     <li>Middle School: Algebra, Geometry and maybe Algebra-2</li>
     <li>High School: Pre-Calculus, AP Calculus BC, AP Statistics,and even Multivariable Calculus or Linear Algebra (if your school offers them)</li>
     </ul>
  <p>We do not recommend accelerating any more than the roadmap laid out above because:</p>
-    <ul class="disk16l1" style="padding-left:40px"> 
+    <ul class="disc16l1" style="padding-left:40px"> 
     <li>Many colleges only ask for classes taken in grades 10 and up, so don't "waste" an AP class by taking it in 9th grade</li>
     <li>The roadmap outlined above is sufficient for most popular math competitions</li>
     <li>If you are hungry for more math, we recommend that you go into the depth by exploring the Competition / Research aspect of it, instead of going through the subject faster. Keep reading for more.</li>

@@ -17,13 +17,21 @@ h2: Engineering
 
 <section50short> 
 <h2>What is Robotics?</h2>
-<div style="text-align:center">Robotics is a cool activity that involves building a robot and programming it to perform some tasks automatically. </div>
+<p>Robotics is a cool activity that involves building a robot and programming it to perform some tasks automatically. The goal of robotics is to design intelligent machines that can help and assist humans in their day-to-day lives and keep everyone safe. A robot has the following components:</p>
+  <ul class="yes">
+    <li>A mechanical construction </li>
+    <li>Electrical components to control and power the machinery</li>
+    <li>Several sensors which are essentially it's "eyes" to "see" what's all around it</li>
+    <li>A computer program that reads the input from the sensors and tells the robot what to do</li>
+  </ul>
 <br>
 </section50short>
 
 <section50>
 <h2>Robots in our lives</h2>
-<p>The videos below show how robots impact our daily lives. Self-driving cars, Roomba are popular robots we use every-day.</p>
+<p>You may recognize a robot as R2D2, C3PO or WALLE. However, robots in real life look very different. For starters, most of them don't look humanoid at all. Some robots that you may have seen or heard about are Self-driving cars, the Roomba vacuum cleaner, the Mars Rover and (soon) the Amazon delivery drones. In addition, many more robots work in the factories behind the scenes and perform repetitive hard jobs like assembling cars, military combats and even remote-controlled surgeries.</p>
+<p>A robot can be fully autonomous or remote-controlled. A fully autonomous robot works without any human interaction, with the computer program determining it's every action, e.g., <a href="https://www.youtube.com/watch?v=9XSaIYqgV50" target="_blank">mechanical arms to assemble car tires</a>, or <a href="https://robots.ieee.org/robots/curiosity/" target="_blank">the Mars Rover</a>. A remote-controlled robot has a human directing it's moves, e.g., <a href="https://www.instructables.com/RC-Car-to-Robot/"  target="_blank">an intelligent remote controlled car</a>, or <a href="https://www.sandboxx.us/blog/5-u-s-military-drone-uses-that-may-surprise-you/" target="_blank">a military drone</a>. </p>
+<p> The videos below show how robots impact our daily lives. </p>
   <div class="section50left">
     <iframe src="https://www.youtube.com/embed/TUx-ljgB-5Q" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
   </div>
@@ -56,7 +64,7 @@ h2: Engineering
 <h2>Why should I do Robotics?</h2>
   <div class="section50left">
       <h3>Fun reasons ...</h3> 
-    <ul class="disc" style="font-size: 16px;"> 
+    <ul class="yes" style="font-size: 16px;"> 
     <li>Robotics teaches you coding in a fun way</li>
     <li>Building the right robot and its attachments to perform a job involves creative thinking and exercises many parts of your brain </li>
     <li>It feels great to see the robot doing what you program it to do. It makes you want to do more and more!</li>
@@ -66,11 +74,12 @@ h2: Engineering
   <div class="section50right">
       <h3>Robotics is the future of all jobs</h3> 
     Many high paying jobs <i>in all sectors</i> involve robotics:
-    <ul class="disc" style="font-size: 16px;"> 
+    <ul class="yes" style="font-size: 16px;"> 
     <li>Self driving cars are robots! </li>
     <li>Soon your <a href="https://www.youtube.com/watch?v=MR9PoBAssw0" target="_blank">amazon delivery will be done by drones</a> </li>
-    <li>Doctors use nano-robots to <a href="https://www.youtube.com/watch?v=1QwyMWM0Jjg" target="_blank">diagnose and treat cancer</a>, and also to perform surgeries </li>
+    <li>Doctors use nano-robots to <a href="https://www.youtube.com/watch?v=1QwyMWM0Jjg" target="_blank">diagnose and treat cancer</a>, and also to perform precise surgeries </li>
     <li>Drones fight fires and perform air strikes, saving human lives</li>
+    <li><b>If you join robotics then YOU might be the next greatest inventor!</b></li>
     </ul>
   </div>
 </section50>
