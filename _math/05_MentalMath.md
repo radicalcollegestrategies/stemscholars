@@ -5,7 +5,7 @@ pic: /images/math/MentalMath.png
 piclink: https://pixy.org/486335/
 piccreator: Pixy
 piclicense: https://creativecommons.org/licenses/by-nc-nd/4.0/
-description: Practicing Mental Math Strategies helps you solve solving math problems efficiently, which gives you a great advantage with doing Math Competitions with a time constraint
+description: Practicing Mental Math Strategies helps you solve math problems efficiently, hence putting you at an advantage in Math Competitions with time constraints
 ---
 <li><a href="https://www.math-shortcut-tricks.com/" target="_blank">Math Shortcut Tricks</a></li>
 <li><a href="http://www.lazymaths.com/speed-math/" target="_blank">Lazy Math</a></li>
