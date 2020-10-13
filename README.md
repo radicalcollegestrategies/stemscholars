@@ -2,11 +2,6 @@
 URL: https://stemscholars.github.io/
 
 # Items
-## Intro Video
-  * Rayna: Script. Rayna and Rachel: Film
-  * Motivation: "Define what STEM means for you". "Why do I do STEM" and "What will you learn from this"
-  * "Why do I do STEM" -- What interests you to "stay engaged" ? What's your incentive ?
-* Arduino (Singhals)
 ## Video Tutorial for K-3
   * Rayna: Script
   * Material: Science(5 activities: Prabhdeep), Tech(coding: Rachel), Engg(robotics: Rayna)
@@ -25,6 +20,7 @@ URL: https://stemscholars.github.io/
   * Science Bowl (Yash)
 * Technology: 
   * Coding Tutorials (python++). Anish/Melanie: -repl.it is a free code editor for those that cannot download visual studio code or brackets. Codecademy.com
+  * Notes from Barry's email Sat Oct 10
   * Coding competitions, Web page design, making apps, animation
 * Engineering: Remaining items:
   * Arduino, Raspberry Pi: https://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/ 
