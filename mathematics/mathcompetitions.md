@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mathematics
-permalink: /mathematics/mathcompetitions
+permalink: /mathematics/mathcompetitions/
 h1: Mathematics
 h2: Competitions
 ---
