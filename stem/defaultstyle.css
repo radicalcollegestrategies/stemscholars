@@ -314,7 +314,7 @@ sectionpd {
   float: left;
   width: 700px;
   padding-left: 50px; 
-  min-height: 350px;
+  min-height: 300px;
 }
 
 /* Clear floats after the section -- need to test TODO */

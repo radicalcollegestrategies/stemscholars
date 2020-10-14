@@ -6,9 +6,9 @@ h1: Meet the STEM Scholars
 ---
 
 <sectionpd>
-  <img class="sectionpdPicture" src="/images/stem/STEMlogo.png" alt="Our LOGO here">
+  <img class="sectionpdPicture" style="padding-left:0px; width:300px;" src="/images/stem/STEMlogo.png" alt="Our LOGO here">
 
-<div class="sectionpdContent">
+<div class="sectionpdContent" style="padding-left:20px; width:650px;">
 <h2> Our mission </h2>
 <p>The STEM Scholars team consists of high school students who are passionate about Science, Technology, Engineering and Mathematics. We believe that everyone should explore these fields at a young age to discover their passions and open up possibilities to a potential career. STEM contains a variety of things you can explore outside of school as extracurriculars. </p>
 
@@ -78,7 +78,7 @@ h1: Meet the STEM Scholars
 <li> Union City Family Center's District Wide Outreach Facilitator for: 
   <ul class="aboutl2">
   <li>Communication, Creative Solutions, </li>
-  <li>Honoring Principles of Equity,  Diversity, Inclusion, and Intergenerational  Multi-Ethnic Knowledge </li>
+  <li>Honoring Principles of Equity,  Diversity, Inclusion, Intergenerational  Multi-Ethnic Knowledge </li>
 </ul> </li>
 <li> Coach for Emanuele Elementary Robotics FLL Team (2012-2019) </li>
 <li> Facilitator of STEAM workshops for elementary school students </li>
