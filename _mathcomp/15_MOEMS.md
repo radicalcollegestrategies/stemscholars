@@ -7,6 +7,11 @@ format: Several contests spread over a few months
 cost: $120 per set of 1-35 students
 details: http://www.moems.org/contests.htm
 prep: https://www.amazon.com/Math-Olympiad-Contest-Problems-REVISED/dp/B00XHGQKXU/
+sample: http://moems.org/sample.htm
+img1: /images/mathcomp/MoemsE.jpg
+caption1: Division E Sample Questions
+img2: /images/mathcomp/MoemsM.jpg
+caption2: Division M Sample Questions
 ---
 
 <li> Buy Vol 2 & 3 (not Vol 1) of MOEMS prep books 'coz they separate the problems into Div E & M</li>

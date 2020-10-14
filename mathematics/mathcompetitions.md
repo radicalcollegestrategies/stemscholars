@@ -55,18 +55,25 @@ h2: Competitions
     <li><b>Enrollment:</b> {{ comp.enrollment }} </li>
     <li><b>Format:</b> {{ comp.format }} </li>
     <li><b>Approx Cost:</b> {{ comp.cost }} </li>
+    <br>
+    <li><b><a href=" {{ comp.sample }} " target="_blank">Sample Test</a></b></li>
     <li><b><a href=" {{ comp.details }} " target="_blank">Important details</a>:</b> Dates, grades, etc</li>
     <li><b><a href=" {{ comp.prep }} " target="_blank">How to prepare</a></b></li>
     </ul>
-  </div>
 
-  <div class="section50right">
     <ul class="compl1">
     <li><b>Good to know:</b>
     <ul class="compl2">
       {{ comp.content }} 
     </ul> </li>
     </ul>
+  </div>
+
+  <div class="section50right">
+  <img src=" {{ comp.img1 }} ">
+  <h3> {{ comp.caption1 }} </h3>
+  <img src=" {{ comp.img2 }} ">
+  <h3> {{ comp.caption2 }} </h3>
   </div>
 
 </section50>
