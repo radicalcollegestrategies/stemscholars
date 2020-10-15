@@ -23,7 +23,11 @@ h2: Physics, Chemistry and Biology
   {% if mod == 0 %}
 
     <div class="section50left">
+      {% if comp.video %}
         <iframe src="{{ comp.video }}" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
+      {% else %}
+        <img src="{{ comp.pic }}">
+      {% endif %}
     </div>
 
     <div class="section50right">
@@ -31,7 +35,7 @@ h2: Physics, Chemistry and Biology
     <li><b>Grades:</b> {{ comp.grades }} </li>
     <li> {{ comp.description }} </li>
     <br>
-    <li>Choices:
+    <li>Details:
     <ul class="compl2">
       {{ comp.content }} 
     </ul> </li> </ul>
@@ -44,14 +48,18 @@ h2: Physics, Chemistry and Biology
     <li><b>Grades:</b> {{ comp.grades }} </li>
     <li> {{ comp.description }} </li>
     <br>
-    <li>Choices:
+    <li>Details:
     <ul class="compl2">
       {{ comp.content }} 
     </ul> </li> </ul>
     </div>
 
     <div class="section50right">
+      {% if comp.video %}
         <iframe src="{{ comp.video }}" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
+      {% else %}
+        <img src="{{ comp.pic }}">
+      {% endif %}
     </div>
 
   {% endif %}
@@ -61,6 +69,6 @@ h2: Physics, Chemistry and Biology
 {% endfor %}
 
 <section50short>
-<h2>Science in Middle and High School</h2>
+<h2>More Science in Middle and High School</h2>
 <img class="center" src="/images/ComingSoon.png" style="width:600px; padding-bottom:50px;">
 </section50short>
