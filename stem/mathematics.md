@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Mathematics
 permalink: /stem/mathematics/
-h1: Mathematics
-h2: Research and Competitions
+title: Mathematics
+h2: Problem Solving
 ---
 <!--section50short style="height: 75px; padding-bottom:10px">
   <div class="tabactive">

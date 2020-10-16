@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Block Programming
 permalink: /technology/blockprogram/
-h1: Block Programming
+title: Block Programming
 h2: Technology
 ---
 <section50> 

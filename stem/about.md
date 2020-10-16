@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Meet the STEM Scholars
 permalink: /stem/about/
-h1: Meet the STEM Scholars
+title: Meet the STEM Scholars
 ---
 
 <sectionpd>

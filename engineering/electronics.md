@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Electronics
 permalink: /engineering/electronics/
-h1: Electronics
+title: Electronics
 h2: Engineering
 ---
 <section50>

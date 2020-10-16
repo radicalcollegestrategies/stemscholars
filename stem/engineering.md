@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Engineering
 permalink: /stem/engineering/
-h1: Engineering
+title: Engineering
 h2: Robotics and Electronics
 ---
 

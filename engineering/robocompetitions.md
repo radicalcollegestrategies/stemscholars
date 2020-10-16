@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Robotics Competitions
 permalink: /engineering/robocompetitions/
-h1: Robotics Competitions
+title: Robotics Competitions
 h2: Engineering
 ---
 <section50short style="height: 75px; padding-bottom:10px">

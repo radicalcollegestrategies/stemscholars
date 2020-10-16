@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Logic Puzzles and Games
 permalink: /technology/logic/
-h1: Logic Puzzles and Games
+title: Logic Puzzles and Games
 h2: Technology / Mathematics
 ---
 

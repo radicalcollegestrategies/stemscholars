@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Technology
 permalink: /stem/technology/
-h1: Technology
-h2: Coding, App Design
+title: Technology
+h2: Logic and Coding
 ---
 
 <section50> 

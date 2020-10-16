@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Science
 permalink: /stem/science/
-h1: Science
+title: Science
 h2: Physics, Chemistry and Biology
 ---
 

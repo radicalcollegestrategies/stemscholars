@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Careers in STEM
 permalink: /stem/careers/
-h1: Career in STEM
+title: Careers in STEM
 h2: Pick a best-fit major based on your interests
 ---
 

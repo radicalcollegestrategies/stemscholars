@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Mathematics
 permalink: /mathematics/mathcompetitions/
-h1: Mathematics
-h2: Competitions
+title: Math Competitions
+h2: Mathematics
 ---
 
 <!--section50short style="height: 75px; padding-bottom:10px">

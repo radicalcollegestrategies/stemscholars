@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Get Started with Robotics
 permalink: /engineering/robotics/
-h1: Get Started with Robotics
+title: Get Started with Robotics
 h2: Engineering
 ---
 

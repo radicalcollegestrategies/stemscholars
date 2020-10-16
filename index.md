@@ -3,11 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: STEM Scholars
 permalink: /
-h1: STEM Scholars
+title: STEM Scholars
 h2: Achieve excellence in any area of STEM
-#h2: Helping students of all skill levels excel in STEM
 #h2: Demystifying STEM for K-12 students
 ---
 <section50>
@@ -62,18 +60,18 @@ h2: Achieve excellence in any area of STEM
     <ul class="aboutl1" style="padding-left:0px"> 
     <li>We'll help newbees get started in any STEM area,</li>
     <li>and experienced STEMmers figure out the next steps.</li>
-    <li>Here you'll find high quality resources for: 
+    <li>Explore this website to find high quality resources for: 
     <ul class="disc">
     <li>elementary, middle and high school students</li>
     <li>beginners, intermediates and experts in STEM</li>
     </ul></li>
+    <li><b>Subscribe to our <a href="https://www.youtube.com/channel/UClYU2cna8LvmSB6tULJbPPA/" target="_blank">YouTube channel</a> for more!</b></li>
     </ul>
-
   </div>
-  <img class="section50right" src="/images/VideoComingSoon.jpg">
-  <!--div class="section50right" style="padding-top: 50px;">
-    <iframe src="https://www.youtube.com/embed/rmCfrV653Xo" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
-  </div-->
+
+  <div class="section50right" style="padding-top: 50px;">
+    <iframe src="https://www.youtube.com/embed/8KDX6dHr97U?start=0" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
+  </div>
 </section50>
 
 <div class="license">
