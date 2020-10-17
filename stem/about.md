@@ -113,7 +113,7 @@ title: Meet the STEM Scholars
   <div>Ashley Ramirez</div>
   <div>Brooke Heider</div>
   <div>Hannah Del Barrio</div>
-  <div>Jenelle Angela Bobadilla</div>
+  <div>Janelle Angela Bobadilla</div>
   <div>Jasleen Lasher</div>
   <div>Kalil Gutierrez Banda</div>
   <div>Kelsey Codilla</div>
