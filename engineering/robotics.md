@@ -16,13 +16,13 @@ h2: Engineering
 
 <section50short> 
 <h2>What is Robotics?</h2>
-  <p>Robotics is a cool activity that involves building a robot and programming it to perform some tasks automatically. The goal of robotics is to design intelligent machines that can help and assist humans in their day-to-day lives and keep everyone safe. A robot has the following components:</p>
+  <p>Robotics is a cool activity that involves building a robot and programming it to perform some tasks automatically (i.e., on its own). The goal of robotics is to design intelligent machines that can help and assist humans in their day-to-day lives and keep everyone safe. A robot has the following components:</p>
 
   <ul class="yes">
-    <li>A mechanical construction </li>
-    <li>Electrical components to control and power the machinery</li>
-    <li>Several sensors which are essentially it's "eyes" to "see" what's all around it</li>
-    <li>A computer program that reads the input from the sensors and tells the robot what to do</li>
+    <li>A mechanical body that usually has an "arm" that can move using motors</li>
+    <li>An electrical system that powers the motors</li>
+    <li>Several sensors or "eyes" that help it "see" all around it</li>
+    <li>A controller or "brain" that runs a computer program. The program reads the input from the sensors and performs a sequence of moves on the motors. This makes the robot go to the right place and move its arm to perform its tasks.</li>
   </ul>
 
   <p>For example, many new cars have Adaptive Cruise Control, where the driver sets the maximum speed, and the car honors that while maintaining a minimum distance from the car ahead of it. Here the robot is the car engine, and the sensors in the front measure the distance from the car ahead of it. Then the computer program for cruise control sends electronic messages to the engine to automatically accelerate or decelarate the car based on the distance and the speed set by the driver.</p> 
@@ -33,7 +33,7 @@ h2: Engineering
 <h2>Robots in our lives</h2>
 <p style="text-align:center"> The videos below show how robots impact our daily lives. </p>
 <div class="section50left">
-  <p>You may recognize a robot as R2D2, C3PO or WALLE. However, robots in real life look very different. For starters, most of them don't look humanoid at all. Some robots that you may have seen or heard about are Self-driving cars, the Roomba vacuum cleaner, the Mars Rover and (soon) the Amazon delivery drones. In addition, many more robots work in the factories behind the scenes and perform repetitive hard jobs like assembling cars, military combats and even remote-controlled surgeries.</p>
+  <p>You may recognize a robot as R2D2, C3PO or WALLE. However, robots in real life look very different. For starters, most of them don't look like a human at all. Some robots that you may have seen or heard about are Self-driving cars, the Roomba vacuum cleaner, the Mars Rover and (soon) the Amazon delivery drones. In addition, many more robots work in the factories behind the scenes and perform repetitive hard jobs like assembling cars, military combats and even remote-controlled surgeries.</p>
 </div>
 
 <div class="section50right">
@@ -46,8 +46,13 @@ h2: Engineering
     <iframe src="https://www.youtube.com/embed/6_TpuJ3bnL8" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
   </div>
   <div class="section50right">
-  <br><br>
-  <p>A robot can be fully autonomous or remote-controlled. A fully autonomous robot works without any human interaction, with the computer program determining it's every action, e.g., <a href="https://www.youtube.com/watch?v=9XSaIYqgV50" target="_blank">mechanical arms to assemble car tires</a>, or <a href="https://robots.ieee.org/robots/curiosity/" target="_blank">the Mars Rover</a>. A remote-controlled robot has a human directing it's moves, e.g., <a href="https://www.instructables.com/RC-Car-to-Robot/"  target="_blank">an intelligent remote controlled car</a>, or <a href="https://www.sandboxx.us/blog/5-u-s-military-drone-uses-that-may-surprise-you/" target="_blank">a military drone</a>. </p>
+  <br>
+  <p>A robot can be fully autonomous or remote-controlled: 
+  <ul class="disc16l1">
+  <li>A fully autonomous robot works without any human interaction, with the computer program determining it's every action, e.g., <a href="https://www.youtube.com/watch?v=9XSaIYqgV50" target="_blank">mechanical arms to assemble car tires</a>, or <a href="https://robots.ieee.org/robots/curiosity/" target="_blank">the Mars Rover</a>. </li>
+  <li>A remote-controlled robot has a human directing it's moves, e.g., <a href="https://www.instructables.com/RC-Car-to-Robot/"  target="_blank">an intelligent remote controlled car</a>, or <a href="https://www.sandboxx.us/blog/5-u-s-military-drone-uses-that-may-surprise-you/" target="_blank">a military drone</a>. </li> 
+  </ul>
+  </p>
   </div>
 </section50>
 

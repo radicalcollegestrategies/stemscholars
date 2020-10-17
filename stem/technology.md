@@ -39,7 +39,7 @@ h2: Logic and Coding
 
   <li>Turn your idea into an App without relying on others</li>
 
-  <li>Coding jobs offers great salary and flexible schedules
+  <li>Coding jobs offer great salaries and flexible schedules
     <ul class="aboutl2"> <li> How many careers let you work from the beach? </li> </ul>
   </li>
 

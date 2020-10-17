@@ -30,5 +30,7 @@ URL: https://stemscholars.github.io/
 * Math: Competitions, Other (Neil), Intro to finance: 
   * Money Smart curriculum for kids: https://www.fdic.gov/consumers/consumer/moneysmart/young.html
   * bayfi2020@gmail.com https://bayfi2020.wixsite.com/home (10 weeks, 6-9 grades)
-* Major/Careers: How to pick
+* Major/Careers: 
+  * How to pick.
+  * After all careers are added, add link from other pages to careers
 * About: Add a google form for whoever to enter their name, email, school and grade.
