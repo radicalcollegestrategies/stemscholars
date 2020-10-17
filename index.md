@@ -59,8 +59,7 @@ h2: Achieve excellence in any area of STEM
   <br><br>
     <h2>You're lucky you found us!</h2>   
     <ul class="aboutl1" style="padding-left:0px"> 
-    <li>We'll help newbees get started in any STEM area,</li>
-    <li>and experienced STEMmers figure out the next steps.</li>
+    <li>We'll make it easy for you to get started and become advanced at any area of STEM you're interested in. </li>
     <br>
     <li>Explore this website and our <a href="https://www.youtube.com/channel/UClYU2cna8LvmSB6tULJbPPA/" target="_blank">YouTube channel</a> to find high quality resources for: 
     <ul class="disc">
