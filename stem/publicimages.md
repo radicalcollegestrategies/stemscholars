@@ -5,7 +5,9 @@
 * How to set in your photo: https://wiki.creativecommons.org/wiki/HOWTO_Publish#Adding_a_license_to_your_photo_pages 
 
 ## Public Domain Images on our site:
+* Logo: https://www.needpix.com/photo/download/1183329/gold-waving-abstract-background-design-color-business-yellow-golden 
 * Subscribe: https://pixabay.com/illustrations/subscribe-youtube-channel-4947571/ 
+* Youtube: https://pixabay.com/illustrations/youtube-social-networks-logo-3d-2712573/ 
 * NavBar Home: https://www.needpix.com/photo/download/522328/home-start-top-icon-free-vector-graphics-free-pictures-free-photos-free-images-royalty-free 
 * NavBar: About Us: https://pixy.org/4176572/ Colors: (RGB) = (0, 150, 175) = 0096af
 * Under Construction: https://www.needpix.com/photo/538093/maintenance-under-construction-web-site-web-page-repairs-internet-building-logo-icon 

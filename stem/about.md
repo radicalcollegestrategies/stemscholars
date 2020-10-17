@@ -107,6 +107,7 @@ title: Meet the STEM Scholars
   <div>Leo Cao</div>
   <div>Navika Singhal</div>
   <div>Prabhdeep Kaur</div>
+  <div>Anish Chintalgattu</div>
   <div>Anisha Pallikonda</div>
   <div>Annika Patanaik</div>
   <div>Ashley Ramirez</div>
@@ -115,6 +116,7 @@ title: Meet the STEM Scholars
   <div>Jenelle Angela Bobadilla</div>
   <div>Jasleen Lasher</div>
   <div>Kalil Gutierrez Banda</div>
+  <div>Kelsey Codilla</div>
   <div>Melanie Martinez</div>
   <div>Riya Dhir</div>
   <div>Ronit Dhir</div>

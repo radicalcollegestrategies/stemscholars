@@ -56,42 +56,59 @@ h2: Achieve excellence in any area of STEM
 
 <section50>
   <div class="section50left">
+  <br><br>
     <h2>You're lucky you found us!</h2>   
     <ul class="aboutl1" style="padding-left:0px"> 
     <li>We'll help newbees get started in any STEM area,</li>
     <li>and experienced STEMmers figure out the next steps.</li>
-    <li>Explore this website to find high quality resources for: 
+    <br>
+    <li>Explore <a href="/#navbar">this website</a> and our <a href="https://www.youtube.com/channel/UClYU2cna8LvmSB6tULJbPPA/" target="_blank">YouTube channel</a> to find high quality resources for: 
     <ul class="disc">
     <li>elementary, middle and high school students</li>
     <li>beginners, intermediates and experts in STEM</li>
     </ul></li>
-    <li><b>Subscribe to our <a href="https://www.youtube.com/channel/UClYU2cna8LvmSB6tULJbPPA/" target="_blank">YouTube channel</a> for more!</b></li>
     </ul>
   </div>
 
   <div class="section50right" style="padding-top: 50px;">
-    <!--iframe src="https://www.youtube.com/embed/8KDX6dHr97U?start=0" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe-->
     <a href="https://www.youtube.com/channel/UClYU2cna8LvmSB6tULJbPPA/" target="_blank">
-    <img src="/images/stem/Subs.png">
+    <img style="width:350px" src="/images/stem/Subscribe.png">
     </a>
+    <div class="license">
+      <a href="https://www.freepik.com/vectors/business" target="_blank">Image</a>
+      <a href="https://www.freepikcompany.com/legal#nav-freepik" target="_blank">licensed</a> from Freepik
+    </div>
   </div>
 </section50>
 
 <div class="license">
-    Images in Navbar
+    <br><br>Images in Navbar and Logo:
     <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank"> licensed</a>/adapted from 
-    <a href="https://thenounproject.com" target="_blank">The Noun Project</a>:
-    (<a href="https://thenounproject.com/search/?q=home&i=2522597" target="_blank">image</a> 
+    <a href="https://thenounproject.com" target="_blank">The Noun Project</a>: <br>
+    Navbar:
+    <a href="https://thenounproject.com/search/?q=home&i=2522597" target="_blank">Home</a> 
      by <a href="https://thenounproject.com/taqiyyahmubassyaroh/" target="_blank">Taqiyyah</a>,
-    <a href="https://thenounproject.com/search/?q=tech&i=1620592" target="_blank">image</a>
-     by <a href="https://thenounproject.com/yurr/collection/water-authority/" target="_blank">Yurr</a>,
-    <a href="https://thenounproject.com/search/?q=gear&i=1030299" target="_blank">image</a>
+    <a href="https://thenounproject.com/search/?q=tech&i=1620592" target="_blank">Tech</a>
+     by <a href="https://thenounproject.com/yurr/" target="_blank">Yurr</a>,
+    <a href="https://thenounproject.com/search/?q=gear&i=1030299" target="_blank">Gears</a>
     by <a href="https://thenounproject.com/pedrosantospt3/" target="_blank">Pedro Santos</a>,
-    <a href="https://thenounproject.com/search/?q=pie+chart&i=2784961" target="_blank">image</a>
+    <a href="https://thenounproject.com/search/?q=pie+chart&i=2784961" target="_blank">PieChart</a>
     by <a href="https://thenounproject.com/sriulan711/" target="_blank">Sriulan</a>,
-    <a href="https://thenounproject.com/search/?q=graph&i=2713703" target="_blank">image</a>
+    <a href="https://thenounproject.com/search/?q=graph&i=2713703" target="_blank">Graph</a>
     by <a href="https://thenounproject.com/sholawatnariyah12/" target="_blank">Sholawat Nariyah</a>,
-    <a href="https://thenounproject.com/term/career-advancement/1267925/" target="_blank">image</a>
+    <a href="https://thenounproject.com/term/career-advancement/1267925/" target="_blank">Career</a>
      by <a href="https://thenounproject.com/iconika/" target="_blank">Iconika</a>  
-    )  <br> <br>
+    <br>
+  Logo:
+    <a href="https://thenounproject.com/term/trophy/16990/" target="_blank">Trophy</a> 
+     by <a href="https://thenounproject.com/bravo" target="_blank">Juan Pablo Bravo</a>,
+    <a href=" https://thenounproject.com/search/?q=tech&i=2170302" target="_blank">Tech</a> 
+     by <a href="https://thenounproject.com/creativepriyanka" target="_blank">Priyanka</a>,
+    <a href="https://thenounproject.com/search/?q=atom&i=1984335" target="_blank">Atom</a> 
+     by <a href="https://thenounproject.com/shwepes" target="_blank">Shwepes</a>,
+    <a href="https://thenounproject.com/search/?q=infinity&i=831825" target="_blank">Infinity</a> 
+     by <a href="https://thenounproject.com/365" target="_blank">Three Six Five</a>,
+    <a href="https://thenounproject.com/search/?q=engineering&i=1769710" target="_blank">Engineering</a> 
+     by <a href="https://thenounproject.com/creativestall" target="_blank">Creative Stall</a>
+  <br> <br>
   </div>

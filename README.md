@@ -34,3 +34,6 @@ URL: https://stemscholars.github.io/
   * How to pick.
   * After all careers are added, add link from other pages to careers
 * About: Add a google form for whoever to enter their name, email, school and grade.
+* Colors: 
+  * AboutUs: (RGB) = (0, 150, 175) = 0096af Monotype Corsiva
+  * Blue: (RGB) = (50, 100, 255), Opacity=60%. OR (RGB)=(150,175,255)
