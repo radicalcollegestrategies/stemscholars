@@ -62,7 +62,7 @@ h2: Achieve excellence in any area of STEM
     <li>We'll help newbees get started in any STEM area,</li>
     <li>and experienced STEMmers figure out the next steps.</li>
     <br>
-    <li>Explore <a href="/#navbar">this website</a> and our <a href="https://www.youtube.com/channel/UClYU2cna8LvmSB6tULJbPPA/" target="_blank">YouTube channel</a> to find high quality resources for: 
+    <li>Explore this website and our <a href="https://www.youtube.com/channel/UClYU2cna8LvmSB6tULJbPPA/" target="_blank">YouTube channel</a> to find high quality resources for: 
     <ul class="disc">
     <li>elementary, middle and high school students</li>
     <li>beginners, intermediates and experts in STEM</li>
