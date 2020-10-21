@@ -35,9 +35,9 @@ h2: Achieve excellence in any area of STEM
 </section50>
 
 <section50>
-  <div class="section50right">
+  <!--div class="section50right">
     <iframe src="https://www.youtube.com/embed/fH5iLx_jCUk" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
-  </div>
+  </div-->
   <div class="section50left">
     <h2>STEM Careers</h2>
     <p style="text-align:center; font-style:italic;"> "75% of today's fastest growing careers require STEM skills."</p> 
