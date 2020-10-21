@@ -113,7 +113,7 @@ title: Meet the STEM Scholars
   <div>Ashley Ramirez</div>
   <div>Brooke Heider</div>
   <div>Hannah Del Barrio</div>
-  <div>Jenelle Angela Bobadilla</div>
+  <div>Janelle Angela Bobadilla</div>
   <div>Jasleen Lasher</div>
   <div>Kalil Gutierrez Banda</div>
   <div>Kelsey Codilla</div>
@@ -124,6 +124,8 @@ title: Meet the STEM Scholars
   <div>Sheya Lorraine Fangonilo</div>
   <div>Sukhman Kaur</div>
   <div>Yvette Peng</div>
+  <div>Ashna Singhal</div>
+  <div>Riya Singhal</div>
 </div>
 <h3 style="text-align:center">Other Contributers:</h3>
 <div class="row2">
