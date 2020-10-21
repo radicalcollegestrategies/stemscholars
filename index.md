@@ -25,24 +25,28 @@ h2: Achieve excellence in any area of STEM
 <section50>
   <div class="section50left">
     <h2>Why should everybody <br>learn STEM?</h2>
-    <p style="text-align:center;">This fantastic video explains why &rarr;</p>
-    <p style="text-align:center; font-style:italic;"> "75% of today's fastest growing careers require STEM skills."</p> 
-
-    <p style="text-align:center; font-style:italic;">"We don't yet know what kind of jobs <br> will exist 10, 20, 30 years from now, <br> but with STEM, you're prepared for anything." </p>
+    <p style="text-align:center; font-style:italic;"> "If you learn STEM, you’ll be able to create super cool things:"</p> 
+    <p style="text-align:center; font-style:italic;">Rockets ... iPhones ... Video Games ... Movie Effects</p>
+    <p style="text-align:center; font-style:italic;">"These are just a few of the amazing things <br> you can do with STEM skills" </p>
   </div>
   <div class="section50right">
-    <iframe src="https://www.youtube.com/embed/fH5iLx_jCUk" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
+    <iframe src="https://www.youtube.com/embed/8KDX6dHr97U" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
   </div>
 </section50>
 
 <section50>
+  <div class="section50right">
+    <iframe src="https://www.youtube.com/embed/fH5iLx_jCUk" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
+  </div>
   <div class="section50left">
-  <img style="width:300px" src="/images/stem/Maze.png">
-  <div class="license">
-   <a href="https://www.wannapik.com/vectors/5479" target="_blank">Image</a>
-      <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">licensed</a> from Wannapik Studio
+    <h2>STEM Careers</h2>
+    <p style="text-align:center; font-style:italic;"> "75% of today's fastest growing careers require STEM skills."</p> 
+
+    <p style="text-align:center; font-style:italic;">"We don't yet know what kind of jobs <br> will exist 10, 20, 30 years from now, <br> but with STEM, you're prepared for anything." </p>
   </div>
-  </div>
+</section50>
+
+<section50>
   <div class="section50right">
     <h2>I wanna do STEM but ...</h2> 
     <ul class="disc" style="padding-left:40px"> 
@@ -52,9 +56,25 @@ h2: Achieve excellence in any area of STEM
     <li>I'm applying to colleges. What major do I pick?</li>
     </ul>
   </div>
+  <div class="section50left">
+  <img style="width:300px" src="/images/stem/Maze.png">
+  <div class="license">
+   <a href="https://www.wannapik.com/vectors/5479" target="_blank">Image</a>
+      <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">licensed</a> from Wannapik Studio
+  </div>
+  </div>
 </section50>
 
 <section50>
+  <div class="section50right" style="padding-top: 50px;">
+    <a href="https://www.youtube.com/channel/UClYU2cna8LvmSB6tULJbPPA/" target="_blank">
+    <img style="width:350px" src="/images/stem/Subscribe.png">
+    </a>
+    <div class="license">
+      <a href="https://www.freepik.com/vectors/business" target="_blank">Image</a>
+      <a href="https://www.freepikcompany.com/legal#nav-freepik" target="_blank">licensed</a> from Freepik
+    </div>
+  </div>
   <div class="section50left">
   <br><br>
     <h2>You're lucky you found us!</h2>   
@@ -67,16 +87,6 @@ h2: Achieve excellence in any area of STEM
     <li>beginners, intermediates and experts in STEM</li>
     </ul></li>
     </ul>
-  </div>
-
-  <div class="section50right" style="padding-top: 50px;">
-    <a href="https://www.youtube.com/channel/UClYU2cna8LvmSB6tULJbPPA/" target="_blank">
-    <img style="width:350px" src="/images/stem/Subscribe.png">
-    </a>
-    <div class="license">
-      <a href="https://www.freepik.com/vectors/business" target="_blank">Image</a>
-      <a href="https://www.freepikcompany.com/legal#nav-freepik" target="_blank">licensed</a> from Freepik
-    </div>
   </div>
 </section50>
 

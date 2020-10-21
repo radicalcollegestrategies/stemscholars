@@ -15,3 +15,5 @@ video: https://www.youtube.com/embed/_AqD6t1Cx_w
 <li>Field setup kit (included in registeration cost)</li>
 
 <li>Laptop/Tablet to <a href="https://www.lego.com/en-us/themes/mindstorms/downloads" target="_blank">program</a> the robot</li>
+
+<li><b><a href="/engineering/fll">Detailed Tips and Resources for FLL</a></b></li>
