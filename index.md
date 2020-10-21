@@ -31,6 +31,7 @@ h2: Achieve excellence in any area of STEM
   </div>
   <div class="section50right">
     <iframe src="https://www.youtube.com/embed/8KDX6dHr97U" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
+    <h2>Gee</h2>
   </div>
 </section50>
 
