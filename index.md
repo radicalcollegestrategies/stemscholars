@@ -30,8 +30,7 @@ h2: Achieve excellence in any area of STEM
     <p style="text-align:center; font-style:italic;">"These are just a few of the amazing things <br> you can do with STEM skills." </p>
   </div>
   <div class="section50right">
-    <iframe src="https://www.youtube.com/embed/8KDX6dHr97U" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
-    <h2>Gee</h2>
+    <iframe src="https://www.youtube.com/embed/8KDX6dHr97U__" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
   </div>
 </section50>
 
