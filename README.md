@@ -22,10 +22,7 @@ URL: https://stemscholars.github.io/
   * Notes from Barry's email Sat Oct 10
   * Coding competitions, Web page design, making apps, animation
 * Engineering: Remaining items:
-  * Arduino, Raspberry Pi: https://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/ 
   * Flowchart for Robotics page: https://stemscholars.github.io/engineering/robocompetitions/ 
-  * FLL details
-* Arts: Logan has a lot of ARTs - both visual and performing arts; including forensics!
 * Math:
   * Competitions
   * Math Circles
