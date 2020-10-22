@@ -8,18 +8,6 @@ title: STEM Scholars
 h2: Achieve excellence in any area of STEM
 ---
 <section50>
-  <div class="section50left">
-    <h2>Why should everybody <br>learn STEM?</h2>
-    <p style="text-align:center; font-style:italic;"> "If you learn STEM, you’ll be able to create super cool things."</p> 
-    <p style="text-align:center; font-style:italic;">Rockets ... iPhones ... Video Games ... Movie Effects</p>
-    <p style="text-align:center; font-style:italic;">"These are just a few of the amazing things <br> you can do with STEM skills." </p>
-  </div>
-  <div class="section50right">
-    <iframe src="https://www.youtube.com/embed/8KDX6dHr97U" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
-  </div>
-</section50>
-
-<!--section50>
   <img class="section50left" src="/images/stem/STEMlogo.png" alt="Our LOGO here">
   <div class="section50right">
     <h2>STEM education teaches...</h2> 
@@ -42,8 +30,8 @@ h2: Achieve excellence in any area of STEM
   </div>
   <div class="section50right">
     <iframe src="https://www.youtube.com/embed/8KDX6dHr97U" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
-    <a href="https://www.youtube.com/watch?v=8KDX6dHr97U" target="_blank">
-      <img src="/images/stem/SSintro.png">
+    <!--a href="https://www.youtube.com/watch?v=8KDX6dHr97U" target="_blank">
+      <img src="/images/stem/SSintro.png"-->
     </a>
   </div>
 </section50>
@@ -134,4 +122,4 @@ h2: Achieve excellence in any area of STEM
     <a href="https://thenounproject.com/search/?q=engineering&i=1769710" target="_blank">Engineering</a> 
      by <a href="https://thenounproject.com/creativestall" target="_blank">Creative Stall</a>
   <br> <br>
-  </div-->
+  </div>
