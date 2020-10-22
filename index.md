@@ -39,7 +39,7 @@ h2: Achieve excellence in any area of STEM
 
 <section50>
   <div class="section50right">
-    <iframe src="https://www.youtube.com/embed/fH5iLx_jCUk" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
+    <!--iframe src="https://www.youtube.com/embed/fH5iLx_jCUk" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe-->
   </div>
   <div class="section50left">
     <h2>STEM Careers</h2>
