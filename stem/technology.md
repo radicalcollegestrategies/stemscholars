@@ -88,3 +88,6 @@ h2: Logic and Coding
 <h2>Middle and High School</h2>
 <img class="center" src="/images/ComingSoon.png" style="width:600px; padding-bottom:50px;">
 </section50short>
+
+<iframe src="https://www.youtube.com/embed/8KDX6dHr97U" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0">
+</iframe> 
