@@ -7,7 +7,7 @@ h2: Physics, Chemistry and Biology
 
 <section50short> 
 <h2>Explore Science in Elementary School</h2>
-<p>Several book sets and video series cover a variety of fascinating topics in Science. The child and their parent should ideally read and watch these together and discuss them afterwards.</p>
+<p>Several book sets and video series below cover a variety of fascinating topics in Science. The child and their parent should ideally read and watch these together and discuss them afterwards. There are also quite a few websites mentioned below that teach science concepts through fun games and simulations, and some even teach science experiments you can do at home!</p>
 </section50short>
 
 {% for comp in site.elemsci %}  

@@ -4,6 +4,9 @@ permalink: /engineering/electronics/
 title: Electronics
 h2: Engineering
 ---
+<section50short>
+<p>Who doesn't like tinkering with electronic circuits to make LEDs light up and buzzers going off? The kits below give you everything you need if you like to play around with electronic components. Each one comes with enough to get you started, and there are many online resources that show you the many cool things you can do with these kits. You're only limited by your imagination!</p>
+</section50short>
 {% for comp in site.electronics %}  
 <section50> 
   <h2><a href="{{ comp.toplink }}" target="_blank">{{ comp.heading }}</a></h2>
