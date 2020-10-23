@@ -94,7 +94,7 @@ h2: Problem Solving
 
     {% if comp.piccreator %}
       <div class="license">(
-        <a href="{{ comp.piclink }} target="_blank"">Image</a>
+        <a href="{{ comp.piclink }}" target="_blank">Image</a>
         <a href="{{ comp.piclicense }}" target="_blank">licensed</a> from {{ comp.piccreator }}
         )</div>
     {% endif %}
