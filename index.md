@@ -10,25 +10,31 @@ h2: Achieve excellence in any area of STEM
 <section50>
   <img class="section50left" src="/images/stem/STEMlogo.png" alt="Our LOGO here">
   <div class="section50right">
-    <h2>STEM education teaches...</h2> 
+    <h2>Are you curious about:</h2> 
     <ul class="yes" style="padding-left:80px"> 
-    <li>Problem Solving</li>
-    <li>Critical Thinking</li>
-    <li>Research</li>
-    <li>Creativity</li>
+    <li><a href="/mathematics/mathcompetitions">Math Competitions</a></li>
+    <li><a href="/stem/technology">Computer Programming / Coding</a></li>
+    <li><a href="/engineering/robotics">Robotics</a></li>
+    <li><a href="/stem/science">Science Experiments</a></li>
+    <li>Or, maybe you have an artistic side that you want to combine with technology.</li>
     </ul>
-    <div style="text-align:center; font-style:italic;">"STEM is not just a subject at school. <br> It's a way of thinking and doing." </div>
+    <p>You are in the right place! We will <b>get you started</b> and <b>become advanced</b> in any area of STEM you're interested in.</p>
   </div>
 </section50>
 
 <section50>
   <div class="section50left">
     <h2>Why should everybody <br>learn STEM?</h2>
-    <p style="text-align:center; font-style:italic;"> "If you learn STEM, you’ll be able to create super cool things."</p> 
-    <p style="text-align:center; font-style:italic;">Rockets ... iPhones ... Video Games ... Movie Effects</p>
-    <p style="text-align:center; font-style:italic;">"These are just a few of the amazing things <br> you can do with STEM skills." </p>
+    <p style="text-align:center; font-style:italic;"> "If you learn STEM, you’ll be able to create super cool things." </p>
+
+    <p style="text-align:center; font-style:italic;">
+    Rockets ... iPhones ... Video Games ... Movie Effects <br>
+     "are a few of the amazing things you can do with STEM skills"</p>
+
+    <p style="text-align:center; font-style:italic;">"STEM is not just a subject at school. <br> It's a way of thinking and doing." </p>
   </div>
   <div class="section50right">
+    <br>
     <iframe src="https://www.youtube.com/embed/8KDX6dHr97U" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
     <!--a href="https://www.youtube.com/watch?v=8KDX6dHr97U" target="_blank">
       <img src="/images/stem/SSintro.png">
@@ -38,10 +44,13 @@ h2: Achieve excellence in any area of STEM
 
 <section50>
   <div class="section50right">
+    <br>
     <iframe src="https://www.youtube.com/embed/fH5iLx_jCUk" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
   </div>
   <div class="section50left">
     <h2>STEM Careers</h2>
+    <p style="text-align:center; font-style:italic;">STEM education teaches:<br>
+    Problem Solving ... Critical Thinking ... Research ... Creativity</p>
     <p style="text-align:center; font-style:italic;"> "75% of today's fastest growing careers require STEM skills."</p> 
 
     <p style="text-align:center; font-style:italic;">"We don't yet know what kind of jobs <br> will exist 10, 20, 30 years from now, <br> but with STEM, you're prepared for anything." </p>
@@ -83,7 +92,7 @@ h2: Achieve excellence in any area of STEM
     <ul class="aboutl1" style="padding-left:0px"> 
     <li>We'll make it easy for you to get started and become advanced at any area of STEM you're interested in. </li>
     <br>
-    <li>Explore this website and our <a href="https://www.youtube.com/channel/UClYU2cna8LvmSB6tULJbPPA/" target="_blank">YouTube channel</a> to find high quality resources for: 
+    <li>Explore this website and our <a href="https://www.youtube.com/channel/UClYU2cna8LvmSB6tULJbPPA/?sub_confirmation=1" target="_blank">YouTube channel</a> to find high quality resources for: 
     <ul class="disc">
     <li>elementary, middle and high school students</li>
     <li>beginners, intermediates and experts in STEM</li>

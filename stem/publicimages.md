@@ -21,3 +21,4 @@ https://pixabay.com/service/license/ -- free for commercial and noncommercial us
 * Logic https://www.needpix.com/photo/download/299549/head-brain-man-face-human-forehead-headache-epilepsy-gear Public Domain
 * Arduino Uno: https://www.needpix.com/photo/download/898864/arduino-arduino-uno-electronic-programming-prototype-microcontroller-technology-innovation-technological -- Public Domain
 * Raspberry Pi: https://pixabay.com/photos/raspberry-pi-rpi-microcontroller-950490/ -- Public Domain
+* Math Circle: https://pixabay.com/photos/book-read-student-students-board-4126483/ -- free for commercial and noncommercial use, Attribution is not required.

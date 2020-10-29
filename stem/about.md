@@ -9,9 +9,9 @@ title: Meet the STEM Scholars
 
 <div class="sectionpdContent" style="padding-left:20px; width:650px;">
 <h2> Our mission </h2>
-<p>The STEM Scholars team consists of high school students who are passionate about Science, Technology, Engineering and Mathematics. We believe that everyone should explore these fields at a young age to discover their passions and open up possibilities to a potential career. STEM contains a variety of things you can explore outside of school as extracurriculars. </p>
+<p>STEM contains a variety of things you can explore as extracurriculars, such as math competitions, coding / programming, robotics and electronics. The STEM Scholars team consists of high school students who are passionate about Science, Technology, Engineering and Mathematics. We believe that everyone should explore these fields at a young age to discover their passions and open up possibilities to a potential career. </p>
 
-<p>This website will help you cut through the numerous options and present a handful of high quality STEM resources to focus on. Our goal is to make it easy for you to get started and become advanced at any area of STEM you're interested in. We hope you have fun exploring our website and our <a href="https://www.youtube.com/channel/UClYU2cna8LvmSB6tULJbPPA/" target="_blank">YouTube channel</a>!</p>
+<p>This website will help you cut through the numerous options and present a handful of high quality STEM resources to focus on. Our goal is to make it easy for you to get started and become advanced at any area of STEM you're interested in. We hope you have fun exploring our website and our <a href="https://www.youtube.com/channel/UClYU2cna8LvmSB6tULJbPPA/?sub_confirmation=1" target="_blank">YouTube channel</a>!</p>
 
 </div>
 </sectionpd>

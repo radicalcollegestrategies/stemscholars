@@ -25,10 +25,8 @@ URL: https://stemscholars.github.io/
   * Flowchart for Robotics page: https://stemscholars.github.io/engineering/robocompetitions/ 
 * Math:
   * Competitions
-  * Math Circles
+  * One Math resource that is quite good is the Beast Academy Books/curriculum (From AoPS). You may want to add that under Math resources.
   * Anish - Word problems/Khan
-  * Intro to finance: Money Smart curriculum for kids: https://www.fdic.gov/consumers/consumer/moneysmart/young.html
-  * bayfi2020@gmail.com https://bayfi2020.wixsite.com/home (10 weeks, 6-9 grades)
 * Major/Careers: 
   * How to pick.
   * After all careers are added, add link from other pages to careers
@@ -36,3 +34,12 @@ URL: https://stemscholars.github.io/
 * Colors: 
   * AboutUs: (RGB) = (0, 150, 175) = 0096af Monotype Corsiva
   * Blue: (RGB) = (50, 100, 255), Opacity=60%. OR (RGB)=(150,175,255)
+* Target Audience:
+  * Parents, Kids over 13 (Grades 8+)
+* Goals and Metrics: 10k views
+  * Break down to short term goals. ONLY do things that take you closer to the goal.
+  * Make things work for 1 segment, create trust there, and expand from there
+* LATER: 
+  * monetization: lead generation (refer), ads, subscription / service
+  * facebook, instagram, create forum for people to discuss solutions to puzzle
+

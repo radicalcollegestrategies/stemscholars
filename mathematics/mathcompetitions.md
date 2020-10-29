@@ -18,7 +18,7 @@ h2: Mathematics
 <h2>Why should you participate in Math Competitions?</h2>
 <div class="section50left" style="text-align:center">
 <img  style="width:350px" src="/images/math/OurMathTeam.jpg">
-<b>IVCMS team at MathCounts at UC Berkeley, 2016</b>
+<b>IVCMS MathCounts team 2016 at UC Berkeley</b>
 </div>
 
 <div class="section50right">

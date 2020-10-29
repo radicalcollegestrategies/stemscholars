@@ -109,7 +109,7 @@ h2: Problem Solving
 {% endfor %}
 
 
-<section50>
+<!--section50>
 <h2>Accelerating in school curriculum</h2>
 <p>If you are fantastic at math, you can accelerate through the Math Curriculum to cover: </p>
     <ul class="disc16l1" style="padding-left:40px"> 
@@ -125,5 +125,5 @@ h2: Problem Solving
 
 <p> Work with your school counselor on how to take online classes if you want to accelerate through your Math Curriculum at school. Several schools recognize courses offered by <a href="https://www.byu.edu/" target="_blank">BYU</a>, <a href="https://svhs.co/" target="_blank">SVHS</a> or <a href="https://www.ucscout.org/" target="_blank">UC Scout</a>, but each school may be different.</p>
 <p>Remember, if your school won't accept an online course, then it's a waste of time because you'll just have to repeat the whole subject in school. For that reason, while Khan Academy is great for reviewing any topics that were not covered (well) in school, it's probably not the best way to do complete courses that are already offered in school.</p> 
-</section50>
+</section50-->
 <br>
