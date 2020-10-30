@@ -1,10 +1,12 @@
 ---
 heading: Math Kangaroo
+hash: kangaroo
 toplink: http://www.mathkangaroo.us/mk/default.html
 grades: 1-12 (each grade is a separate level)
-enrollment: As an individual.
-format: 1 contest
+enrollment: As an <a href="#individual">individual</a>
+format: 1 contest around March
 cost: $21 per individual
+difficulty: Medium
 details: http://www.mathkangaroo.us/mk/rules.html
 prep: https://mathkangaroo.oasis-lms.com/Public/Catalog/Home.aspx?Criteria=8&tab=2
 sample: http://www.mathkangaroo.us/mk/sample_questions.html

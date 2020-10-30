@@ -25,8 +25,6 @@ URL: https://stemscholars.github.io/
   * Flowchart for Robotics page: https://stemscholars.github.io/engineering/robocompetitions/ 
 * Math:
   * Competitions
-  * One Math resource that is quite good is the Beast Academy Books/curriculum (From AoPS). You may want to add that under Math resources.
-  * Anish - Word problems/Khan
 * Major/Careers: 
   * How to pick.
   * After all careers are added, add link from other pages to careers

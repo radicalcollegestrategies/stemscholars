@@ -1,10 +1,12 @@
 ---
 heading: MOEMS (Math Olympiad for Elementary and Middle Schools)
+hash: moems
 toplink: http://www.moems.org/index.htm
 grades: 4-6(Div E), 7-8(Div M))
-enrollment: Through school
+enrollment: Through <a href="#flexible">school, but flexible</a>
 format: Several contests spread over a few months
 cost: $120 per set of 1-35 students
+difficulty: Medium
 details: http://www.moems.org/contests.htm
 prep: https://www.amazon.com/Math-Olympiad-Contest-Problems-REVISED/dp/B00XHGQKXU/
 sample: http://moems.org/sample.htm
@@ -16,7 +18,7 @@ caption2: Division M Sample Questions
 
 <li> Buy Vol 2 & 3 (not Vol 1) of MOEMS prep books -- they separate the problems into Div E & M</li>
 
-<li id="moems">MOEMS is flexible about proctor / location. If your school doesn't offer MOEMS:
+<li id="pico">MOEMS is flexible about proctor / location. If your school doesn't offer MOEMS:
 <ul class="italicl2" style="padding-left:12px"> 
 <li>Ask your teacher if you can put their name on the form. All they have to do is receive a packet on your behalf.</li>
 <li>In the form, <u>put the teacher's name as official PICO, but the parent's email address

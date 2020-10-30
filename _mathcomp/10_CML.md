@@ -1,10 +1,12 @@
 ---
 heading: Continental Mathematics League
+hash: cml
 toplink: https://www.cmleague.com/product-category/cml/
 grades: 2-9 (each grade is a separate division)
-enrollment: Through school or as an individual
+enrollment: Through <a href="#school">school</a> or as an <a href="#individual">individual</a>
 format: Several contests spread over a few months
 cost: $85 per school or $20 per individual
+difficulty: Easy-Medium
 details: https://www.cmleague.com/product-category/cml/
 prep: https://www.cmleague.com/product-category/books/
 sample: http://www.cmleague.com/wp-content/uploads/2015/09/CML_sample_P4.pdf
