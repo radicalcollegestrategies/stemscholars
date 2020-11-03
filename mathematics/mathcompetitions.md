@@ -68,7 +68,9 @@ h2: Mathematics
   <p><b>Participate in <a href="#cml">CML</a></b> as a "Home School". It is a good alternative to MOEMS.</p>
   <p><b>Optional:</b> In addition to CML, you can consider participating in <a href="#kangaroo">Math Kangaroo</a>, which has a single contest. It is a prestigious international competition, and is slightly more challenging than CML, so may need extra preparation.</p>
   </div>
+</section50>
 
+<section50>
 <h3>Middle School: Grades 6-8</h3>
   <p><b>Deciding question:</b> Do you want hardcode competition, or do you want to compete for fun?</p>
   <div class="section50left"> 

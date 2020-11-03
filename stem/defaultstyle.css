@@ -1,7 +1,7 @@
 
 /**************** Header *****************/
 header {
-  padding-top: 40px;
+  padding-top: 10px;
   /* padding-bottom: 30px; */
   height: 120px;
   text-align: center;
@@ -137,14 +137,16 @@ h2 {
 
 h3 {
   font-size:18px;
+  line-height: 1.2;
 }
 
 h4 {
-  line-height: 1;
+  line-height: 1.2;
   letter-spacing: 0;
   font-size:16px;
   font-weight: bold;
-  text-decoration: underline;
+  /* text-decoration: underline; */
+  background-color: #e2e8fd;
   text-align: center;
 }
 
@@ -345,25 +347,34 @@ section50short {
 .section50left {
   float: left;
   margin-top: 0px;
-  padding-right: 10px;
   width: 470px;
 }
 
 .section50right {
-  float: left;
-  padding-left: 10px; 
-  padding-right: 20px;
+  float: right;
   width: 470px;
 }
 
-/* Clear floats after the section -- need to test TODO */
+.section33{
+  float: left;
+  margin-top: 0px;
+  width: 325px;
+  padding-right:10px;
+}
+
+/* Clear floats after the section */
 section50:after {
   content: "";
   display: table;
   clear: both;
 }
 
-.tabactive, .tabinactive, .tabcenter {
+section50short:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.tabactive, .tabinactive, .tabcenter, .newsletter {
   height: 50px;
   border: 2px solid #0b325c;
   border-radius: 25px; /* top left, top right, bottom right, bottom left */
@@ -376,7 +387,7 @@ section50:after {
   float: left;
 }
 
-.tabcenter {
+.tabcenter, .newsletter {
   width: 990px;
   float: center;
 }
@@ -385,6 +396,10 @@ section50:after {
   background-color: #a6baf8;
 }
 
+.newsletter{
+  background-color: #e2e8fd;
+  height: 55px;
+}
 /**************************** Grid *****************************/
 .row2 {
   display: grid;
