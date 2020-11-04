@@ -50,20 +50,20 @@ h2: Achieve excellence in any area of STEM
 
   <br>
   <div class="section33">
-  <h3>Elementary School</h3>
-  <h4>Multiply fast in your head!</h4>
+  <p style="text-align:center;color: #0960be;"><b>Elementary School</b><br>
+  Multiply fast in your head!</p>
   <iframe src="https://www.youtube.com/embed/pqejoT_AJjw" scrolling="no" allowfullscreen="" width="325" height="180" frameborder="0"><br/></iframe>
   </div>
   
   <div class="section33">
-  <h3>Middle School</h3>
-  <h4>Solve the Puzzle!</h4>
+  <p style="text-align:center;color: #0960be;"><b>Middle School</b><br>
+  Solve the Puzzle!</p>
   <iframe src="https://www.youtube.com/embed/X4kddycYH1Y" scrolling="no" allowfullscreen="" width="325" height="180" frameborder="0"><br/></iframe>
   </div>
 
   <div class="section33" style="padding-right:0px">
-  <h3>High School</h3>
-  <h4>Cross the bridge!</h4>
+  <p style="text-align:center;color: #0960be;"><b>High School</b><br>
+  Cross the bridge!</p>
   <iframe src="https://www.youtube.com/embed/7yDmGnA8Hw0" scrolling="no" allowfullscreen="" width="325" height="180" frameborder="0"><br/></iframe>
   </div>
 </section50>
@@ -90,11 +90,11 @@ h2: Achieve excellence in any area of STEM
 </section50>
 
 <section50>
-  <div class="section50right">
+  <div class="section50left">
     <br>
     <iframe src="https://www.youtube.com/embed/fH5iLx_jCUk" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
   </div>
-  <div class="section50left">
+  <div class="section50right">
     <h2>STEM Careers</h2>
     <p style="text-align:center; font-style:italic;">STEM education teaches:<br>
     Problem Solving ... Critical Thinking ... Research ... Creativity</p>
@@ -105,7 +105,7 @@ h2: Achieve excellence in any area of STEM
 </section50>
 
 <section50>
-  <div class="section50right">
+  <div class="section50left">
     <h2>I wanna do STEM but ...</h2> 
     <ul class="disc" style="padding-left:40px"> 
     <li>Where do I start?</li>
@@ -114,7 +114,7 @@ h2: Achieve excellence in any area of STEM
     <li>I'm applying to colleges. What major do I pick?</li>
     </ul>
   </div>
-  <div class="section50left">
+  <div class="section50right">
   <img style="width:300px" src="/images/stem/Maze.png">
   <div class="license">
    <a href="https://www.wannapik.com/vectors/5479" target="_blank">Image</a>
@@ -124,7 +124,7 @@ h2: Achieve excellence in any area of STEM
 </section50>
 
 <section50>
-  <div class="section50right" style="padding-top: 50px;">
+  <div class="section50left" style="padding-top: 50px;">
     <a href="https://www.youtube.com/channel/UClYU2cna8LvmSB6tULJbPPA/?sub_confirmation=1" target="_blank">
     <img style="width:350px" src="/images/stem/Subscribe.png">
     </a>
@@ -133,7 +133,7 @@ h2: Achieve excellence in any area of STEM
       <a href="https://www.freepikcompany.com/legal#nav-freepik" target="_blank">licensed</a> from Freepik
     </div>
   </div>
-  <div class="section50left">
+  <div class="section50right">
   <br><br>
     <h2>You're lucky you found us!</h2>   
     <ul class="aboutl1" style="padding-left:0px"> 

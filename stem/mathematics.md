@@ -17,14 +17,15 @@ h2: Problem Solving
 <h2>Math Beyond School : Problem Solving</h2>
 
   <div class="section50left">
+    <img style="width:350px" src="/images/math/Rubix.png">
+  </div>
+
+  <div class="section50right">
 
     <p>If you love Math in school, and are reasonably good at it, then go deeper to hone your Problem Solving, Logical Reasoning and Critical Thinking skills. <i>Do not</i> waste your time doing busy work like pages and pages of long division! Do just enough practice problems in school math to make sure you don't make silly mistakes, and spend the rest of your time solving more fun and engaging problems! </p>
 
     <p>Problem Solving involves understanding the problem and finding a strategy to solve it. When you grow up, you may not use a lot of the actual math you learn in school in your daily lives or your career. However, the problem solving skills that you build while doing hard math problems will help you excel in many different fields.</p>
 
-  </div>
-  <div class="section50right">
-    <img style="width:350px" src="/images/math/Rubix.png">
   </div>
 
 </section50>
