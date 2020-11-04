@@ -25,8 +25,8 @@ h2: Achieve excellence in any area of STEM
 <section50>
   <h2>This week's features</h2>
   <div class="newsletter">
-    <p style="text-align:center; padding:0; margin:0; ">Subscribe to our weekly newsletter to get the featured videos and puzzles in your inbox! </p>
-    <p style="text-align:center; font-size:12px; padding-top:0; margin-top:0; line-height:12px">(We never spam or sell your email address. Please enter parent's email if you're under 13)</p>
+    <p style="text-align:center; padding:0; margin:0; ">Subscribe to our weekly newsletter to get the featured videos and puzzles in your inbox! </p> 
+    <p style="text-align:center; font-size:12px; padding-top:0; margin-top:0; line-height:12px">We never spam or sell your email address. Please enter parent's email if you're under 13. We would love your feedback on this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZABLed8p2nQ6cj5IQTWBrBPhapgCUXUeQHEDwyRACregmcg/viewform?usp=sf_link" target="_blank">Google Form</a></p>
 
     <form action="https://getform.io/f/6f25ddc3-5307-452d-9aae-b330200ba1d5" method="POST">
     <label for="email">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Email:</b></label>
@@ -44,7 +44,7 @@ h2: Achieve excellence in any area of STEM
     <input type="radio" id="High" name="grade" value="High">
     &nbsp; &nbsp; 
     <button type="submit" style="font-family:'ABeeZee'; font-weight:'bold'; font-size:16px">Submit</button>
-    </form>
+    </form>  
     <br>
   </div>
 
