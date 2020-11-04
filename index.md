@@ -23,7 +23,7 @@ h2: Achieve excellence in any area of STEM
 </section50>
 
 <section50>
-  <h2>This week's features</h2>
+  <h2>This Week's Highlights</h2>
   <div class="newsletter">
     <p style="text-align:center; padding:0; margin:0; ">Subscribe to our weekly newsletter to get the featured videos and puzzles in your inbox! </p> 
     <p style="text-align:center; font-size:12px; padding-top:0; margin-top:0; line-height:12px">We never spam or sell your email address. Please enter parent's email if you're under 13. We would love your feedback on this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZABLed8p2nQ6cj5IQTWBrBPhapgCUXUeQHEDwyRACregmcg/viewform?usp=sf_link" target="_blank">Google Form</a></p>
