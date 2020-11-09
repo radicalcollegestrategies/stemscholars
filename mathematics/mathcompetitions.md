@@ -45,12 +45,12 @@ h2: Mathematics
 
 <section50short>
 <h2>Which competition should I participate in?</h2>
-<p>You can go down to our <a href="#list">complete list of popular math competitions</a> to find one that's right for you, or follow the guidelines here to find the competition that's right for you!</p>
+<p>Browse our <mark><a href="#list">complete list of popular math competitions</a></mark>, or follow the guidelines here to find the competition that's right for you!</p>
 </section50short>
 
 <section50>
 <h3>Lower Elementary School: Grades K-3</h3>
-  <p>If you really want to do a math competition, then go for <a href="#kangaroo">Math Kangaroo</a>. Easy to register, no need to find a team!</p>
+  <p>If you really want to do a math competition, then go for <a href="#kangaroo">Math Kangaroo</a>. Easy to register as individual, no need to find a team!</p>
 
 <h3>Upper Elementary School: Grades 4-6</h3>
   <p>The idea of Math Competitions in Elementary School is to develop the passion for the deep thinking that goes into competition math, not to go win an international prize! Also, it's hard for little kids to understand large timeframes and to practice for a competition that's 4 months away. For this reason, we recommend competitions that hold multiple contests in a year. This keep the kids engaged in the competition and keeps their motivation level high.</p>
@@ -66,7 +66,7 @@ h2: Mathematics
   <div class="section50right"> 
   <h4>No, I'm on my own</h4>
   <p><b>Participate in <a href="#cml">CML</a></b> as a "Home School". It is a good alternative to MOEMS.</p>
-  <p><b>Optional:</b> In addition to CML, you can consider participating in <a href="#kangaroo">Math Kangaroo</a>, which has a single contest. It is a prestigious international competition, and is slightly more challenging than CML, so may need extra preparation.</p>
+  <p><b>Optional:</b> In addition to CML, you can consider participating in <a href="#kangaroo">Math Kangaroo</a>, which has a single contest. It is a prestigious international competition, and is slightly more challenging than CML, so you may need extra preparation.</p>
   </div>
 </section50>
 
@@ -74,7 +74,7 @@ h2: Mathematics
 <h3>Middle School: Grades 6-8</h3>
   <p><b>Deciding question:</b> Do you want hardcode competition, or do you want to compete for fun?</p>
   <div class="section50left"> 
-  <h4>I'm not scared of state/national level competition!</h4>
+  <h4>I'm not scared of competing at state/national level!</h4>
   <p><b>Participate in <a href="#amc8">AMC8</a> and <a href="#mathcounts">MathCounts</a></b>. Both are prestigious and challenging competitions, and serious contentents will find them fun! The preparation of both competitions is similar, and the dates are far apart so they don't clash with each other. If your school doesn't offer them, you can participate in AMC8 at a <a href="https://mathcircles.org/find-a-math-circle/" target="_blank">local Math Circle</a>, and register as an individual in MathCounts.</p>
   </div>
 
@@ -88,7 +88,19 @@ h2: Mathematics
 
 <section50>
 <h3>High Schools: Grades 9-12</h3>
-  <img class="center" src="/images/ComingSoon.png" style="width:400px; padding-top:50px;">
+  <p><b>Deciding question:</b> Do you want hardcode competition, or do you want to compete for fun?</p>
+  <div class="section50left"> 
+  <h4>I'm not scared of competing at state/national level!</h4>
+  <p><b>Participate in <a href="#amc10">AMC10/12</a></b> and go as far as you can. Many colleges ask for your AMC and AIME scores during admissions!</p>
+  <p><b>Optional:</b> Consider participating in some <a href="#otherhigh">other high school</a> competitions depending on your interest and proximity to the venue. Each competition requires specific preparation that takes time away from your other activities, so pick judiciously.</p>
+  </div>
+
+  <div class="section50right"> 
+  <h4>I love math, but don't enjoy hardcore competitions</h4>
+  <p><b>Participate in <a href="#league">Math League</a></b> if your school offers it. It's a fun contest at just the right level - not to hard, not to easy. The high school version has a series of 6 tests to keep you occcupied through the school year!</p>
+
+  <p>Or, forget about competitions altogether, and enjoy <a href="/technology/logic/">Logic Puzzles</a> in your spare time!</p>
+  </div>
 
 </section50>
 
@@ -123,7 +135,16 @@ h2: Mathematics
 <section50 style="min-height: 150px;"> 
   <h2 id="{{ comp.hash }}"> <a href=" {{ comp.toplink }} " target="_blank">{{ comp.heading }} </a> </h2>
 
+  {% capture _%}{% increment i %}{% endcapture %}
+  {% assign mod = i | modulo:2 %}
+
+  <!-- For even loop runs, put pic to left. Switch for odd -->
+  {% if mod == 0 %}
   <div class="section50left">
+  {% else %}
+  <div class="section50right">
+  {% endif %}
+
     <ul class="compl1">
     <li><b>Grades:</b> {{ comp.grades }} </li>
     <li><b>Enrollment:</b> {{ comp.enrollment }} </li>
@@ -144,19 +165,44 @@ h2: Mathematics
     </ul>
   </div>
 
+  {% if mod == 0 %}
   <div class="section50right">
-  <img src=" {{ comp.img1 }} ">
-  <h3> {{ comp.caption1 }} </h3>
-  <img src=" {{ comp.img2 }} ">
-  <h3> {{ comp.caption2 }} </h3>
+  {% else %}
+  <div class="section50left">
+  {% endif %}
+    <img src=" {{ comp.img1 }} ">
+    <h3> {{ comp.caption1 }} </h3>
+    <img src=" {{ comp.img2 }} ">
+    <h3> {{ comp.caption2 }} </h3>
   </div>
 
 </section50>
 <br><br>
 {% endfor %}
 
-<section50short>
-<h2>More competitions for Middle and High Schools</h2>
-<img class="center" src="/images/ComingSoon.png" style="width:400px; padding-bottom:50px;">
-</section50short>
+<section50>
+<h2 id="otherhigh"> <a href="https://cty.jhu.edu/resources/academic-opportunities/competitions/math.html" target="_blank">Other High School Math Competitions</a> </h2>
+<div class="section50left">
+  
+  <ul class="compl2">The popular <a href="https://cty.jhu.edu/resources/academic-opportunities/competitions/math.html" target="_blank">high school competitions</a> are:
+    <li><a href="https://bmt.berkeley.edu/home/" target="_blank">Berkeley Math Tournament (BMT)</a></li>
+    <li><a href="https://www.hmmt.co/" target="_blank">Harvard MIT Math Tournament (HMMT)</a></li>
+    <li><a href="http://cmimc-official.herokuapp.com/info" target="_blank">Carnegie Mellon Informatics and Mathematics Competition (CMIMC)</a></li>
+    <li><a href="http://chmmc.caltech.edu/" target="_blank">Caltech Harvey Mudd Math Competition (CHMMC)</a></li>
+    <li><a href="https://pumac.princeton.edu/" target="_blank">Princeton University Math Competition (PUMAC)</a></li>
+    <li><a href="https://sumo.stanford.edu/smt/" target="_blank">Stanford Math Tournament (SMT)</a></li>
+    <li><a href="https://purplecomet.org/" target="_blank">Purple Comet Math Meet</a></li>
+    <li><a href="https://www.arml.com/" target="_blank">American Regions Math League (ARML)</a></li>
+  </ul>
+</div>
 
+<div class="section50right">
+  <ul class="compl2">
+    <li><b>Difficulty:</b> Hard! They are not for the faint of heart.</li>
+    <li>Most require that you register as a team, so if your school doesn't have a Math Team, then join a <a href="https://mathcircles.org/find-a-math-circle/" target="_blank">local Math Circle</a> or a private math institute to register through them</li>
+    <li>Some will let you register as an individual, and will place you in teams with other individual registrants</li>
+    <li>Each competition is different, so prepare for each one individually using past tests</li>
+  </ul>
+</div>
+</section50>
+<br>
