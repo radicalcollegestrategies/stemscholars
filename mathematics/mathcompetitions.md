@@ -74,7 +74,7 @@ h2: Mathematics
 <h3>Middle School: Grades 6-8</h3>
   <p><b>Deciding question:</b> Do you want hardcode competition, or do you want to compete for fun?</p>
   <div class="section50left"> 
-  <h4>I'm not scared of competing at state/national level!</h4>
+  <h4>I want to compete at state/national level!</h4>
   <p><b>Participate in <a href="#amc8">AMC8</a> and <a href="#mathcounts">MathCounts</a></b>. Both are prestigious and challenging competitions, and serious contentents will find them fun! The preparation of both competitions is similar, and the dates are far apart so they don't clash with each other. If your school doesn't offer them, you can participate in AMC8 at a <a href="https://mathcircles.org/find-a-math-circle/" target="_blank">local Math Circle</a>, and register as an individual in MathCounts.</p>
   </div>
 
@@ -90,7 +90,7 @@ h2: Mathematics
 <h3>High Schools: Grades 9-12</h3>
   <p><b>Deciding question:</b> Do you want hardcode competition, or do you want to compete for fun?</p>
   <div class="section50left"> 
-  <h4>I'm not scared of competing at state/national level!</h4>
+  <h4>I want to compete at state/national level!</h4>
   <p><b>Participate in <a href="#amc10">AMC10/12</a></b> and go as far as you can. Many colleges ask for your AMC and AIME scores during admissions!</p>
   <p><b>Optional:</b> Consider participating in some <a href="#otherhigh">other high school</a> competitions depending on your interest and proximity to the venue. Each competition requires specific preparation that takes time away from your other activities, so pick judiciously.</p>
   </div>
@@ -140,9 +140,9 @@ h2: Mathematics
 
   <!-- For even loop runs, put pic to left. Switch for odd -->
   {% if mod == 0 %}
-  <div class="section50left">
-  {% else %}
   <div class="section50right">
+  {% else %}
+  <div class="section50left">
   {% endif %}
 
     <ul class="compl1">
@@ -166,9 +166,9 @@ h2: Mathematics
   </div>
 
   {% if mod == 0 %}
-  <div class="section50right">
-  {% else %}
   <div class="section50left">
+  {% else %}
+  <div class="section50right">
   {% endif %}
     <img src=" {{ comp.img1 }} ">
     <h3> {{ comp.caption1 }} </h3>
