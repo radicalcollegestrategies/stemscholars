@@ -47,8 +47,11 @@ h2: Technology / Mathematics
 
   <!-- For even loop runs, put pic to left. Switch for odd -->
   {% if mod == 0 %}
+  <div class="section50right">
+  {% else %}
+  <div class="section50left">
+  {% endif %}
 
-    <div class="section50left">
     {% if comp.picsmall %}
       <img style="width:350px" src="{{ comp.pic }}">
     {% else %}
@@ -63,11 +66,15 @@ h2: Technology / Mathematics
     {% endif %}
 
     <h3> {{ comp.piccaption }} </h3>
-    </div>
+  </div>
 
-    <div class="section50right">
+  {% if mod == 0 %}
+  <div class="section50left">
+  {% else %}
+  <div class="section50right">
+  {% endif %}
     <ul class="compl1">
-    <li> {{ comp.description }} </li>
+    <li> {{ comp.description }} </li><br>
     <li><b>Ages:</b> {{ comp.ages }} </li>
     <li><b>Number of players:</b> {{ comp.num }} </li>   
 
@@ -77,41 +84,6 @@ h2: Technology / Mathematics
       {{ comp.content }} 
     </ul> </li> </ul>
     </div>
-
-  {% else %}
-
-    <div class="section50left">
-    <ul class="compl1">
-    <li> {{ comp.description }} </li>
-    <li><b>Ages:</b> {{ comp.ages }} </li>
-    <li><b>Number of players:</b> {{ comp.num }} </li>
- 
-    <br>
-    <li>Puzzle Setup:
-    <ul class="compl2">
-      {{ comp.content }} 
-    </ul> </li> </ul>
-    </div>
- 
-    <div class="section50right">
-
-    {% if comp.picsmall %}
-      <img style="width:350px" src="{{ comp.pic }}">
-    {% else %}
-      <img src="{{ comp.pic }}">
-    {% endif %}
-
-    {% if comp.piccreator %}
-      <div class="license">(
-        <a href="{{ comp.piclink }}" target="_blank">Image</a>
-        <a href="{{ comp.piclicense }}" target="_blank">licensed</a> from {{ comp.piccreator }}
-        )</div>
-    {% endif %}
-
-    <h3> {{ comp.piccaption }} </h3>
-    </div>
-
-  {% endif %}
 
 </section50>
 <br>

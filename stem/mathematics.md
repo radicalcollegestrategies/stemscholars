@@ -34,49 +34,10 @@ h2: Problem Solving
 
   <!-- For even loop runs, put pic to left. Switch for odd -->
   {% if mod == 0 %}
-
-    <div class="section50left">
-    {% if comp.picsmall %}
-      <img style="width:350px" src="{{ comp.pic }}">
-    {% else %}
-      <img src="{{ comp.pic }}">
-    {% endif %}
-
-    {% if comp.piccreator %}
-      <div class="license">(
-        <a href="{{ comp.piclink }}" target="_blank">Image</a>
-        <a href="{{ comp.piclicense }}" target="_blank">licensed</a> from {{ comp.piccreator }}
-        )</div>
-    {% endif %}
-
-    <h3> {{ comp.piccaption }} </h3>
-    </div>
-
-    <div class="section50right">
-    <ul class="compl1">
-    <li> {{ comp.description }} </li>
-    <br>
-    <li><b>Grades:</b> {{ comp.grades }} </li>
-    <li>Resources:
-    <ul class="compl2">
-      {{ comp.content }} 
-    </ul> </li> </ul>
-    </div>
-
+  <div class="section50right">
   {% else %}
-
-    <div class="section50left">
-    <ul class="compl1">
-    <li> {{ comp.description }} </li>
-    <br>
-    <li><b>Grades:</b> {{ comp.grades }} </li>
-    <li>Resources:
-    <ul class="compl2">
-      {{ comp.content }} 
-    </ul> </li> </ul>
-    </div>
- 
-    <div class="section50right">
+  <div class="section50left">
+  {% endif %}
 
     {% if comp.picsmall %}
       <img style="width:350px" src="{{ comp.pic }}">
@@ -92,9 +53,22 @@ h2: Problem Solving
     {% endif %}
 
     <h3> {{ comp.piccaption }} </h3>
-    </div>
+  </div>
 
+  {% if mod == 0 %}
+  <div class="section50left">
+  {% else %}
+  <div class="section50right">
   {% endif %}
+    <ul class="compl1">
+    <li> {{ comp.description }} </li>
+    <br>
+    <li><b>Grades:</b> {{ comp.grades }} </li>
+    <li>Resources:
+    <ul class="compl2">
+      {{ comp.content }} 
+    </ul> </li> </ul>
+  </div>
 
 </section50>
 <br>
