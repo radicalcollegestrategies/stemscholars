@@ -1,6 +1,7 @@
 ---
 heading: FIRST Tech Challenge (FTC)
 toplink: https://www.firstinspires.org/robotics/ftc
+hash: ftc
 grades: 7-12
 teamsize: Up to 15
 video: https://www.youtube.com/embed/i2g_b54MEFI

@@ -4,23 +4,14 @@ permalink: /stem/mathematics/
 title: Mathematics
 h2: Problem Solving
 ---
-<!--section50short style="height: 75px; padding-bottom:10px">
-  <div class="tabactive">
-    <h2>Mathematics</h2>
-  </div>
-  <div class="tabinactive">
-    <h2><a href="/mathematics/mathcompetitions">Math Competitions</a></h2>
-  </div>
-</section50short-->
-
 <section50>
 <h2>Math Beyond School : Problem Solving</h2>
 
-  <div class="section50left">
+  <div class="section50right">
     <img style="width:350px" src="/images/math/Rubix.png">
   </div>
 
-  <div class="section50right">
+  <div class="section50left">
 
     <p>If you love Math in school, and are reasonably good at it, then go deeper to hone your Problem Solving, Logical Reasoning and Critical Thinking skills. <i>Do not</i> waste your time doing busy work like pages and pages of long division! Do just enough practice problems in school math to make sure you don't make silly mistakes, and spend the rest of your time solving more fun and engaging problems! </p>
 

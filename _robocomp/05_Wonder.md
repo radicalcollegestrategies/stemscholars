@@ -1,6 +1,7 @@
 ---
 heading: Wonder League Robotics Competition
 toplink: https://www.makewonder.com/classroom/robotics-competition/
+hash: wonder
 grades: K-2    or    3-5    or    6-8
 teamsize: 1-5
 video: https://www.youtube.com/embed/gs8CX1RAn2E

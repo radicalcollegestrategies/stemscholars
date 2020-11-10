@@ -1,6 +1,7 @@
 ---
 heading: FIRST Robotics Challenge (FRC)
 toplink: https://www.firstinspires.org/robotics/frc
+hash: frc
 grades: 9-12
 teamsize: 10 or more
 video: https://www.youtube.com/embed/i9SpCmWz2OY

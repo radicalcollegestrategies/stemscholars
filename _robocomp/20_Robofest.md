@@ -1,6 +1,7 @@
 ---
 heading: Robofest
 toplink: https://www.robofest.net/
+hash: robofest
 grades: 5-8 or 9-12
 teamsize: 1-5
 video: https://www.youtube.com/embed/4kTAYWXWJd4

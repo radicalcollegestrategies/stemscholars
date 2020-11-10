@@ -1,6 +1,7 @@
 ---
 heading: FIRST Lego League Challenge (FLL)
 toplink: https://www.firstinspires.org/robotics/fll
+hash: fll
 grades: 4-8
 teamsize: 2-10
 video: https://www.youtube.com/embed/_AqD6t1Cx_w 

@@ -1,6 +1,7 @@
 ---
 heading: FIRST Lego League Explore (formerly, FLL Jr)
 toplink: https://www.firstinspires.org/robotics/fll
+hash: flljr
 grades: 2-4
 teamsize: 2-5
 video: https://www.youtube.com/embed/aBry39zciQk
