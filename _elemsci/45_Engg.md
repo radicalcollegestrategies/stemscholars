@@ -2,7 +2,7 @@
 heading: Explore Engineering and Robotics
 toplink: /stem/engineering/
 grades: K+
-description:  If you enjoy Science, you're likely to love Engineering
+description:  If you enjoy Science, you're likely to love Engineering.
 video: https://www.youtube.com/embed/bipTWWHya8A
 ---
 

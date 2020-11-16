@@ -6,6 +6,6 @@ description: Vast collection of free simulators make science fun!
 pic: /images/sci/PhET.png
 ---
 
-<li>Interactive simulations where you change some variables and watch the result</li>
+<li>Has interactive simulations you can play around with</li>
 <li>Hours of fun while learning physics, chemistry, math, biology and earth science</li>
 <li>Create an account or login with Clever to save your progress</li>
