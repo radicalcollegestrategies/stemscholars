@@ -1,12 +1,12 @@
 ---
 layout: default
-permalink: /engineering/robocompetitions/
+permalink: /robocompetitions/
 title: Robotics Competitions
 h2: Engineering
 ---
 <section50short style="height: 75px; padding-bottom:10px">
   <div class="tabinactive">
-    <h2><a href="/engineering/robotics">Robotics</a></h2>
+    <h2><a href="/robotics">Robotics</a></h2>
   </div>
   <div class="tabactive">
     <h2>Robotics Competitions</h2>
@@ -48,7 +48,7 @@ Don't worry about winning - just enjoy the experience. </p>
 
 <section50short> 
 <h3>Lower Elementary School: Grades K-3</h3>
-<p><b><a href="/engineering/robotics#WhichRobot" target="_blank">Buy Dash Robot:</a></b> For elementary school students, we recommend the Dash robot by Wonder Workshop. You can get started with it very quickly, with no prior technical expertise. And remember to get together a team of your friends to participate in the <a href="#wonder">Wonder League Robotics Competition</a> because it’s a lot more fun that way! </p>
+<p><b><a href="/robotics#WhichRobot" target="_blank">Buy Dash Robot:</a></b> For elementary school students, we recommend the Dash robot by Wonder Workshop. You can get started with it very quickly, with no prior technical expertise. And remember to get together a team of your friends to participate in the <a href="#wonder">Wonder League Robotics Competition</a> because it’s a lot more fun that way! </p>
 
 <h3>Upper Elementary / Middle School: Grades 4-8</h3>
 <p> Once you outgrow the Dash robot, or if you skipped it altogether, you need to decide which robot to buy and which competition to participate in. First collect a team of your friends who will participate in a robotics competition with you, so you can make the decision togehter.</p>
@@ -56,12 +56,12 @@ Don't worry about winning - just enjoy the experience. </p>
 
 <div class="section50left"> 
 <h4>I have a mentor</h4>
-<p> Buy the <a href="/engineering/robotics#WhichRobot" target="_blank">Lego EV3 robot</a> and move onto "Deciding question 2"</p>
+<p> Buy the <a href="/robotics#WhichRobot" target="_blank">Lego EV3 robot</a> and move onto "Deciding question 2"</p>
 </div>
 
 <div class="section50right"> 
 <h4> I do not have a mentor </h4>
-<p> Continue your robotics journey with <a href="/engineering/robotics#WhichRobot" target="_blank">Cue Robot</a>, and participate in the <a href="#wonder">Wonder League Robotics Competition</a> </p>
+<p> Continue your robotics journey with <a href="/robotics#WhichRobot" target="_blank">Cue Robot</a>, and participate in the <a href="#wonder">Wonder League Robotics Competition</a> </p>
 </div>
 
 </section50short>

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /engineering/robotics/
+permalink: /robotics/
 title: Get Started with Robotics
 h2: Engineering
 ---
@@ -10,7 +10,7 @@ h2: Engineering
     <h2>Robotics</h2>
   </div>
   <div class="tabinactive">
-    <h2><a href="/engineering/robocompetitions">Robotics Competitions</a></h2>
+    <h2><a href="/robocompetitions">Robotics Competitions</a></h2>
   </div>
 </section50short>
 
@@ -176,7 +176,7 @@ h2: Engineering
 
 <section50short>
 <h2>Hmmm, do I really need to participate in a Robotics competition?</h2>
-<div style="width:800px; padding-left:100px"> We highly recommend it!  Robotics competitions give you a goal to work towards while learning robotics. Learn more on our <a href="/engineering/robocompetitions">Robotics Competitions</a> page.
+<div style="width:800px; padding-left:100px"> We highly recommend it!  Robotics competitions give you a goal to work towards while learning robotics. Learn more on our <a href="/robocompetitions">Robotics Competitions</a> page.
  </div>
 </section50short>
 <br>

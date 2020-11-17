@@ -1,13 +1,13 @@
 ---
 layout: default
-permalink: /mathematics/mathcompetitions/
+permalink: /mathcompetitions/
 title: Math Competitions
 h2: Mathematics
 ---
 
 <!--section50short style="height: 75px; padding-bottom:10px">
   <div class="tabinactive">
-    <h2><a href="/stem/mathematics">Mathematics</a></h2>
+    <h2><a href="/mathematics">Mathematics</a></h2>
   </div>
   <div class="tabactive">
     <h2>Math Competitions</h2>
@@ -99,7 +99,7 @@ h2: Mathematics
   <h4>I love math, but don't enjoy hardcore competitions</h4>
   <p><b>Participate in <a href="#league">Math League</a></b> if your school offers it. It's a fun contest at just the right level - not to hard, not to easy. The high school version has a series of 6 tests to keep you occcupied through the school year!</p>
 
-  <p>Or, forget about competitions altogether, and enjoy <a href="/technology/logic/">Logic Puzzles</a> in your spare time!</p>
+  <p>Or, forget about competitions altogether, and enjoy <a href="/logic/">Logic Puzzles</a> in your spare time!</p>
   </div>
 
 </section50>

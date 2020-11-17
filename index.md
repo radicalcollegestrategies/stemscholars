@@ -21,10 +21,10 @@ h2: Achieve excellence in any area of STEM
   <div class="section50right">
     <h2>Are you curious about:</h2> 
     <ul class="yes" style="padding-left:80px"> 
-    <li><a href="/mathematics/mathcompetitions">Math Competitions</a></li>
-    <li><a href="/stem/technology">Computer Programming / Coding</a></li>
-    <li><a href="/engineering/robotics">Robotics</a></li>
-    <li><a href="/stem/science">Science Experiments</a></li>
+    <li><a href="/mathcompetitions">Math Competitions</a></li>
+    <li><a href="/technology">Computer Programming / Coding</a></li>
+    <li><a href="/robotics">Robotics</a></li>
+    <li><a href="/science">Science Experiments</a></li>
     <li>Or, maybe you have an artistic side that you want to combine with technology.</li>
     </ul>
     <p>You are in the right place! We will <b>get you started</b> and <b>become advanced</b> in any area of STEM you're interested in.</p>

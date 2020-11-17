@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /stem/science/
+permalink: /science/
 title: Science
 h2: Physics, Chemistry and Biology
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /engineering/FLL/
+permalink: /FLL/
 title: FLL Tips and Resources
 h2: Robotics Competitions
 ---

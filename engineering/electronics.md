@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /engineering/electronics/
+permalink: /electronics/
 title: Electronics
 h2: Engineering
 ---

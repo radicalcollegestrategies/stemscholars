@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /stem/technology/
+permalink: /technology/
 title: Technology
 h2: Logic and Coding
 ---
@@ -72,13 +72,13 @@ h2: Logic and Coding
     <div class="center" style="width:900px">
       
       <div class="gallery2">
-          <a href="/technology/logic">
+          <a href="/logic">
             <img src="/images/tech/Logic.jpg" alt="Logic" width="350" height="250">
           </a>
       </div>
       
       <div class="gallery2">
-          <a href="/technology/blockprogram">
+          <a href="/blockprogram">
             <img src="/images/tech/BlockProgram.jpg" alt="Block Programming" width="350" height="250">
           </a>
       </div>

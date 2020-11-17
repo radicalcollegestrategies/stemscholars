@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /technology/logic/
+permalink: /logic/
 title: Logic Puzzles and Games
 h2: Technology / Mathematics
 ---

@@ -22,7 +22,7 @@ URL: https://stemscholars.github.io/
   * Notes from Barry's email Sat Oct 10
   * Coding competitions, Web page design, making apps, animation
 * Engineering: Remaining items:
-  * Flowchart for Robotics page: https://stemscholars.github.io/engineering/robocompetitions/ 
+  * Flowchart for Robotics page: https://stemscholars.github.io/robocompetitions/ 
 * Math:
   * Competitions
 * Major/Careers: 

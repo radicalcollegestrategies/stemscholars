@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /stem/mathematics/
+permalink: /mathematics/
 title: Mathematics
 h2: Problem Solving
 ---

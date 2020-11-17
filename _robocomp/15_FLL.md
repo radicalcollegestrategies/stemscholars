@@ -17,4 +17,4 @@ video: https://www.youtube.com/embed/_AqD6t1Cx_w
 
 <li>Laptop/Tablet to <a href="https://www.lego.com/en-us/themes/mindstorms/downloads" target="_blank">program</a> the robot</li>
 
-<li><b><a href="/engineering/FLL">Detailed Tips and Resources for FLL</a></b></li>
+<li><b><a href="/FLL">Detailed Tips and Resources for FLL</a></b></li>

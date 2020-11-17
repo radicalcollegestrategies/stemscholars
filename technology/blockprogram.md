@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /technology/blockprogram/
+permalink: /blockprogram/
 title: Block Programming
 h2: Technology
 ---
