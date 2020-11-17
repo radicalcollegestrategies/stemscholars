@@ -7,6 +7,15 @@ permalink: /
 title: STEM Scholars
 h2: Achieve excellence in any area of STEM
 ---
+<section50short>
+  <div class="newsletter">
+    <h3 style="text-align:center; line-height: 1.8; font-size:20px;">Upcoming Event: 
+    <a href="/webinar">
+    Webinar for NHUSD K-5 students on Saturday, November 21 at 10 AM. 
+    </a></h3>
+  </div>
+</section50short>
+<br>
 <section50>
   <img class="section50left" src="/images/stem/STEMlogo.png" alt="Our LOGO here">
   <div class="section50right">
