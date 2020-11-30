@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://stemscholars.github.io/</loc>
+  <lastmod>2020-11-17T02:55:10+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://stemscholars.github.io/science/</loc>
+  <lastmod>2020-11-17T02:55:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stemscholars.github.io/technology/</loc>
+  <lastmod>2020-11-17T02:55:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stemscholars.github.io/logic/</loc>
+  <lastmod>2020-11-17T02:55:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stemscholars.github.io/blockprogram/</loc>
+  <lastmod>2020-11-17T02:55:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stemscholars.github.io/engineering/</loc>
+  <lastmod>2020-11-17T02:55:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stemscholars.github.io/electronics/</loc>
+  <lastmod>2020-11-17T02:55:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stemscholars.github.io/robotics/</loc>
+  <lastmod>2020-11-17T02:55:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stemscholars.github.io/robocompetitions/</loc>
+  <lastmod>2020-11-17T02:55:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stemscholars.github.io/mathematics/</loc>
+  <lastmod>2020-11-17T02:55:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stemscholars.github.io/mathcompetitions/</loc>
+  <lastmod>2020-11-17T02:55:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stemscholars.github.io/careers/</loc>
+  <lastmod>2020-11-17T02:55:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stemscholars.github.io/about/</loc>
+  <lastmod>2020-11-17T02:55:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stemscholars.github.io/webinar</loc>
+  <lastmod>2020-11-17T02:55:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stemscholars.github.io/FLL/</loc>
+  <lastmod>2020-11-17T02:55:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
