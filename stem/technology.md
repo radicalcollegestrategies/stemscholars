@@ -100,11 +100,12 @@ h2: Logic and Coding
 
 <iframe src="https://www.youtube.com/embed/CvSOaYi89B4" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
 
-<p>Does the idea of learning and implementing new algorithms excites you? Follow the page below to get started!</p>
-<a href="/computerscience">
-  <img src="/images/tech/CS.png" alt="Coding" width="350" height="250">
-</a>
-
+<p style="margin-top:25px">Does the idea of learning and implementing new algorithms excite you? <a href="/computerscience">Get started here!</a></p>
+<div class="gallery2">
+  <a href="/computerscience">
+    <img src="/images/tech/CS.jpg" alt="Coding" width="350" height="250">
+  </a>
+</div>
 </div>
 
 <div class="section50right">
@@ -113,17 +114,21 @@ h2: Logic and Coding
 
 <iframe src="https://www.youtube.com/embed/CwDAv_ihml0" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
 
-<p>Already excited to express your artistic side with technology? Follow the page below to learn many different ways!</p>
+<p style="margin-top:25px">Already excited to express your artistic side with technology? <a href="/techart">Explore many different ways to mix tech with art!</a></p>
 
-<a href="/techart">
-  <img src="/images/tech/Artistic.jpg" alt="Tech with Art" width="350" height="250">
-<div class="license">
-   <a href="https://www.flickr.com/photos/lorenjavier/5652041279" target="_blank">Image</a>
-      <a href="https://creativecommons.org/licenses/by-nd/2.0/" target="_blank">licensed</a> from <a href="https://www.flickr.com/photos/lorenjavier/" target="_blank">Loren Javier</a>
-  </div>
-
-</a>
+<div class="gallery2">
+  <a href="/techart">
+    <img src="/images/tech/Artistic.jpg" alt="Tech with Art" width="350" height="250">
+  </a>
+</div>
 
 </div>
 </section50>
+<section50short>
+<div class="section50right">
+  <div class="license">
+    <a href="https://www.flickr.com/photos/lorenjavier/5652041279" target="_blank">Image</a>
+    <a href="https://creativecommons.org/licenses/by-nd/2.0/" target="_blank">licensed</a> from <a href="https://www.flickr.com/photos/lorenjavier/" target="_blank">Loren Javier</a>
+  </div>
+</div>
 <br>
