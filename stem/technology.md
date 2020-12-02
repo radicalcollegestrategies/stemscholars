@@ -64,7 +64,7 @@ h2: Logic and Coding
 
 <section50short>
 
-<h2>Elementary School</h2>
+<h2>Elementary and Middle School: Grades K-8</h2>
 <p> The first step towards coding is to build your logical thinking skills. We have put together a list of fun logic puzzles and games which we hope you'll enjoy. Elementary school is also a great time to learn a block-based or visual programming language like Google's Blockly or MIT's Scratch.
 </p>
 
@@ -85,6 +85,45 @@ h2: Logic and Coding
     </div>
   </div>
 
-<h2>Middle and High School</h2>
-<img class="center" src="/images/ComingSoon.png" style="width:600px; padding-bottom:50px;">
 </section50short>
+
+<section50>
+<h2>Middle and High School: Grades 6-12</h2>
+<p>Technology is a vast field where you can express your creativity in many different ways. Follow the guide below to you discover what works for you!</p>
+
+<h3>Do you want to...</h3>
+<div class="section50left">
+<h4>Learn Computer Science</h4> 
+<p style="margin:0;">Learning Computer Science or "learning to code" is synonymous with learning algorithms. An algorithm is a set of steps for a computer program to accomplish a task.  Algorithms can range from simple, like: </p>
+<p style="font-style:italic;text-align:center;margin:0;">if ... then do ... else do ...</p>
+<p> to complex ones like Google's PageRank to give you the most relevant results for your search queries.</p>
+
+<iframe src="https://www.youtube.com/embed/CvSOaYi89B4" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
+
+<p>Does the idea of learning and implementing new algorithms excites you? Follow the page below to get started!</p>
+<a href="/computerscience">
+  <img src="/images/tech/CS.png" alt="Coding" width="350" height="250">
+</a>
+
+</div>
+
+<div class="section50right">
+<h4>Mix technology with your artistic side</h4> 
+<p>Do you have an artistic bone and admire the aesthetics of an app/website, a logo, a great animation, or the scenery of a virtual reality game? <br> <br> There are many exciting trends in the tech industry which let you express your creativity at a whole different level! </p> <br>
+
+<iframe src="https://www.youtube.com/embed/CwDAv_ihml0" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
+
+<p>Already excited to express your artistic side with technology? Follow the page below to learn many different ways!</p>
+
+<a href="/techart">
+  <img src="/images/tech/Artistic.jpg" alt="Tech with Art" width="350" height="250">
+<div class="license">
+   <a href="https://www.flickr.com/photos/lorenjavier/5652041279" target="_blank">Image</a>
+      <a href="https://creativecommons.org/licenses/by-nd/2.0/" target="_blank">licensed</a> from <a href="https://www.flickr.com/photos/lorenjavier/" target="_blank">Loren Javier</a>
+  </div>
+
+</a>
+
+</div>
+</section50>
+<br>
