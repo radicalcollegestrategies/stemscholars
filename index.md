@@ -77,7 +77,9 @@ h2: Achieve excellence in any area of STEM
   <iframe src="https://www.youtube.com/embed/7yDmGnA8Hw0" scrolling="no" allowfullscreen="" width="325" height="180" frameborder="0"><br/></iframe>
   </div>
 </section50>
+
 <hr style="width:990px;float:center;color:#ffffff">
+
 <br>
 <section50>
   <div class="section50left">
