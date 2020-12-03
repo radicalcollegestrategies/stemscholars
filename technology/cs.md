@@ -13,3 +13,17 @@ h2: Technology
 
 
 </section50-->
+
+<!--section50>
+<div class="section50left">
+<h4>Learn Computer Science</h4> 
+<p style="margin:0;">Learning Computer Science or "learning to code" is synonymous with learning algorithms. An algorithm is a set of steps for a computer program to accomplish a task.  Algorithms can range from simple, like: </p>
+<p style="font-style:italic;text-align:center;margin:0;">if ... then do ... else do ...</p>
+<p> to complex ones like Google's PageRank to give you the most relevant results for your search queries.</p>
+<div>
+
+<div class="section50right">
+<iframe src="https://www.youtube.com/embed/CvSOaYi89B4" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
+</div>
+
+</section50-->

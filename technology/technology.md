@@ -89,46 +89,29 @@ h2: Logic and Coding
 
 <section50>
 <h2>Middle and High School: Grades 6-12</h2>
-<p>Technology is a vast field where you can express your creativity in many different ways. Follow the guide below to you discover what works for you!</p>
+<p>Technology is a vast field that enables you to express your creativity in many different ways. If you enjoy Logic and Math, you should explore learning Computer Science, where you can learn to code with Python and other coding languages. If you have an artistic brain, then explore designing websites, apps, animations, virtual reality games and much more! There is no reason to limit yourself to one or the other -- you can enjoy both!</p>
 
-<h3>Do you want to...</h3>
-<div class="section50left">
-<h4>Learn Computer Science</h4> 
-<p style="margin:0;">Learning Computer Science or "learning to code" is synonymous with learning algorithms. An algorithm is a set of steps for a computer program to accomplish a task.  Algorithms can range from simple, like: </p>
-<p style="font-style:italic;text-align:center;margin:0;">if ... then do ... else do ...</p>
-<p> to complex ones like Google's PageRank to give you the most relevant results for your search queries.</p>
+<div class="navbar2">
+  <div class="center" style="width:900px">
+      
+    <div class="gallery2">
+      <a href="/computerscience">
+        <img src="/images/tech/CS.jpg" alt="Computer Science" width="350" height="250">
+      </a>
+    </div>
+      
+    <div class="gallery2">
+      <a href="/techart">
+        <img src="/images/tech/Artistic.jpg" alt="Artistic Tech" width="350" height="250">
+      </a>
 
-<iframe src="https://www.youtube.com/embed/CvSOaYi89B4" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
-
-<p style="margin-top:25px">Does the idea of learning and implementing new algorithms excite you? <a href="/computerscience">Get started here!</a></p>
-<div class="gallery2">
-  <a href="/computerscience">
-    <img src="/images/tech/CS.jpg" alt="Coding" width="350" height="250">
-  </a>
-</div>
-</div>
-
-<div class="section50right">
-<h4>Mix technology with your artistic side</h4> 
-<p>Do you have an artistic bone and admire the aesthetics of an app/website, a logo, a great animation, or the scenery of a virtual reality game? <br> <br> There are many exciting trends in the tech industry which let you express your creativity at a whole different level! </p> <br>
-
-<iframe src="https://www.youtube.com/embed/CwDAv_ihml0" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
-
-<p style="margin-top:25px">Already excited to express your artistic side with technology? <a href="/techart">Explore many different ways to mix tech with art!</a></p>
-
-<div class="gallery2">
-  <a href="/techart">
-    <img src="/images/tech/Artistic.jpg" alt="Tech with Art" width="350" height="250">
-  </a>
-</div>
-
-</div>
-</section50>
-<section50short>
-<div class="section50right">
-  <div class="license">
-    <a href="https://www.flickr.com/photos/lorenjavier/5652041279" target="_blank">Image</a>
-    <a href="https://creativecommons.org/licenses/by-nd/2.0/" target="_blank">licensed</a> from <a href="https://www.flickr.com/photos/lorenjavier/" target="_blank">Loren Javier</a>
+      <div class="license">
+        <a href="https://www.flickr.com/photos/lorenjavier/5652041279" target="_blank">Image</a>
+        <a href="https://creativecommons.org/licenses/by-nd/2.0/" target="_blank">licensed</a> from <a href="https://www.flickr.com/photos/lorenjavier/" target="_blank">Loren Javier</a>
+      </div>
+    </div>
   </div>
 </div>
+
+</section50>
 <br>
