@@ -61,24 +61,27 @@ h2: Achieve excellence in any area of STEM
   <br>
   <div class="section33">
   <p style="text-align:center;color: #0960be;"><b>Elementary School</b><br>
-  Multiply fast in your head!</p>
-  <iframe src="https://www.youtube.com/embed/pqejoT_AJjw" scrolling="no" allowfullscreen="" width="325" height="180" frameborder="0"><br/></iframe>
+  Tricky math problem!</p>
+  <iframe src="https://www.youtube.com/embed/1tQWm_QYYwA" scrolling="no" allowfullscreen="" width="325" height="180" frameborder="0"><br/></iframe>
   </div>
   
   <div class="section33">
   <p style="text-align:center;color: #0960be;"><b>Middle School</b><br>
-  Solve the Puzzle!</p>
-  <iframe src="https://www.youtube.com/embed/X4kddycYH1Y" scrolling="no" allowfullscreen="" width="325" height="180" frameborder="0"><br/></iframe>
+  Fractions Challenge!</p>
+  <iframe src="https://www.youtube.com/embed/u1GykKVZPjA" scrolling="no" allowfullscreen="" width="325" height="180" frameborder="0"><br/></iframe>
   </div>
 
   <div class="section33" style="padding-right:0px">
   <p style="text-align:center;color: #0960be;"><b>High School</b><br>
-  Cross the bridge!</p>
-  <iframe src="https://www.youtube.com/embed/7yDmGnA8Hw0" scrolling="no" allowfullscreen="" width="325" height="180" frameborder="0"><br/></iframe>
+  The Evil Wizard Riddle!</p>
+  <iframe src="https://www.youtube.com/embed/OmUjIHOPnOw" scrolling="no" allowfullscreen="" width="325" height="180" frameborder="0"><br/></iframe>
   </div>
 </section50>
 
+<section50short><p style="padding-top:10px; text-align:center; font-style:italic">Missed a Newsletter? Find it in the <a href="/newsarchive/">archives</a></p>
+
 <hr style="width:990px;float:center;color:#ffffff">
+</section50short>
 
 <br>
 <section50>

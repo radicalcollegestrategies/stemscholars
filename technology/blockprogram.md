@@ -36,6 +36,7 @@ are both great block-based programming languages to learn coding. Both provide v
   {% if mod == 0 %}
 
     <div class="section50left">
+    <br>
     {% if comp.picsmall %}
       <img style="width:350px" src="{{ comp.pic }}">
     {% else %}
@@ -70,7 +71,7 @@ are both great block-based programming languages to learn coding. Both provide v
     </div>
  
     <div class="section50right">
-
+    <br>
     {% if comp.picsmall %}
       <img style="width:350px" src="{{ comp.pic }}">
     {% else %}

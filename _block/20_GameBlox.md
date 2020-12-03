@@ -2,7 +2,7 @@
 heading: Build a game with MIT's Game Blox
 toplink: https://gameblox.org/
 grades: 6+
-pic: /images/tech/GameBlox.png
+pic: /images/tech/GameBlox.jpg
 description: This free game editor makes it fun to create games. You can create and play games on Google Chrome, or download them on your phone or tablet to play!
 ---
 <li>Go to the <a href="https://gameblox.org/" target="_blank">Game Blox website</a> and create an account</li>
