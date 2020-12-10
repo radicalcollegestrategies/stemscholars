@@ -1,5 +1,6 @@
 ---
 heading: ThinkFun
+hash: thinkfun
 toplink: https://www.amazon.com/s?k=thinkfun&rh=n%3A165793011%2Cp_89%3AThink+Fun&dc&pldnSite=1&qid=1601246845&rnid=2528832011&ref=sr_nr_p_89_1
 ages: 6 to adult
 num: 1+

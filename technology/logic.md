@@ -39,7 +39,7 @@ h2: Technology / Mathematics
 
 {% for comp in site.logic %}  
 <section50> 
-  <h2> <a href=" {{ comp.toplink }} " target="_blank">{{ comp.heading }} </a> </h2>
+  <h2 id="{{ comp.hash }}"> <a href=" {{ comp.toplink }} " target="_blank">{{ comp.heading }} </a> </h2>
 
   <!-- Use capture to prevent outputting i -->
   {% capture _%}{% increment i %}{% endcapture %}

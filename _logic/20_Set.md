@@ -1,5 +1,6 @@
 ---
 heading: SET - A game of visual perception
+hash: set
 toplink: https://www.setgame.com/set/puzzle
 ages: 6 to adult
 num: 1+

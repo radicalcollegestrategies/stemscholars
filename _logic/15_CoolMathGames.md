@@ -1,5 +1,6 @@
 ---
 heading: Cool Math Games
+hash: mathgames
 toplink: https://www.coolmathgames.com/
 ages: 6 to adult
 num: 1+

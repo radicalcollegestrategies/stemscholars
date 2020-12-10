@@ -1,5 +1,6 @@
 ---
 heading: Logic Grids
+hash: grid
 toplink: https://www.ahapuzzles.com/logic/logic-puzzles/
 ages: 11 to adult
 num: 1

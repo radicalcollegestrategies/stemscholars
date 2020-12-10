@@ -1,5 +1,6 @@
 ---
 heading: Mastermind
+hash: mastermind
 toplink: https://www.webgamesonline.com/mastermind/
 ages: 8 to adult
 num: 2
