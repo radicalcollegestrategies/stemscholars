@@ -374,7 +374,7 @@ section50short:after {
   display: table;
   clear: both;
 }
-.tabactive, .tabinactive, .tabcenter, .newsletter {
+.tabactive, .tabinactive, .tabcenter, .newsletter, .newsletter2 {
   height: 50px;
   border: 2px solid #0b325c;
   border-radius: 25px; /* top left, top right, bottom right, bottom left */
@@ -399,6 +399,13 @@ section50short:after {
 .newsletter{
   background-color: #e2e8fd;
   height: 55px;
+}
+
+.newsletter2 {
+  width: 400px;
+  float: left;
+  background-color: #e2e8fd;
+  height: 400px;  
 }
 /**************************** Grid *****************************/
 .row2 {
