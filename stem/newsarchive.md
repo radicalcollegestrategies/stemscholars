@@ -34,7 +34,10 @@ h2: Past Newsletters
 
 </section50short>
 
+<section50>
+  <h4>Dec 2, 2020</h4>
 
+</section50>
 
 <section50>
   <h4>Nov 11, 2020</h4>

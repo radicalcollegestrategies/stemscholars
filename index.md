@@ -33,7 +33,7 @@ h2: Achieve excellence in any area of STEM
 </section50>
 
 <section50>
-  <h2>This Week's Highlights</h2>
+  <h2>The perfect STEM holiday projects for all ages!</h2>
   <div class="newsletter">
     <p style="text-align:center; padding:0; margin:0; ">Subscribe to our weekly newsletter to get the featured videos and puzzles in your inbox! </p> 
     <p style="text-align:center; font-size:12px; padding-top:0; margin-top:0; line-height:12px">We never spam or sell your email address. Please enter parent's email if you're under 13. We would love your feedback on this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZABLed8p2nQ6cj5IQTWBrBPhapgCUXUeQHEDwyRACregmcg/viewform?usp=sf_link" target="_blank">Google Form</a></p>
@@ -59,26 +59,46 @@ h2: Achieve excellence in any area of STEM
   </div>
 
   <br>
+ 
   <div class="section33">
   <p style="text-align:center;color: #0960be;"><b>Elementary School</b><br>
-  Tricky math problem!</p>
-  <iframe src="https://www.youtube.com/embed/1tQWm_QYYwA" scrolling="no" allowfullscreen="" width="325" height="180" frameborder="0"><br/></iframe>
+  <a href="https://stemscholars.github.io/electronics#snap">Try snap circuits ...</a></p>
+<a href="https://stemscholars.github.io/electronics#snap">
+  <img style="width:300px" src="/images/engg/SnapCircuits.jpg"></a>
+
+<p style="text-align:center; margin-top:50px"> <a href = "https://stemscholars.github.io/robotics#WhichRobot">... Or the Dash Robot</a></p>
+
+<a href = "https://stemscholars.github.io/robotics#WhichRobot">
+<img style="width:300px" src="/images/tech/Dash.png"></a>
+
   </div>
   
   <div class="section33">
-  <p style="text-align:center;color: #0960be;"><b>Middle School</b><br>
-  Fractions Challenge!</p>
-  <iframe src="https://www.youtube.com/embed/u1GykKVZPjA" scrolling="no" allowfullscreen="" width="325" height="180" frameborder="0"><br/></iframe>
+  <p style="text-align:center;color: #0960be;"><b>Middle and High School</b><br>
+  <a href="https://stemscholars.github.io/electronics/#arduino">Try Arduino Uno...</a></p>
+  <a href = "https://stemscholars.github.io/electronics/#arduino">
+<img style="width:300px" src="/images/engg/ArduinoSmall.png"></a>
+
+<p style="text-align:center; margin-top:50px"> <a href = "https://youtu.be/QUQta4f_87E">... and do some fun projects</a></p>
+
+  <iframe src="https://www.youtube.com/embed/QUQta4f_87E" scrolling="no" allowfullscreen="" width="325" height="180" frameborder="0"><br/></iframe>
   </div>
 
   <div class="section33" style="padding-right:0px">
-  <p style="text-align:center;color: #0960be;"><b>High School</b><br>
-  The Evil Wizard Riddle!</p>
-  <iframe src="https://www.youtube.com/embed/OmUjIHOPnOw" scrolling="no" allowfullscreen="" width="325" height="180" frameborder="0"><br/></iframe>
+  <p style="text-align:center;color: #0960be;"><b>For the whole family</b><br>
+  <a href = "https://stemscholars.github.io/logic/">Logic Puzzles ...</a></p>
+   <a href = "https://stemscholars.github.io/logic">
+<img style="width:300px" src="/images/tech/Logic.jpg"></a>
+
+<p style="text-align:center; margin-top:50px"> <a href = "https://stemscholars.github.io/logic#board">... and Family Board Game Nights</a></p>
+
+ <a href = "https://stemscholars.github.io/logic#board">
+<img style="width:300px" src="/images/tech/BoardGames.jpg"></a>
+
   </div>
 </section50>
 
-<section50short><p style="padding-top:10px; text-align:center; font-style:italic">Missed a Newsletter? Find it in the <a href="/newsarchive/">archives</a></p>
+<section50short><p style="padding-top:10px; text-align:center; font-style:italic">Missed a Newsletter? Find it in the <a href="https://groups.google.com/g/stem-scholars">archives</a></p>
 
 <hr style="width:990px;float:center;color:#ffffff">
 </section50short>
