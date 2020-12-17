@@ -11,7 +11,7 @@ h2: Engineering
 </section50short>
 {% for comp in site.electronics %}  
 <section50> 
-  <h2><a href="{{ comp.toplink }}" target="_blank">{{ comp.heading }}</a></h2>
+  <h2 id="{{ comp.hash }}"><a href="{{ comp.toplink }}" target="_blank">{{ comp.heading }}</a></h2>
 
   <!-- Use capture to prevent outputting i -->
   {% capture _%}{% increment i %}{% endcapture %}

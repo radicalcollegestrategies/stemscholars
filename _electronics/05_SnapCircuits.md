@@ -1,5 +1,6 @@
 ---
 heading: Snap Circuits
+hash: snap
 toplink: https://www.amazon.com/Snap-Circuits-SC-300-Electronics-Exploration/dp/B0000683A4
 grades: 2+
 pic: /images/engg/SnapCircuits.jpg

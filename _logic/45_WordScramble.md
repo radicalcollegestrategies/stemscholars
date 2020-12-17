@@ -1,5 +1,6 @@
 ---
 heading: Word Scramble
+hash: scramble
 toplink: https://www.brainzilla.com/word-games/word-scramble/
 ages: 11 to adult
 num: 1+

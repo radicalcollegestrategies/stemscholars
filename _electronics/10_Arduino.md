@@ -1,5 +1,6 @@
 ---
 heading: Arduino Uno
+hash: arduino
 toplink: https://www.arduino.cc/
 grades: 6+
 pic: /images/engg/Arduino.png

@@ -1,5 +1,6 @@
 ---
 heading: Raspberry Pi
+hash: raspberry
 toplink: https://projects.raspberrypi.org/en
 grades: 6+
 pic: /images/engg/RaspberryPi.jpg

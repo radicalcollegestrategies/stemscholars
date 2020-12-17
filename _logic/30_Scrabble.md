@@ -1,5 +1,6 @@
 ---
 heading: Scrabble
+hash: scrabble
 toplink: https://www.scrabblegames.info/play/scrabble-online
 ages: 8 to adult
 num: 1+

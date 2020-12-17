@@ -1,5 +1,6 @@
 ---
 heading: Strategy Games
+hash: board
 toplink: https://en.wikipedia.org/wiki/Strategy_game
 ages: 3 to adult
 num: 2+

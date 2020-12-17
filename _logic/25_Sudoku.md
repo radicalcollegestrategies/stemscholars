@@ -1,5 +1,6 @@
 ---
 heading: Sudoku - The most popular Japanese puzzle!
+hash: sudoku
 toplink: https://sudoku.game/
 ages: 8 to adult
 num: 1
