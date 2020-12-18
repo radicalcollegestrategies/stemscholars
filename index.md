@@ -39,7 +39,7 @@ h2: Achieve excellence in any area of STEM
     <p style="text-align:center; padding:0; margin:0; ">Get fun videos and puzzles in your inbox!<br>Never miss a STEM event! </p> 
 <br>
 
-<div style="margin-left:120px; font-size:14px">
+<div style="margin-left:140px; font-size:14px">
     <form action="https://getform.io/f/6f25ddc3-5307-452d-9aae-b330200ba1d5" method="POST">
     <label for="email"><b>Email:</b></label>
     <input type="email" name="email" required> <br> <br>
@@ -47,15 +47,10 @@ h2: Achieve excellence in any area of STEM
     <label for="Grade Level:"><b>Grade Level:</b></label> <br> 
 
     <input type="radio" id="Elementary" name="grade" value="Elementary" required> <label for="Elementary">&nbsp; &nbsp; Elementary</label> <br>
-
     <input type="radio" id="Middle" name="grade"  value="Middle"> 
-    <label for="Middle">&nbsp; &nbsp; Middle</label>
-   <br>
-
+    <label for="Middle">&nbsp; &nbsp; Middle</label> <br>
     <input type="radio" id="High" name="grade" value="High"> 
-    <label for="High">&nbsp; &nbsp; High</label>
-<br> <br>
-    
+    <label for="High">&nbsp; &nbsp; High</label> <br> <br>
     <button type="submit" style="font-family:'ABeeZee'; font-weight:'bold'; font-size:16px">Submit</button>
     </form>  
 </div>
