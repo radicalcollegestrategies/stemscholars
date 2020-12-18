@@ -7,8 +7,8 @@ pic: /images/tech/Python.png
 <li class="li2">You can learn python in a variety of ways:
 <ul>
 
-<li>Most popular: <a href="https://www.codecademy.com/learn/learn-python-3" target="_blank">Online course by CodeAcademy</a>, or it's <a href="https://www.codecademy.com/learn/learn-python" target="_blank">free version in Python 2</a>. <br>
-<div style="font-size:12px"><b>Note:</b> There are <a href="https://learn.onemonth.com/python-2-vs-python-3/">minor differences between Python 2 & 3</a>. You can always do the free course (Python 2) but write your code in Python 3. </div></li>
+<li>Most popular: Online <a href="https://www.codecademy.com/learn/learn-python-3" target="_blank">Python 3 course by CodeAcademy</a>, or it's <a href="https://www.codecademy.com/learn/learn-python" target="_blank">free version using Python 2</a>. <br>
+<div style="font-size:12px"><b>Note:</b> There are <a href="https://learn.onemonth.com/python-2-vs-python-3/">minor differences between Python 2 & 3</a>. You can always do the free Python2 course but write your code in Python 3. </div></li>
 
 <li><a href="https://www.youtube.com/watch?v=Ozrduu2W9B8&list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK" target="_blank">Net Ninja YouTube Channel</a></li>
 
