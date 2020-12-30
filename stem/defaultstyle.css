@@ -233,9 +233,10 @@ ul.yes, ul.no {
 }
 
 ul.yes li:before { content:"\2713\0020"; color:green} 
-ul.no li:before { content:"\2717\0020"; color:rgb(129, 3, 3)} 
 ul.yes ul li:before {content: none}
 ul.yes ul.aboutl2 {list-style-type: circle}
+
+ul.no li:before { content:"\2717\0020"; color:rgb(129, 3, 3)} 
 ul.no ul li:before {content: none}
 ul.no ul.aboutl2 {list-style-type: circle}
 

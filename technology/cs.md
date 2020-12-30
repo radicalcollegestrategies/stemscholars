@@ -5,17 +5,44 @@ title: Computer Science
 h2: Technology
 ---
 
-<section50>
+<section50short>
 <h2>What is Computer Science?</h2> 
+<p>Computer Science is the study of computers and computing as well as their theoretical and practical applications. The first step to learning Computer Science is "coding", which helps us communicate with computers. Coding is similar to any other task, for example, like writing an essay. The analogy below explains how:</p>
+
+<div class="section50left">
+  <h4>Essay</h4>
+  <p>When you write an essay, you'll need 3 parts:</p>
+  <ul class="disc16l1">
+  <li>An editor to write the essay on, e.g., a paper or Google Doc </li>
+  <li>A language to express yourself, such as English</li>
+  <li>The logic or flow of the essay, which explains your point to the audience</li>
+  </ul>
+
+</div>
+
 <div class="section50right">
-    <iframe src="https://www.youtube.com/embed/CvSOaYi89B4" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
+  <h4>Coding</h4>
+  <p>When you write your code, you need exactly the same parts:</p>
+  <ul class="disc16l1">
+  <li>An editor to write your code in</li>
+  <li>A programming language</li>
+  <li>The logic of the program that explains the computer what to do</li>
+  </ul>
+  <p>Each of these parts is explained below</p>
+</div>
+
+</section50short>
+
+<section50>
+<h2>Code Editors / IDEs</h2>
+<div class="section50right">
+    <iframe src="https://www.youtube.com/embed/Whps_IeaetM" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
 </div>
 
 <div class="section50left">
-    <p>Learning Computer Science or "learning to code" is synonymous with learning algorithms.</p>
-    <p>An <b>algorithm</b> is a set of steps, or "logic", for a computer program to accomplish a task.  Algorithms can range from simple, like: </p>
-    <p style="font-style:italic;text-align:center;">if ... then do ... else do ...</p>
-    <p> to complex ones like Google's PageRank to give you the most relevant results for your search queries.</p>
+    <p>An Integraged Development Environment (IDE) is a software you install on your PC or Mac to write and debug your code easily. It's best to use an IDE that supports multiple languages, so it's one less thing to learn as you become more advanced in your programming.</p>
+    <p>We highly recommend using <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>, a.k.a. VSCode, because it supports many languages, is user friendly for debugging and is integrated with Git. </p>
+    <p>If you prefer to use an IDE on a web browser, e.g., if you're working on a Chromebook or if you like to access your programs from multiple computers, then use <a href="https://codenvy.com/" target="_blank">Code Envy</a>.</p>
 </div>
 </section50>
 
@@ -33,17 +60,21 @@ h2: Technology
 </section50>
 
 <section50>
-<h2>Code Editors / IDEs</h2>
+<h2>Program Logic / Algorithm</h2> 
 <div class="section50right">
-    <iframe src="https://www.youtube.com/embed/Whps_IeaetM" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
+    <iframe src="https://www.youtube.com/embed/CvSOaYi89B4" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
 </div>
 
 <div class="section50left">
-    <p>An Integraged Development Environment (IDE) is a software you install on your PC or Mac to write and debug your code easily. It's best to use an IDE that supports multiple languages, so it's one less thing to learn as you become more advanced in your programming.</p>
-    <p>We highly recommend using <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>, a.k.a. VSCode, because it supports many languages, is user friendly for debugging and is integrated with Git. </p>
-    <p>If you prefer to use an IDE on a web browser, e.g., if you're working on a Chromebook or if you like to access your programs from multiple computers, then use <a href="https://codenvy.com/" target="_blank">Code Envy</a>.</p>
+    <p>A big part of Computer Science is learning algorithms.</p>
+    <p>An <b>algorithm</b> is a set of steps, or "logic", for a program to accomplish a task.  Algorithms can range from simple, like: </p>
+    <p style="font-style:italic;text-align:center;">if ... then do ... else do ...</p>
+    <p> to complex ones like Google's PageRank to give you the most relevant results for your search queries.</p>
+    <p>An algorithm is independent of the programming language, though some languages make it easier to code certain kinds of algorithms.</p>
 </div>
 </section50>
+
+
 <br>
 {% for comp in site.coding %}  
 <section50> 
