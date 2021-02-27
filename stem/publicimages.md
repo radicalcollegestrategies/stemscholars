@@ -8,7 +8,6 @@
 * Logo: https://www.needpix.com/photo/download/1183329/gold-waving-abstract-background-design-color-business-yellow-golden 
 * Subscribe: https://pixabay.com/illustrations/subscribe-youtube-channel-4947571/ 
 * Youtube: https://pixabay.com/illustrations/youtube-social-networks-logo-3d-2712573/ 
-* NavBar Home: https://www.needpix.com/photo/download/522328/home-start-top-icon-free-vector-graphics-free-pictures-free-photos-free-images-royalty-free 
 * NavBar: About Us: https://pixy.org/4176572/ Colors: (RGB) = (0, 150, 175) = 0096af
 * Under Construction: https://www.needpix.com/photo/538093/maintenance-under-construction-web-site-web-page-repairs-internet-building-logo-icon 
 * Building Sets: https://pixabay.com/illustrations/lego-lego-background-bricks-truck-3625194/  https://pixabay.com/service/license/ -- free for commercial and noncommercial use, Attribution is not required. 
