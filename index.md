@@ -31,35 +31,38 @@ h2: Achieve excellence in any area of STEM
     <p>You are in the right place! We will <b>get you started</b> and <b>become advanced</b> in any area of STEM you're interested in.</p>
   </div>
 </section50>
+<br>
 
 <section50>
-  <h2>This Week's Highlights</h2>
-  <div class="newsletter">
-    <p style="text-align:center; padding:0; margin:0; ">Subscribe to our weekly newsletter to get the featured videos and puzzles in your inbox! </p> 
-    <p style="text-align:center; font-size:12px; padding-top:0; margin-top:0; line-height:12px">We never spam or sell your email address. Please enter parent's email if you're under 13. We would love your feedback on this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZABLed8p2nQ6cj5IQTWBrBPhapgCUXUeQHEDwyRACregmcg/viewform?usp=sf_link" target="_blank">Google Form</a></p>
+  <div class="section50left">
+  <h2><a href="https://groups.google.com/g/stem-scholars" target="_blank">Subscribe to our newsletter!</a></h2>
+    <p style="text-align:center; padding:0; margin:0; ">Get fun videos and puzzles in your inbox!<br>Never miss a STEM event! </p> 
+<br>
 
+<div style="margin-left:140px; font-size:14px">
     <form action="https://getform.io/f/6f25ddc3-5307-452d-9aae-b330200ba1d5" method="POST">
-    <label for="email">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Email:</b></label>
-    <input type="email" name="email" required>
+    <label for="email"><b>Email:</b></label>
+    <input type="email" name="email" required> <br> <br>
 
-    <label for="Grade Level:">&nbsp; &nbsp; &nbsp; &nbsp;<b>Grade Level:</b></label>
+    <label for="Grade Level:"><b>Grade Level:</b></label> <br> 
 
-    <label for="Elementary">&nbsp; &nbsp; Elementary</label>
-    <input type="radio" id="Elementary" name="grade" value="Elementary" required>
-
-    <label for="Middle">&nbsp; &nbsp; Middle</label>
-    <input type="radio" id="Middle" name="grade"  value="Middle">
-
-    <label for="High">&nbsp; &nbsp; High</label>
-    <input type="radio" id="High" name="grade" value="High">
-    &nbsp; &nbsp; 
+    <input type="radio" id="Elementary" name="grade" value="Elementary" required> <label for="Elementary">&nbsp; &nbsp; Elementary</label> <br>
+    <input type="radio" id="Middle" name="grade"  value="Middle"> 
+    <label for="Middle">&nbsp; &nbsp; Middle</label> <br>
+    <input type="radio" id="High" name="grade" value="High"> 
+    <label for="High">&nbsp; &nbsp; High</label> <br> <br>
     <button type="submit" style="font-family:'ABeeZee'; font-weight:'bold'; font-size:16px">Submit</button>
     </form>  
+</div>
     <br>
+    <p style="text-align:center; font-size:12px; padding-top:0; margin-top:0; line-height:12px">We never spam or sell your email address. <br> Please enter parent's email if you're under 13. <br> We would love your feedback on this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZABLed8p2nQ6cj5IQTWBrBPhapgCUXUeQHEDwyRACregmcg/viewform?usp=sf_link" target="_blank">Google Form</a></p>
   </div>
 
-  <br>
-  <div class="section33">
+ <div class="section50right">
+ <a href="https://groups.google.com/g/stem-scholars" target="_blank"><img src="/images/stem/Newsletter.png" height="380" width="auto"></a>
+ </div>
+
+   <!--div class="section33">
   <p style="text-align:center;color: #0960be;"><b>Elementary School</b><br>
   Tricky math problem!</p>
   <iframe src="https://www.youtube.com/embed/1tQWm_QYYwA" scrolling="no" allowfullscreen="" width="325" height="180" frameborder="0"><br/></iframe>
@@ -75,17 +78,17 @@ h2: Achieve excellence in any area of STEM
   <p style="text-align:center;color: #0960be;"><b>High School</b><br>
   The Evil Wizard Riddle!</p>
   <iframe src="https://www.youtube.com/embed/OmUjIHOPnOw" scrolling="no" allowfullscreen="" width="325" height="180" frameborder="0"><br/></iframe>
-  </div>
+  </div-->
+  
 </section50>
 
-<section50short><p style="padding-top:10px; text-align:center; font-style:italic">Missed a Newsletter? Find it in the <a href="/newsarchive/">archives</a></p>
-
+<!--section50short>
 <hr style="width:990px;float:center;color:#ffffff">
-</section50short>
+</section50short-->
 
 <br>
 <section50>
-  <div class="section50left">
+  <div class="section50right">
     <h2>Why should everybody <br>learn STEM?</h2>
     <p style="text-align:center; font-style:italic;"> "If you learn STEM, you’ll be able to create super cool things." </p>
 
@@ -95,7 +98,7 @@ h2: Achieve excellence in any area of STEM
 
     <p style="text-align:center; font-style:italic;">"STEM is not just a subject at school. <br> It's a way of thinking and doing." </p>
   </div>
-  <div class="section50right">
+  <div class="section50left">
     <br>
     <iframe src="https://www.youtube.com/embed/8KDX6dHr97U" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
     <!--a href="https://www.youtube.com/watch?v=8KDX6dHr97U" target="_blank">
@@ -105,11 +108,11 @@ h2: Achieve excellence in any area of STEM
 </section50>
 
 <section50>
-  <div class="section50left">
+  <div class="section50right">
     <br>
     <iframe src="https://www.youtube.com/embed/fH5iLx_jCUk" scrolling="no" allowfullscreen="" width="450" height="250" frameborder="0"><br/></iframe>
   </div>
-  <div class="section50right">
+  <div class="section50left">
     <h2>STEM Careers</h2>
     <p style="text-align:center; font-style:italic;">STEM education teaches:<br>
     Problem Solving ... Critical Thinking ... Research ... Creativity</p>
@@ -120,7 +123,7 @@ h2: Achieve excellence in any area of STEM
 </section50>
 
 <section50>
-  <div class="section50left">
+  <div class="section50right">
     <h2>I wanna do STEM but ...</h2> 
     <ul class="disc" style="padding-left:40px"> 
     <li>Where do I start?</li>
@@ -129,7 +132,7 @@ h2: Achieve excellence in any area of STEM
     <li>I'm applying to colleges. What major do I pick?</li>
     </ul>
   </div>
-  <div class="section50right">
+  <div class="section50left">
   <img style="width:300px" src="/images/stem/Maze.png">
   <div class="license">
    <a href="https://www.wannapik.com/vectors/5479" target="_blank">Image</a>
@@ -139,7 +142,7 @@ h2: Achieve excellence in any area of STEM
 </section50>
 
 <section50>
-  <div class="section50left" style="padding-top: 50px;">
+  <div class="section50right" style="padding-top: 50px;">
     <a href="https://www.youtube.com/channel/UClYU2cna8LvmSB6tULJbPPA/?sub_confirmation=1" target="_blank">
     <img style="width:350px" src="/images/stem/Subscribe.png">
     </a>
@@ -148,7 +151,7 @@ h2: Achieve excellence in any area of STEM
       <a href="https://www.freepikcompany.com/legal#nav-freepik" target="_blank">licensed</a> from Freepik
     </div>
   </div>
-  <div class="section50right">
+  <div class="section50left">
   <br><br>
     <h2>You're lucky you found us!</h2>   
     <ul class="aboutl1" style="padding-left:0px"> 
