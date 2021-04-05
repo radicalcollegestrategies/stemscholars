@@ -1,8 +1,9 @@
 ---
-heading: "Beginners: Learn Python"
+heading: "Beginner: Learn Python"
 hash: python
 grades: 6+
 pic: /images/tech/Python.png
+link: https://www.codecademy.com/learn/learn-python-3
 ---
 <li class="li2">You can learn python in a variety of ways:
 <ul>

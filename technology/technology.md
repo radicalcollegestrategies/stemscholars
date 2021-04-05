@@ -87,9 +87,21 @@ h2: Logic and Coding
 
 </section50short>
 
-<section50>
+<section50short>
 <h2>Middle and High School: Grades 6-12</h2>
-<p>Technology is a vast field that enables you to express your creativity in many different ways. If you enjoy Logic and Math, you should explore learning Computer Science, where you can learn to code with Python and other coding languages. If you have an artistic brain, then explore designing websites, apps, animations, virtual reality games and much more! There is no reason to limit yourself to one or the other -- you can enjoy both!</p>
+<p style="padding-left:75px">Technology is a vast field that enables you to express your creativity in many different ways. <br>There is no reason to limit yourself to one or the other -- you can enjoy both! </p>
+
+<div class="section50left">
+<p style="padding-left:75px">If you enjoy <b>Logic and Math</b>, then learn <b>Computer Science</b>, where you can code algorithms in Python and other languages.
+</p>
+</div>
+<div class="section50right">
+<p style="float:left; padding-right:100px">If you have an <b>artistic</b> touch, then <b>design and create</b> videos, websites, apps, animations, CAD, virtual reality games and much more!
+</p>
+</div>
+
+</section50short>
+<section50short>
 
 <div class="navbar2">
   <div class="center" style="width:900px">
@@ -113,5 +125,5 @@ h2: Logic and Coding
   </div>
 </div>
 
-</section50>
+</section50short>
 <br>

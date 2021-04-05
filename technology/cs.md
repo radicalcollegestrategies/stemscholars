@@ -7,29 +7,13 @@ h2: Technology
 
 <section50short>
 <h2>What is Computer Science?</h2> 
-<p>Computer Science is the study of computers and computing as well as their theoretical and practical applications. The first step to learning Computer Science is "coding", which helps us communicate with computers. Coding is similar to any other task, for example, like writing an essay. The analogy below explains how:</p>
-
-<div class="section50left">
-  <h4>Essay</h4>
-  <p>When you write an essay, you'll need 3 parts:</p>
-  <ul class="disc16l1">
-  <li>An editor to write the essay on, e.g., a paper or Google Doc </li>
-  <li>A language to express yourself, such as English</li>
-  <li>The logic or flow of the essay, which explains your point to the audience</li>
-  </ul>
-
-</div>
-
-<div class="section50right">
-  <h4>Coding</h4>
-  <p>When you write your code, you need exactly the same parts:</p>
-  <ul class="disc16l1">
+<p>Computer Science is the study of computers and computing as well as their theoretical and practical applications. The first step to learning Computer Science is "coding", which helps us communicate with computers. When you write your code, you need 3 parts:</p>
+  <ul class="disc16l1" style="padding-left:100px">
   <li>An editor to write your code in</li>
   <li>A programming language</li>
   <li>The logic of the program that explains the computer what to do</li>
   </ul>
   <p>Each of these parts is explained below</p>
-</div>
 
 </section50short>
 
@@ -74,6 +58,12 @@ h2: Technology
 </div>
 </section50>
 
+<section50short>
+  <div class="note">
+    <p style="text-align:center; padding-top:13px">The section below delves deep into algorithmic CS. If you have an <b>artistic</b> touch, then explore the <br><a href="/techart/" target="_blank">Artistic Tech</a> page to <b>design and create</b> videos, websites, apps, animations, CAD and video games!</p>
+  </div>
+</section50short>
+
 
 <br>
 {% for comp in site.coding %}  
@@ -91,11 +81,13 @@ h2: Technology
   <div class="section50left">
   {% endif %}
 
+  <a href="{{ comp.link }}" target="_blank">
     {% if comp.picsmall %}
-      <img style="width:350px" src="{{ comp.pic }}">
+      <img style="width:300px" src="{{ comp.pic }}">
     {% else %}
       <img src="{{ comp.pic }}">
     {% endif %}
+  </a>
 
     {% if comp.piccreator %}
       <div class="license">(
@@ -108,7 +100,7 @@ h2: Technology
   </div>
 
   {% if mod == 0 %}
-  <div class="section50left">
+  <div class="section50left" style="padding-left:20px">
   {% else %}
   <div class="section50right">
   {% endif %}
@@ -121,8 +113,3 @@ h2: Technology
 </section50>
 <br>
 {% endfor %}
-
-<section50>
-<h2>More recommendations coming soon!</h2> 
-<img class="center" src="/images/ComingSoon.png" style="width:600px; padding-top:50px;">
-</section50>
