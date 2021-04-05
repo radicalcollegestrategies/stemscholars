@@ -60,7 +60,7 @@ h2: Technology
 
 <section50short>
   <div class="note">
-    <p style="text-align:center; padding-top:13px">The section below delves deep into algorithmic CS. If you have an <b>artistic</b> touch, then explore the <br><a href="/techart/" target="_blank">Artistic Tech</a> page to <b>design and create</b> videos, websites, apps, animations, CAD and video games!</p>
+    <p style="text-align:center; padding-top:13px">The section below delves deep into algorithmic CS. If you have an <b>artistic</b> touch, then explore the <br><a href="/techart/" target="_blank">Artistic Tech</a> page to design and create videos, websites, apps, animations, CAD and video games!</p>
   </div>
 </section50short>
 
@@ -100,7 +100,8 @@ h2: Technology
   </div>
 
   {% if mod == 0 %}
-  <div class="section50left" style="padding-left:20px">
+  <!--div class="section50left" style="padding-left:20px"-->
+  <div class="section50left">
   {% else %}
   <div class="section50right">
   {% endif %}
