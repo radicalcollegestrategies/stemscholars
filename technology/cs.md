@@ -83,7 +83,7 @@ h2: Technology
 
   <a href="{{ comp.link }}" target="_blank">
     {% if comp.picsmall %}
-      <img style="width:300px" src="{{ comp.pic }}">
+      <img style="width:350px" src="{{ comp.pic }}">
     {% else %}
       <img src="{{ comp.pic }}">
     {% endif %}
