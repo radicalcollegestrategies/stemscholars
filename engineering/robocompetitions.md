@@ -84,6 +84,7 @@ Don't worry about winning - just enjoy the experience. </p>
 
 <section50short>
 <h3>High School: Grades 9-12</h3>
+<p>You can participate in a traditional robotics competition (below) or build your own engineering device and present it at your local <a href="/science/#isef" target="_blank">Science and Engineering Fair</a>.</p>
 <p>All the FIRST competitions like FTC and FRC are intense and require a lot of time commitment. For example, during the build season for FRC, you may be working on your robot for about 15-20 hours a week during a 2-3 month period. Another issue is that there are very few FTC and FRC teams out there, so you may have to look for a team outside your school and your immediate community. </p>
 <p><b>Deciding questions:</b></p>
 <ul class="disc16l1">
@@ -146,3 +147,13 @@ Don't worry about winning - just enjoy the experience. </p>
 </section50>
 <br>
 {% endfor %}
+
+<section50short>
+  <div class="note" style="height:70px;">
+    <h3 style="line-height:1; ">Science and Engineering Fair</h3>
+    <p style="text-align:center; ">You can present your original robotics or engineering device at your local <a href="/science/#isef" target="_blank">Science and Engineering Fair</a>.
+    </p>
+  </div>
+</section50short>
+
+<br>

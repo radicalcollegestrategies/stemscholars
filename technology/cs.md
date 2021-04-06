@@ -114,3 +114,13 @@ h2: Technology
 </section50>
 <br>
 {% endfor %}
+
+<section50short>
+  <div class="note" style="height:70px;">
+    <h3 style="line-height:1; ">Advanced: Science and Engineering Fair</h3>
+    <p style="text-align:center; ">You can present your original research in Computer Science or Data Science at the local <a href="/science/#isef" target="_blank">Science and Engineering Fair</a>.
+    </p>
+  </div>
+</section50short>
+
+<br>

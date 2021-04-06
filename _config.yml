@@ -40,7 +40,8 @@ collections:
   robocomp:
   logic:
   block:
-  elemsci:
+  scielem:
+  scimid:
   mathcomp:
   math:
   electronics:

@@ -74,6 +74,15 @@ h2: Problem Solving
 <br>
 {% endfor %}
 
+<section50short>
+  <div class="note" style="height:70px;">
+    <h3 style="line-height:1; ">Science and Engineering Fair</h3>
+    <p style="text-align:center; ">You can present your original math research at your local <a href="/science/#isef" target="_blank">Science and Engineering Fair</a>.
+    </p>
+  </div>
+</section50short>
+
+<br>
 
 <!--section50>
 <h2>Accelerating in school curriculum</h2>
