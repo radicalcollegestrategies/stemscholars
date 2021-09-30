@@ -5,7 +5,7 @@ title: Science
 h2: Physics, Chemistry and Biology
 ---
 
-<section50short>
+<section50short> 
   <div class="note">
     <p style="text-align:center; padding-top:13px">If you enjoy Science, you're likely to love Engineering. Engineering is a natural extension of Science, <br>and includes activities like electronics and robotics. Explore <a href="/engineering/" target="_blank">our Engineering page</a> for more.</p>
   </div>
