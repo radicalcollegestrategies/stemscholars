@@ -25,12 +25,14 @@ title: Meet the STEM Scholars
 <li> James Logan High School, Class of 2022 </li>
 <li> Experienced Programmer: 
   <ul class="aboutl2">
-  <li> USA Computing Olympiad Platinum Level: <br> Ranked in the top 300 high school programmers in the nation </li> 
+  <li> Silver medalist at European Girls Olympiad in Informatics (EGOI): 
+      <br> &nbsp; &nbsp; &nbsp; &nbsp; Ranked 16th internationally and 2nd nationally among competitive programming girls</li>
+  <li> USA Computing Olympiad Platinum Level </li> 
   <li> Instructor for the MIT App Inventor class at AAUW's NHUSD STEM Discovery Day (2020) </li>
   </ul> </li>
 <li> Experienced in Math Competitions:
   <ul class="aboutl2"> 
-  <li> AIME Qualifier 2020, AMC10, AMC8, MOEMS, MathCounts </li>
+  <li> AIME Qualifier 2020, 2021, AMC10, AMC8, MOEMS, MathCounts </li>
   </ul> </li>
 <li> Experienced in Robotics:
   <ul class="aboutl2">
@@ -40,7 +42,7 @@ title: Meet the STEM Scholars
   </ul> </li>
 <li> Experienced Volunteer: 
   <ul class="aboutl2"> 
-  <li> Presidential Volunteer Service Gold Award winner (2019, 2020) </li> 
+  <li> Presidential Volunteer Service Gold Award winner (2019, 2020, 2021) </li> 
   </ul> </li> 
 </ul>
 </div>
@@ -130,7 +132,9 @@ title: Meet the STEM Scholars
 <h3 style="text-align:center">Other Contributers:</h3>
 <div class="row2">
   <div style="width:500px">Space Cookies: Ananya Balaji, Amanda Zhang, Kanika Thakur</div>
-  <div style="width:300px">Fremont Christian School: Neil Makur</div>
+  <div style="width:300px">Fremont Christian School: Neil Makur</div>  
+  <div style="width:500px">Archbishop Mitty High School: Vedansh Goenka </div>
+  <div style="width:300px"> </div>  
 </div>
 
 
